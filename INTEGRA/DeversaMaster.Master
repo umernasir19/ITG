@@ -1,0 +1,155 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="DeversaMaster.master.vb" Inherits="Integra.DeversaMaster" %>
+<%@ Register Assembly="Telerik.Web.UI" Namespace="Telerik.Web.UI" TagPrefix="telerik" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+   <title>Euro Centra B2B-INTEGRA ERP</title>
+   <link type="text/css" rel="stylesheet" href="App_Themes/Blue/NewCSS/NewStyle.css" />  
+  <link  type="text/css"  rel="stylesheet" href="App_Themes/Blue/StyleSheet.css" /> 
+  <link href="StyleSheet/StyleSheet.css" rel="stylesheet" type="text/css" />
+  <script type="text/javascript"  language="JavaScript" src="scripts/pupdate.js"></script>
+  <link rel="stylesheet" href="scripts/ThickBox.css" type="text/css" media="screen" />
+  <link type="text/css" rel="stylesheet" href="App_Themes/Blue/MenuCSS.css" />  
+  <link type="text/css" rel="stylesheet" href="StyleSheet/NewLayout.css" />
+  <link type="text/css" rel="stylesheet" href="css/VAF.css" />
+    <link type="text/css" rel="stylesheet" href="css/buttons.css" />
+
+    <link href="css/styleDeversa.css" rel="stylesheet" type="text/css" />
+    <link href="css/deversa.css" rel="stylesheet" type="text/css" />
+<link href="css/zoom.css" rel="stylesheet" type="text/css" />
+</head>
+<body onkeydown = "return (event.keyCode!=13);">
+
+    <form id="form1" runat="server">
+     
+    <telerik:RadScriptManager ID="RadScriptManager1" Runat="server"/>
+    <telerik:RadFormDecorator ID="RadFormDecorator1" Runat="server" DecoratedControls="All" EnableRoundedCorners="False"></telerik:RadFormDecorator>
+    <telerik:RadToolTipManager runat="server" ID="ToolTipManager" AutoTooltipify="true"
+        Position="TopRight" >
+    </telerik:RadToolTipManager>
+    <div id="MainDiv">
+            <div id="PageLeftBorder">
+                <div id="PageRightBorder">
+                    <!--  Message Section Starts Here  -->
+                    <!--  Message Section Ends Here  -->
+                    <div id="PageContents">
+                        <!--  Header Section Starts Here  -->
+                        <div id="Header"> 
+                         <table   class="maintableGGG1"   >
+                        <tr>
+        <td style =" width:800px;">
+        </td>
+        <td style =" width:300px;">
+          <table  style =" vertical-align :top ; width:250px;" >
+        <tr><td style="width:250px" align="right"  >
+  <asp:Label ID="lblMessage" runat="server" style="font-family:Arial; font-size:14px ; font-weight:bolder ; color:#800000 ;" >
+        </asp:Label> 
+        <asp:Label ID="lblUser" runat="server" style="font-family:Arial; font-size:14px ; font-weight:bolder ; color:#800000 ;" >
+        </asp:Label> 
+        <asp:ImageButton ID="Impak" runat="server" CausesValidation="false" ImageUrl="~/App_Themes/Blue/Images/logout.gif" TabIndex="1" />
+        </td>
+        </tr>       
+        </table>               
+        <table style =" vertical-align :top ; width:250px;">
+        <tr>
+        <td style="width:250px" align="right"  >
+            <asp:DropDownList ID="cmbForm"  runat="server" AutoPostBack="true">
+            </asp:DropDownList>
+        </td>
+        </tr>
+        </table> 
+        </td>
+        </tr>
+         </table>                                    
+            </div>
+                    
+                        
+      <%-- New Menu Start from here--%>
+      <div class="qsf-demo-canvas">
+      <div id="MegaDropDown">
+
+     
+      <telerik:RadMenu runat="server" ID="RadMenu1"   
+                Width="930px" EnableShadows="True" BorderStyle="None" EnableRoundedCorners="True" 
+              Style="z-index: 2" EnableRootItemScroll="True" 
+              OnItemClick="RadMenu1_ItemClick" Skin="WebBlue" >
+           </telerik:RadMenu>
+      
+      </div>
+      </div>
+     
+      <%-- Menu End--%>
+                        <!--  Navigation Section Ends Here  -->
+                        <!--  Body Section Starts Here  -->
+                         <table border="0" cellpadding="0" cellspacing="0" width="930px">
+                            <tr>
+                            <td id="Td1" align="left" runat="server" 
+                                    style="background-color:#D9D9D9; color:#006699; font-family:Verdana; font-weight:bold; height: 18px; " 
+                                    bgcolor="#006699" >
+                         <marquee behavior="scroll" direction="left"  scrollamount="3" onmouseover="this.stop();" onmouseout="this.start();">
+                           <asp:Label ID="lblPageHead" runat="server"  ></asp:Label>
+                           </marquee> 
+                          <%--  <div id="container">
+                             <div class="writer"><asp:Label ID="lblPageHead" runat="server"  ></asp:Label> </div>
+                               </div>--%>
+                               </td>                            
+                            </tr>
+                              <tr>
+                            <td id="Td2" align="center" runat="server" style="background-color:Transparent ; color:Red ; font-family:Verdana; font-weight:bold; height: 18px; width: 926px;" >
+                          <asp:UpdatePanel id="lblErrorMsgUpdate" ChildrenAsTriggers="false" UpdateMode="Conditional"  runat="server">
+                                <ContentTemplate>
+                            <asp:Label ID="lblErrorMsg" runat="server"  ></asp:Label>
+                                </ContentTemplate> 
+                          </asp:UpdatePanel>
+                        
+                           </td>                            
+                            </tr>
+                                <tr valign="top">
+                                    
+                                    <td style="width: 930px">
+                                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                                        <div style="vertical-align:top; height: 500px; overflow:auto;width:100%;">
+	                                      </div>  
+                                        </asp:ContentPlaceHolder>
+                                    </td>
+                                 </tr>
+                            </table>
+                        <%-- <div id="Body">
+                           
+                        </div>--%>
+                        <!--  Body Section Ends Here  --><!--  Footer Section Starts Here  --><div id="Footer">
+                            <div id="FooterLinks">
+                                
+                            </div>
+                            <div id="Copyright">
+                                <big>Copyright 2013 &copy; Interactive Technologies Gateway. All Rights Reserved.</big>
+                                 <br style="line-height: 5px;" />
+                                <big>Optimize for Screen resolution 1024 by 768 pixels.</big>
+                                <br style="line-height: 5px;" />
+                                
+                              <br />
+                            </div>
+                        </div>
+                        <!--  Footer Section Ends Here  -->
+                    </div>
+                </div>
+            </div>
+        </div>
+          <telerik:RadScriptBlock ID="RadScriptBlock1" runat="server">
+        <script type="text/javascript">
+            function itemOpened(s, e) {
+                if ($telerik.isIE8) {
+                    // Fix an IE 8 bug that causes the list bullets to disappear (standards mode only)
+                    $telerik.$("li", e.get_item().get_element())
+                        .each(function () { this.style.cssText = this.style.cssText; });
+                }
+            }
+        </script>
+    </telerik:RadScriptBlock>
+    </form>
+</body>
+  <script type="text/javascript"  language="JavaScript" src="JavaScript/writing.js"></script>
+</html>

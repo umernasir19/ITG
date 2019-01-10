@@ -1,0 +1,16 @@
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\bin\bin\AjaxControlToolkit.dll
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\bin\bin\SmartControls.dll
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\bin\bin\Telerik.Web.UI.dll
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\bin\bin\Telerik.Web.UI.Skins.dll
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\bin\INTEGRA.dll
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\bin\INTEGRA.pdb
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\bin\INTEGRA.xml
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\bin\AjaxControlToolkit.dll
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\bin\SmartControls.dll
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\bin\Telerik.Web.UI.dll
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\obj\Release\Integra.Resources.resources
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\obj\Release\INTEGRA.vbproj.GenerateResource.Cache
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\obj\Release\INTEGRA.dll
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\obj\Release\INTEGRA.xml
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\obj\Release\INTEGRA.pdb

@@ -1,0 +1,1177 @@
+F:\ECP\INTEGRA\INTEGRA\bin\INTEGRA.pdb
+F:\ECP\INTEGRA\INTEGRA\bin\INTEGRA.xml
+F:\ECP\INTEGRA\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+F:\ECP\INTEGRA\INTEGRA\obj\Debug\Integra.Resources.resources
+F:\ECP\INTEGRA\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+F:\ECP\INTEGRA\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+F:\ECP\INTEGRA\INTEGRA\obj\Debug\INTEGRA.dll
+F:\ECP\INTEGRA\INTEGRA\obj\Debug\INTEGRA.xml
+F:\ECP\INTEGRA\INTEGRA\obj\Debug\INTEGRA.pdb
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\INTEGRA\INTEGRA\bin\INTEGRA.dll
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\INTEGRA\INTEGRA\bin\INTEGRA.pdb
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\INTEGRA\INTEGRA\bin\INTEGRA.xml
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\INTEGRA\INTEGRA\bin\SmartControls.dll
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\INTEGRA\INTEGRA\bin\Telerik.Web.UI.dll
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\INTEGRA\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\INTEGRA\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\INTEGRA\INTEGRA\obj\Debug\Integra.Resources.resources
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\INTEGRA\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\INTEGRA\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\INTEGRA\INTEGRA\obj\Debug\INTEGRA.dll
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\INTEGRA\INTEGRA\obj\Debug\INTEGRA.xml
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\INTEGRA\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\ECP 12-4-13\INTEGRA\INTEGRA\bin\INTEGRA.pdb
+D:\ECP 12-4-13\INTEGRA\INTEGRA\bin\INTEGRA.xml
+D:\ECP 12-4-13\INTEGRA\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+D:\ECP 12-4-13\INTEGRA\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\ECP 12-4-13\INTEGRA\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+D:\ECP 12-4-13\INTEGRA\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+D:\ECP 12-4-13\INTEGRA\INTEGRA\obj\Debug\INTEGRA.dll
+D:\ECP 12-4-13\INTEGRA\INTEGRA\obj\Debug\INTEGRA.xml
+D:\ECP 12-4-13\INTEGRA\INTEGRA\obj\Debug\INTEGRA.pdb
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\Working\INTEGRA\INTEGRA\bin\INTEGRA.dll
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\Working\INTEGRA\INTEGRA\bin\INTEGRA.pdb
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\Working\INTEGRA\INTEGRA\bin\INTEGRA.xml
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\Working\INTEGRA\INTEGRA\bin\SmartControls.dll
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\Working\INTEGRA\INTEGRA\bin\Telerik.Web.UI.dll
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\Working\INTEGRA\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\Working\INTEGRA\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\Working\INTEGRA\INTEGRA\obj\Debug\Integra.Resources.resources
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\Working\INTEGRA\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\Working\INTEGRA\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\Working\INTEGRA\INTEGRA\obj\Debug\INTEGRA.dll
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\Working\INTEGRA\INTEGRA\obj\Debug\INTEGRA.xml
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\Working\INTEGRA\INTEGRA\obj\Debug\INTEGRA.pdb
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\Final Working\INTEGRA\INTEGRA\bin\INTEGRA.dll
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\Final Working\INTEGRA\INTEGRA\bin\INTEGRA.pdb
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\Final Working\INTEGRA\INTEGRA\bin\INTEGRA.xml
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\Final Working\INTEGRA\INTEGRA\bin\SmartControls.dll
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\Final Working\INTEGRA\INTEGRA\bin\Telerik.Web.UI.dll
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\Final Working\INTEGRA\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\Final Working\INTEGRA\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\Final Working\INTEGRA\INTEGRA\obj\Debug\Integra.Resources.resources
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\Final Working\INTEGRA\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\Final Working\INTEGRA\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\Final Working\INTEGRA\INTEGRA\obj\Debug\INTEGRA.dll
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\Final Working\INTEGRA\INTEGRA\obj\Debug\INTEGRA.xml
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Version\Final Working\INTEGRA\INTEGRA\obj\Debug\INTEGRA.pdb
+E:\Muhammad zakir\INTEGRA\INTEGRA\bin\INTEGRA.pdb
+E:\Muhammad zakir\INTEGRA\INTEGRA\bin\INTEGRA.xml
+E:\Muhammad zakir\INTEGRA\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+E:\Muhammad zakir\INTEGRA\INTEGRA\obj\Debug\Integra.Resources.resources
+E:\Muhammad zakir\INTEGRA\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+E:\Muhammad zakir\INTEGRA\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+E:\Muhammad zakir\INTEGRA\INTEGRA\obj\Debug\INTEGRA.dll
+E:\Muhammad zakir\INTEGRA\INTEGRA\obj\Debug\INTEGRA.xml
+E:\Muhammad zakir\INTEGRA\INTEGRA\obj\Debug\INTEGRA.pdb
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Working\INTEGRA\INTEGRA\bin\INTEGRA.dll
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Working\INTEGRA\INTEGRA\bin\INTEGRA.pdb
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Working\INTEGRA\INTEGRA\bin\INTEGRA.xml
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Working\INTEGRA\INTEGRA\bin\AjaxControlToolkit.dll
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Working\INTEGRA\INTEGRA\bin\SmartControls.dll
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Working\INTEGRA\INTEGRA\bin\Telerik.Web.UI.dll
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Working\INTEGRA\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Working\INTEGRA\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Working\INTEGRA\INTEGRA\obj\Debug\Integra.Resources.resources
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Working\INTEGRA\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Working\INTEGRA\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Working\INTEGRA\INTEGRA\obj\Debug\INTEGRA.dll
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Working\INTEGRA\INTEGRA\obj\Debug\INTEGRA.xml
+E:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Working\INTEGRA\INTEGRA\obj\Debug\INTEGRA.pdb
+C:\Users\Muhammad Zakir\Desktop\INTEGRA\INTEGRA\bin\INTEGRA.dll
+C:\Users\Muhammad Zakir\Desktop\INTEGRA\INTEGRA\bin\INTEGRA.pdb
+C:\Users\Muhammad Zakir\Desktop\INTEGRA\INTEGRA\bin\INTEGRA.xml
+C:\Users\Muhammad Zakir\Desktop\INTEGRA\INTEGRA\bin\AjaxControlToolkit.dll
+C:\Users\Muhammad Zakir\Desktop\INTEGRA\INTEGRA\bin\SmartControls.dll
+C:\Users\Muhammad Zakir\Desktop\INTEGRA\INTEGRA\bin\Telerik.Web.UI.dll
+C:\Users\Muhammad Zakir\Desktop\INTEGRA\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+C:\Users\Muhammad Zakir\Desktop\INTEGRA\INTEGRA\obj\Debug\Integra.Resources.resources
+C:\Users\Muhammad Zakir\Desktop\INTEGRA\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Zakir\Desktop\INTEGRA\INTEGRA\obj\Debug\INTEGRA.dll
+C:\Users\Muhammad Zakir\Desktop\INTEGRA\INTEGRA\obj\Debug\INTEGRA.xml
+C:\Users\Muhammad Zakir\Desktop\INTEGRA\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Working\INTEGRA\INTEGRA\bin\INTEGRA.dll
+D:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Working\INTEGRA\INTEGRA\bin\INTEGRA.pdb
+D:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Working\INTEGRA\INTEGRA\bin\INTEGRA.xml
+D:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Working\INTEGRA\INTEGRA\bin\AjaxControlToolkit.dll
+D:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Working\INTEGRA\INTEGRA\bin\SmartControls.dll
+D:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Working\INTEGRA\INTEGRA\bin\Telerik.Web.UI.dll
+D:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Working\INTEGRA\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Working\INTEGRA\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Working\INTEGRA\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Working\INTEGRA\INTEGRA\obj\Debug\INTEGRA.dll
+D:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Working\INTEGRA\INTEGRA\obj\Debug\INTEGRA.xml
+D:\Muhammad zakir\Muhammad zakir\Before Vendor working (Integra Imran PC)\ECP Teleric\Final Working\INTEGRA\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\Muhammad zakir\Muhammad zakir\Gia\NewGIA\INTEGRA\bin\INTEGRA.dll
+D:\Muhammad zakir\Muhammad zakir\Gia\NewGIA\INTEGRA\bin\INTEGRA.pdb
+D:\Muhammad zakir\Muhammad zakir\Gia\NewGIA\INTEGRA\bin\INTEGRA.xml
+D:\Muhammad zakir\Muhammad zakir\Gia\NewGIA\INTEGRA\bin\AjaxControlToolkit.dll
+D:\Muhammad zakir\Muhammad zakir\Gia\NewGIA\INTEGRA\bin\SmartControls.dll
+D:\Muhammad zakir\Muhammad zakir\Gia\NewGIA\INTEGRA\bin\Telerik.Web.UI.dll
+D:\Muhammad zakir\Muhammad zakir\Gia\NewGIA\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\Muhammad zakir\Muhammad zakir\Gia\NewGIA\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\Muhammad zakir\Muhammad zakir\Gia\NewGIA\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\Muhammad zakir\Muhammad zakir\Gia\NewGIA\INTEGRA\obj\Debug\INTEGRA.dll
+D:\Muhammad zakir\Muhammad zakir\Gia\NewGIA\INTEGRA\obj\Debug\INTEGRA.xml
+D:\Muhammad zakir\Muhammad zakir\Gia\NewGIA\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\Muhammad zakir\Muhammad zakir\Gia\NewGIA\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\Muhammad zakir\Muhammad zakir\Gia\GIA NEW\INTEGRA\bin\INTEGRA.dll
+D:\Muhammad zakir\Muhammad zakir\Gia\GIA NEW\INTEGRA\bin\INTEGRA.pdb
+D:\Muhammad zakir\Muhammad zakir\Gia\GIA NEW\INTEGRA\bin\INTEGRA.xml
+D:\Muhammad zakir\Muhammad zakir\Gia\GIA NEW\INTEGRA\bin\AjaxControlToolkit.dll
+D:\Muhammad zakir\Muhammad zakir\Gia\GIA NEW\INTEGRA\bin\SmartControls.dll
+D:\Muhammad zakir\Muhammad zakir\Gia\GIA NEW\INTEGRA\bin\Telerik.Web.UI.dll
+D:\Muhammad zakir\Muhammad zakir\Gia\GIA NEW\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\Muhammad zakir\Muhammad zakir\Gia\GIA NEW\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\Muhammad zakir\Muhammad zakir\Gia\GIA NEW\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\Muhammad zakir\Muhammad zakir\Gia\GIA NEW\INTEGRA\obj\Debug\INTEGRA.dll
+D:\Muhammad zakir\Muhammad zakir\Gia\GIA NEW\INTEGRA\obj\Debug\INTEGRA.xml
+D:\Muhammad zakir\Muhammad zakir\Gia\GIA NEW\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\Muhammad zakir\Muhammad zakir\Gia\GIA NEW\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\Muhammad zakir\Muhammad zakir\Gia\New Gia\GIA NEW\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\Muhammad zakir\Muhammad zakir\Gia\New Gia\GIA NEW\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\Muhammad zakir\Muhammad zakir\Gia\New Gia\GIA NEW\INTEGRA\bin\INTEGRA.dll
+D:\Muhammad zakir\Muhammad zakir\Gia\New Gia\GIA NEW\INTEGRA\bin\INTEGRA.pdb
+D:\Muhammad zakir\Muhammad zakir\Gia\New Gia\GIA NEW\INTEGRA\bin\INTEGRA.xml
+D:\Muhammad zakir\Muhammad zakir\Gia\New Gia\GIA NEW\INTEGRA\bin\AjaxControlToolkit.dll
+D:\Muhammad zakir\Muhammad zakir\Gia\New Gia\GIA NEW\INTEGRA\bin\SmartControls.dll
+D:\Muhammad zakir\Muhammad zakir\Gia\New Gia\GIA NEW\INTEGRA\bin\Telerik.Web.UI.dll
+D:\Muhammad zakir\Muhammad zakir\Gia\New Gia\GIA NEW\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\Muhammad zakir\Muhammad zakir\Gia\New Gia\GIA NEW\INTEGRA\obj\Debug\INTEGRA.dll
+D:\Muhammad zakir\Muhammad zakir\Gia\New Gia\GIA NEW\INTEGRA\obj\Debug\INTEGRA.xml
+D:\Muhammad zakir\Muhammad zakir\Gia\New Gia\GIA NEW\INTEGRA\obj\Debug\INTEGRA.pdb
+E:\Nizam\GIA\GIA NEW\INTEGRA\bin\INTEGRA.dll
+E:\Nizam\GIA\GIA NEW\INTEGRA\bin\INTEGRA.pdb
+E:\Nizam\GIA\GIA NEW\INTEGRA\bin\INTEGRA.xml
+E:\Nizam\GIA\GIA NEW\INTEGRA\bin\AjaxControlToolkit.dll
+E:\Nizam\GIA\GIA NEW\INTEGRA\bin\SmartControls.dll
+E:\Nizam\GIA\GIA NEW\INTEGRA\bin\Telerik.Web.UI.dll
+E:\Nizam\GIA\GIA NEW\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+E:\Nizam\GIA\GIA NEW\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+E:\Nizam\GIA\GIA NEW\INTEGRA\obj\Debug\Integra.Resources.resources
+E:\Nizam\GIA\GIA NEW\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+E:\Nizam\GIA\GIA NEW\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+E:\Nizam\GIA\GIA NEW\INTEGRA\obj\Debug\INTEGRA.dll
+E:\Nizam\GIA\GIA NEW\INTEGRA\obj\Debug\INTEGRA.xml
+E:\Nizam\GIA\GIA NEW\INTEGRA\obj\Debug\INTEGRA.pdb
+F:\salman\gia\22 june\INTEGRA\bin\INTEGRA.dll
+F:\salman\gia\22 june\INTEGRA\bin\INTEGRA.pdb
+F:\salman\gia\22 june\INTEGRA\bin\INTEGRA.xml
+F:\salman\gia\22 june\INTEGRA\bin\AjaxControlToolkit.dll
+F:\salman\gia\22 june\INTEGRA\bin\SmartControls.dll
+F:\salman\gia\22 june\INTEGRA\bin\Telerik.Web.UI.dll
+F:\salman\gia\22 june\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+F:\salman\gia\22 june\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+F:\salman\gia\22 june\INTEGRA\obj\Debug\Integra.Resources.resources
+F:\salman\gia\22 june\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+F:\salman\gia\22 june\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+F:\salman\gia\22 june\INTEGRA\obj\Debug\INTEGRA.dll
+F:\salman\gia\22 june\INTEGRA\obj\Debug\INTEGRA.xml
+F:\salman\gia\22 june\INTEGRA\obj\Debug\INTEGRA.pdb
+F:\salman\gia\26 june 2015\INTEGRA\bin\INTEGRA.dll
+F:\salman\gia\26 june 2015\INTEGRA\bin\INTEGRA.pdb
+F:\salman\gia\26 june 2015\INTEGRA\bin\INTEGRA.xml
+F:\salman\gia\26 june 2015\INTEGRA\bin\AjaxControlToolkit.dll
+F:\salman\gia\26 june 2015\INTEGRA\bin\SmartControls.dll
+F:\salman\gia\26 june 2015\INTEGRA\bin\Telerik.Web.UI.dll
+F:\salman\gia\26 june 2015\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+F:\salman\gia\26 june 2015\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+F:\salman\gia\26 june 2015\INTEGRA\obj\Debug\Integra.Resources.resources
+F:\salman\gia\26 june 2015\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+F:\salman\gia\26 june 2015\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+F:\salman\gia\26 june 2015\INTEGRA\obj\Debug\INTEGRA.dll
+F:\salman\gia\26 june 2015\INTEGRA\obj\Debug\INTEGRA.xml
+F:\salman\gia\26 june 2015\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\Yasir\Running Applications\GIA\GIA\INTEGRA\bin\INTEGRA.dll
+D:\Yasir\Running Applications\GIA\GIA\INTEGRA\bin\INTEGRA.pdb
+D:\Yasir\Running Applications\GIA\GIA\INTEGRA\bin\INTEGRA.xml
+D:\Yasir\Running Applications\GIA\GIA\INTEGRA\bin\AjaxControlToolkit.dll
+D:\Yasir\Running Applications\GIA\GIA\INTEGRA\bin\SmartControls.dll
+D:\Yasir\Running Applications\GIA\GIA\INTEGRA\bin\Telerik.Web.UI.dll
+D:\Yasir\Running Applications\GIA\GIA\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\Yasir\Running Applications\GIA\GIA\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+D:\Yasir\Running Applications\GIA\GIA\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\Yasir\Running Applications\GIA\GIA\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+D:\Yasir\Running Applications\GIA\GIA\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+D:\Yasir\Running Applications\GIA\GIA\INTEGRA\obj\Debug\INTEGRA.dll
+D:\Yasir\Running Applications\GIA\GIA\INTEGRA\obj\Debug\INTEGRA.xml
+D:\Yasir\Running Applications\GIA\GIA\INTEGRA\obj\Debug\INTEGRA.pdb
+F:\salman\gia\22 july 2015\GIA\INTEGRA\bin\INTEGRA.dll
+F:\salman\gia\22 july 2015\GIA\INTEGRA\bin\INTEGRA.pdb
+F:\salman\gia\22 july 2015\GIA\INTEGRA\bin\INTEGRA.xml
+F:\salman\gia\22 july 2015\GIA\INTEGRA\bin\AjaxControlToolkit.dll
+F:\salman\gia\22 july 2015\GIA\INTEGRA\bin\SmartControls.dll
+F:\salman\gia\22 july 2015\GIA\INTEGRA\bin\Telerik.Web.UI.dll
+F:\salman\gia\22 july 2015\GIA\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+F:\salman\gia\22 july 2015\GIA\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+F:\salman\gia\22 july 2015\GIA\INTEGRA\obj\Debug\Integra.Resources.resources
+F:\salman\gia\22 july 2015\GIA\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+F:\salman\gia\22 july 2015\GIA\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+F:\salman\gia\22 july 2015\GIA\INTEGRA\obj\Debug\INTEGRA.dll
+F:\salman\gia\22 july 2015\GIA\INTEGRA\obj\Debug\INTEGRA.xml
+F:\salman\gia\22 july 2015\GIA\INTEGRA\obj\Debug\INTEGRA.pdb
+F:\salman\gia\10 aug 2015\INTEGRA\bin\INTEGRA.dll
+F:\salman\gia\10 aug 2015\INTEGRA\bin\INTEGRA.pdb
+F:\salman\gia\10 aug 2015\INTEGRA\bin\INTEGRA.xml
+F:\salman\gia\10 aug 2015\INTEGRA\bin\AjaxControlToolkit.dll
+F:\salman\gia\10 aug 2015\INTEGRA\bin\SmartControls.dll
+F:\salman\gia\10 aug 2015\INTEGRA\bin\Telerik.Web.UI.dll
+F:\salman\gia\10 aug 2015\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+F:\salman\gia\10 aug 2015\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+F:\salman\gia\10 aug 2015\INTEGRA\obj\Debug\Integra.Resources.resources
+F:\salman\gia\10 aug 2015\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+F:\salman\gia\10 aug 2015\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+F:\salman\gia\10 aug 2015\INTEGRA\obj\Debug\INTEGRA.dll
+F:\salman\gia\10 aug 2015\INTEGRA\obj\Debug\INTEGRA.xml
+F:\salman\gia\10 aug 2015\INTEGRA\obj\Debug\INTEGRA.pdb
+F:\salman\gia\26 aug 2015\INTEGRA\bin\INTEGRA.dll
+F:\salman\gia\26 aug 2015\INTEGRA\bin\INTEGRA.pdb
+F:\salman\gia\26 aug 2015\INTEGRA\bin\INTEGRA.xml
+F:\salman\gia\26 aug 2015\INTEGRA\bin\AjaxControlToolkit.dll
+F:\salman\gia\26 aug 2015\INTEGRA\bin\SmartControls.dll
+F:\salman\gia\26 aug 2015\INTEGRA\bin\Telerik.Web.UI.dll
+F:\salman\gia\26 aug 2015\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+F:\salman\gia\26 aug 2015\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+F:\salman\gia\26 aug 2015\INTEGRA\obj\Debug\Integra.Resources.resources
+F:\salman\gia\26 aug 2015\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+F:\salman\gia\26 aug 2015\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+F:\salman\gia\26 aug 2015\INTEGRA\obj\Debug\INTEGRA.dll
+F:\salman\gia\26 aug 2015\INTEGRA\obj\Debug\INTEGRA.xml
+F:\salman\gia\26 aug 2015\INTEGRA\obj\Debug\INTEGRA.pdb
+E:\SALMAN\GIA LATEST\INTEGRA\bin\INTEGRA.dll
+E:\SALMAN\GIA LATEST\INTEGRA\bin\INTEGRA.pdb
+E:\SALMAN\GIA LATEST\INTEGRA\bin\INTEGRA.xml
+E:\SALMAN\GIA LATEST\INTEGRA\bin\AjaxControlToolkit.dll
+E:\SALMAN\GIA LATEST\INTEGRA\bin\SmartControls.dll
+E:\SALMAN\GIA LATEST\INTEGRA\bin\Telerik.Web.UI.dll
+E:\SALMAN\GIA LATEST\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+E:\SALMAN\GIA LATEST\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+E:\SALMAN\GIA LATEST\INTEGRA\obj\Debug\Integra.Resources.resources
+E:\SALMAN\GIA LATEST\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+E:\SALMAN\GIA LATEST\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+E:\SALMAN\GIA LATEST\INTEGRA\obj\Debug\INTEGRA.dll
+E:\SALMAN\GIA LATEST\INTEGRA\obj\Debug\INTEGRA.xml
+E:\SALMAN\GIA LATEST\INTEGRA\obj\Debug\INTEGRA.pdb
+E:\salman\gia\2 sep 2015\INTEGRA\bin\INTEGRA.dll
+E:\salman\gia\2 sep 2015\INTEGRA\bin\INTEGRA.pdb
+E:\salman\gia\2 sep 2015\INTEGRA\bin\INTEGRA.xml
+E:\salman\gia\2 sep 2015\INTEGRA\bin\AjaxControlToolkit.dll
+E:\salman\gia\2 sep 2015\INTEGRA\bin\SmartControls.dll
+E:\salman\gia\2 sep 2015\INTEGRA\bin\Telerik.Web.UI.dll
+E:\salman\gia\2 sep 2015\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+E:\salman\gia\2 sep 2015\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+E:\salman\gia\2 sep 2015\INTEGRA\obj\Debug\Integra.Resources.resources
+E:\salman\gia\2 sep 2015\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+E:\salman\gia\2 sep 2015\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+E:\salman\gia\2 sep 2015\INTEGRA\obj\Debug\INTEGRA.dll
+E:\salman\gia\2 sep 2015\INTEGRA\obj\Debug\INTEGRA.xml
+E:\salman\gia\2 sep 2015\INTEGRA\obj\Debug\INTEGRA.pdb
+E:\M.bilal\GIA\Gia\INTEGRA\bin\INTEGRA.dll
+E:\M.bilal\GIA\Gia\INTEGRA\bin\INTEGRA.pdb
+E:\M.bilal\GIA\Gia\INTEGRA\bin\INTEGRA.xml
+E:\M.bilal\GIA\Gia\INTEGRA\bin\AjaxControlToolkit.dll
+E:\M.bilal\GIA\Gia\INTEGRA\bin\SmartControls.dll
+E:\M.bilal\GIA\Gia\INTEGRA\bin\Telerik.Web.UI.dll
+E:\M.bilal\GIA\Gia\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+E:\M.bilal\GIA\Gia\INTEGRA\obj\Debug\Integra.Resources.resources
+E:\M.bilal\GIA\Gia\INTEGRA\obj\Debug\INTEGRA.dll
+E:\M.bilal\GIA\Gia\INTEGRA\obj\Debug\INTEGRA.xml
+E:\M.bilal\GIA\Gia\INTEGRA\obj\Debug\INTEGRA.pdb
+E:\salman\gia\21 Sep 2015\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+E:\salman\gia\21 Sep 2015\INTEGRA\obj\Debug\Integra.Resources.resources
+E:\salman\gia\21 Sep 2015\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+E:\salman\gia\21 Sep 2015\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+E:\salman\gia\21 Sep 2015\INTEGRA\bin\INTEGRA.dll
+E:\salman\gia\21 Sep 2015\INTEGRA\bin\INTEGRA.pdb
+E:\salman\gia\21 Sep 2015\INTEGRA\bin\INTEGRA.xml
+E:\salman\gia\21 Sep 2015\INTEGRA\bin\AjaxControlToolkit.dll
+E:\salman\gia\21 Sep 2015\INTEGRA\bin\SmartControls.dll
+E:\salman\gia\21 Sep 2015\INTEGRA\bin\Telerik.Web.UI.dll
+E:\salman\gia\21 Sep 2015\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+E:\salman\gia\21 Sep 2015\INTEGRA\obj\Debug\INTEGRA.dll
+E:\salman\gia\21 Sep 2015\INTEGRA\obj\Debug\INTEGRA.xml
+E:\salman\gia\21 Sep 2015\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\GIA\Application\INTEGRA\bin\INTEGRA.dll
+D:\GIA\Application\INTEGRA\bin\INTEGRA.pdb
+D:\GIA\Application\INTEGRA\bin\INTEGRA.xml
+D:\GIA\Application\INTEGRA\bin\AjaxControlToolkit.dll
+D:\GIA\Application\INTEGRA\bin\SmartControls.dll
+D:\GIA\Application\INTEGRA\bin\Telerik.Web.UI.dll
+D:\GIA\Application\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\GIA\Application\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\GIA\Application\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\GIA\Application\INTEGRA\obj\Debug\INTEGRA.dll
+D:\GIA\Application\INTEGRA\obj\Debug\INTEGRA.xml
+D:\GIA\Application\INTEGRA\obj\Debug\INTEGRA.pdb
+E:\salman\gia\8 oct 2015\INTEGRA\bin\INTEGRA.dll
+E:\salman\gia\8 oct 2015\INTEGRA\bin\INTEGRA.pdb
+E:\salman\gia\8 oct 2015\INTEGRA\bin\INTEGRA.xml
+E:\salman\gia\8 oct 2015\INTEGRA\bin\AjaxControlToolkit.dll
+E:\salman\gia\8 oct 2015\INTEGRA\bin\SmartControls.dll
+E:\salman\gia\8 oct 2015\INTEGRA\bin\Telerik.Web.UI.dll
+E:\salman\gia\8 oct 2015\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+E:\salman\gia\8 oct 2015\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+E:\salman\gia\8 oct 2015\INTEGRA\obj\Debug\Integra.Resources.resources
+E:\salman\gia\8 oct 2015\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+E:\salman\gia\8 oct 2015\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+E:\salman\gia\8 oct 2015\INTEGRA\obj\Debug\INTEGRA.dll
+E:\salman\gia\8 oct 2015\INTEGRA\obj\Debug\INTEGRA.xml
+E:\salman\gia\8 oct 2015\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\GIA\GIA 14 Sep\Application\INTEGRA\bin\INTEGRA.dll
+D:\GIA\GIA 14 Sep\Application\INTEGRA\bin\INTEGRA.pdb
+D:\GIA\GIA 14 Sep\Application\INTEGRA\bin\INTEGRA.xml
+D:\GIA\GIA 14 Sep\Application\INTEGRA\bin\AjaxControlToolkit.dll
+D:\GIA\GIA 14 Sep\Application\INTEGRA\bin\SmartControls.dll
+D:\GIA\GIA 14 Sep\Application\INTEGRA\bin\Telerik.Web.UI.dll
+D:\GIA\GIA 14 Sep\Application\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\GIA\GIA 14 Sep\Application\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\GIA\GIA 14 Sep\Application\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\GIA\GIA 14 Sep\Application\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\GIA\GIA 14 Sep\Application\INTEGRA\obj\Debug\INTEGRA.dll
+D:\GIA\GIA 14 Sep\Application\INTEGRA\obj\Debug\INTEGRA.xml
+D:\GIA\GIA 14 Sep\Application\INTEGRA\obj\Debug\INTEGRA.pdb
+E:\salman\gia\19 oct 2015\GIA INTEGRA\INTEGRA\bin\INTEGRA.dll
+E:\salman\gia\19 oct 2015\GIA INTEGRA\INTEGRA\bin\INTEGRA.pdb
+E:\salman\gia\19 oct 2015\GIA INTEGRA\INTEGRA\bin\INTEGRA.xml
+E:\salman\gia\19 oct 2015\GIA INTEGRA\INTEGRA\bin\AjaxControlToolkit.dll
+E:\salman\gia\19 oct 2015\GIA INTEGRA\INTEGRA\bin\SmartControls.dll
+E:\salman\gia\19 oct 2015\GIA INTEGRA\INTEGRA\bin\Telerik.Web.UI.dll
+E:\salman\gia\19 oct 2015\GIA INTEGRA\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+E:\salman\gia\19 oct 2015\GIA INTEGRA\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+E:\salman\gia\19 oct 2015\GIA INTEGRA\INTEGRA\obj\Debug\Integra.Resources.resources
+E:\salman\gia\19 oct 2015\GIA INTEGRA\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+E:\salman\gia\19 oct 2015\GIA INTEGRA\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+E:\salman\gia\19 oct 2015\GIA INTEGRA\INTEGRA\obj\Debug\INTEGRA.dll
+E:\salman\gia\19 oct 2015\GIA INTEGRA\INTEGRA\obj\Debug\INTEGRA.xml
+E:\salman\gia\19 oct 2015\GIA INTEGRA\INTEGRA\obj\Debug\INTEGRA.pdb
+E:\Nizam\GIA\GIA\Application\INTEGRA\bin\INTEGRA.dll
+E:\Nizam\GIA\GIA\Application\INTEGRA\bin\INTEGRA.pdb
+E:\Nizam\GIA\GIA\Application\INTEGRA\bin\INTEGRA.xml
+E:\Nizam\GIA\GIA\Application\INTEGRA\bin\AjaxControlToolkit.dll
+E:\Nizam\GIA\GIA\Application\INTEGRA\bin\SmartControls.dll
+E:\Nizam\GIA\GIA\Application\INTEGRA\bin\Telerik.Web.UI.dll
+E:\Nizam\GIA\GIA\Application\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+E:\Nizam\GIA\GIA\Application\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+E:\Nizam\GIA\GIA\Application\INTEGRA\obj\Debug\Integra.Resources.resources
+E:\Nizam\GIA\GIA\Application\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+E:\Nizam\GIA\GIA\Application\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+E:\Nizam\GIA\GIA\Application\INTEGRA\obj\Debug\INTEGRA.dll
+E:\Nizam\GIA\GIA\Application\INTEGRA\obj\Debug\INTEGRA.xml
+E:\Nizam\GIA\GIA\Application\INTEGRA\obj\Debug\INTEGRA.pdb
+E:\M.bilal\GIA\GIA 19OCT\INTEGRA\INTEGRA\bin\INTEGRA.dll
+E:\M.bilal\GIA\GIA 19OCT\INTEGRA\INTEGRA\bin\INTEGRA.pdb
+E:\M.bilal\GIA\GIA 19OCT\INTEGRA\INTEGRA\bin\INTEGRA.xml
+E:\M.bilal\GIA\GIA 19OCT\INTEGRA\INTEGRA\bin\AjaxControlToolkit.dll
+E:\M.bilal\GIA\GIA 19OCT\INTEGRA\INTEGRA\bin\SmartControls.dll
+E:\M.bilal\GIA\GIA 19OCT\INTEGRA\INTEGRA\bin\Telerik.Web.UI.dll
+E:\M.bilal\GIA\GIA 19OCT\INTEGRA\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+E:\M.bilal\GIA\GIA 19OCT\INTEGRA\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+E:\M.bilal\GIA\GIA 19OCT\INTEGRA\INTEGRA\obj\Debug\Integra.Resources.resources
+E:\M.bilal\GIA\GIA 19OCT\INTEGRA\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+E:\M.bilal\GIA\GIA 19OCT\INTEGRA\INTEGRA\obj\Debug\INTEGRA.dll
+E:\M.bilal\GIA\GIA 19OCT\INTEGRA\INTEGRA\obj\Debug\INTEGRA.xml
+E:\M.bilal\GIA\GIA 19OCT\INTEGRA\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\GIA\Application\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+E:\M.bilal\GIA\Gia\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+E:\M.bilal\GIA\Gia\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+E:\M.bilal\GIA\Gia\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+E:\salman\gia\30 nov 2015\Hometextile work\INTEGRA\bin\INTEGRA.dll
+E:\salman\gia\30 nov 2015\Hometextile work\INTEGRA\bin\INTEGRA.pdb
+E:\salman\gia\30 nov 2015\Hometextile work\INTEGRA\bin\INTEGRA.xml
+E:\salman\gia\30 nov 2015\Hometextile work\INTEGRA\bin\AjaxControlToolkit.dll
+E:\salman\gia\30 nov 2015\Hometextile work\INTEGRA\bin\SmartControls.dll
+E:\salman\gia\30 nov 2015\Hometextile work\INTEGRA\bin\Telerik.Web.UI.dll
+E:\salman\gia\30 nov 2015\Hometextile work\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+E:\salman\gia\30 nov 2015\Hometextile work\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+E:\salman\gia\30 nov 2015\Hometextile work\INTEGRA\obj\Debug\Integra.Resources.resources
+E:\salman\gia\30 nov 2015\Hometextile work\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+E:\salman\gia\30 nov 2015\Hometextile work\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+E:\salman\gia\30 nov 2015\Hometextile work\INTEGRA\obj\Debug\INTEGRA.dll
+E:\salman\gia\30 nov 2015\Hometextile work\INTEGRA\obj\Debug\INTEGRA.xml
+E:\salman\gia\30 nov 2015\Hometextile work\INTEGRA\obj\Debug\INTEGRA.pdb
+E:\salman\gia\gialatest\INTEGRA\bin\INTEGRA.dll
+E:\salman\gia\gialatest\INTEGRA\bin\INTEGRA.pdb
+E:\salman\gia\gialatest\INTEGRA\bin\INTEGRA.xml
+E:\salman\gia\gialatest\INTEGRA\bin\AjaxControlToolkit.dll
+E:\salman\gia\gialatest\INTEGRA\bin\SmartControls.dll
+E:\salman\gia\gialatest\INTEGRA\bin\Telerik.Web.UI.dll
+E:\salman\gia\gialatest\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+E:\salman\gia\gialatest\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+E:\salman\gia\gialatest\INTEGRA\obj\Debug\Integra.Resources.resources
+E:\salman\gia\gialatest\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+E:\salman\gia\gialatest\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+E:\salman\gia\gialatest\INTEGRA\obj\Debug\INTEGRA.dll
+E:\salman\gia\gialatest\INTEGRA\obj\Debug\INTEGRA.xml
+E:\salman\gia\gialatest\INTEGRA\obj\Debug\INTEGRA.pdb
+E:\M.bilal\GIA\GIA 6 Dec 15\INTEGRA(1)\INTEGRA\bin\INTEGRA.dll
+E:\M.bilal\GIA\GIA 6 Dec 15\INTEGRA(1)\INTEGRA\bin\INTEGRA.pdb
+E:\M.bilal\GIA\GIA 6 Dec 15\INTEGRA(1)\INTEGRA\bin\INTEGRA.xml
+E:\M.bilal\GIA\GIA 6 Dec 15\INTEGRA(1)\INTEGRA\bin\AjaxControlToolkit.dll
+E:\M.bilal\GIA\GIA 6 Dec 15\INTEGRA(1)\INTEGRA\bin\SmartControls.dll
+E:\M.bilal\GIA\GIA 6 Dec 15\INTEGRA(1)\INTEGRA\bin\Telerik.Web.UI.dll
+E:\M.bilal\GIA\GIA 6 Dec 15\INTEGRA(1)\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+E:\M.bilal\GIA\GIA 6 Dec 15\INTEGRA(1)\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+E:\M.bilal\GIA\GIA 6 Dec 15\INTEGRA(1)\INTEGRA\obj\Debug\Integra.Resources.resources
+E:\M.bilal\GIA\GIA 6 Dec 15\INTEGRA(1)\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+E:\M.bilal\GIA\GIA 6 Dec 15\INTEGRA(1)\INTEGRA\obj\Debug\INTEGRA.dll
+E:\M.bilal\GIA\GIA 6 Dec 15\INTEGRA(1)\INTEGRA\obj\Debug\INTEGRA.xml
+E:\M.bilal\GIA\GIA 6 Dec 15\INTEGRA(1)\INTEGRA\obj\Debug\INTEGRA.pdb
+C:\Documents and Settings\Windows XP\Desktop\gia salman\gia\INTEGRA\bin\INTEGRA.dll
+C:\Documents and Settings\Windows XP\Desktop\gia salman\gia\INTEGRA\bin\INTEGRA.pdb
+C:\Documents and Settings\Windows XP\Desktop\gia salman\gia\INTEGRA\bin\INTEGRA.xml
+C:\Documents and Settings\Windows XP\Desktop\gia salman\gia\INTEGRA\bin\AjaxControlToolkit.dll
+C:\Documents and Settings\Windows XP\Desktop\gia salman\gia\INTEGRA\bin\SmartControls.dll
+C:\Documents and Settings\Windows XP\Desktop\gia salman\gia\INTEGRA\bin\Telerik.Web.UI.dll
+C:\Documents and Settings\Windows XP\Desktop\gia salman\gia\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+C:\Documents and Settings\Windows XP\Desktop\gia salman\gia\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Windows XP\Desktop\gia salman\gia\INTEGRA\obj\Debug\Integra.Resources.resources
+C:\Documents and Settings\Windows XP\Desktop\gia salman\gia\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Windows XP\Desktop\gia salman\gia\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Windows XP\Desktop\gia salman\gia\INTEGRA\obj\Debug\INTEGRA.dll
+C:\Documents and Settings\Windows XP\Desktop\gia salman\gia\INTEGRA\obj\Debug\INTEGRA.xml
+C:\Documents and Settings\Windows XP\Desktop\gia salman\gia\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\GIA\10 FEB 2016\INTEGRA\bin\INTEGRA.dll
+D:\GIA\10 FEB 2016\INTEGRA\bin\INTEGRA.pdb
+D:\GIA\10 FEB 2016\INTEGRA\bin\INTEGRA.xml
+D:\GIA\10 FEB 2016\INTEGRA\bin\AjaxControlToolkit.dll
+D:\GIA\10 FEB 2016\INTEGRA\bin\SmartControls.dll
+D:\GIA\10 FEB 2016\INTEGRA\bin\Telerik.Web.UI.dll
+D:\GIA\10 FEB 2016\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\GIA\10 FEB 2016\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\GIA\10 FEB 2016\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\GIA\10 FEB 2016\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\GIA\10 FEB 2016\INTEGRA\obj\Debug\INTEGRA.dll
+D:\GIA\10 FEB 2016\INTEGRA\obj\Debug\INTEGRA.xml
+D:\GIA\10 FEB 2016\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\GIA\16 FEB 2016\INTEGRA\bin\INTEGRA.dll
+D:\GIA\16 FEB 2016\INTEGRA\bin\INTEGRA.pdb
+D:\GIA\16 FEB 2016\INTEGRA\bin\INTEGRA.xml
+D:\GIA\16 FEB 2016\INTEGRA\bin\AjaxControlToolkit.dll
+D:\GIA\16 FEB 2016\INTEGRA\bin\SmartControls.dll
+D:\GIA\16 FEB 2016\INTEGRA\bin\Telerik.Web.UI.dll
+D:\GIA\16 FEB 2016\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\GIA\16 FEB 2016\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\GIA\16 FEB 2016\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\GIA\16 FEB 2016\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\GIA\16 FEB 2016\INTEGRA\obj\Debug\INTEGRA.dll
+D:\GIA\16 FEB 2016\INTEGRA\obj\Debug\INTEGRA.xml
+D:\GIA\16 FEB 2016\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\Yasir\Running Applications\GIA\App\INTEGRA\bin\INTEGRA.dll
+D:\Yasir\Running Applications\GIA\App\INTEGRA\bin\INTEGRA.pdb
+D:\Yasir\Running Applications\GIA\App\INTEGRA\bin\INTEGRA.xml
+D:\Yasir\Running Applications\GIA\App\INTEGRA\bin\AjaxControlToolkit.dll
+D:\Yasir\Running Applications\GIA\App\INTEGRA\bin\SmartControls.dll
+D:\Yasir\Running Applications\GIA\App\INTEGRA\bin\Telerik.Web.UI.dll
+D:\Yasir\Running Applications\GIA\App\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\Yasir\Running Applications\GIA\App\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\Yasir\Running Applications\GIA\App\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\Yasir\Running Applications\GIA\App\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\Yasir\Running Applications\GIA\App\INTEGRA\obj\Debug\INTEGRA.dll
+D:\Yasir\Running Applications\GIA\App\INTEGRA\obj\Debug\INTEGRA.xml
+D:\Yasir\Running Applications\GIA\App\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\Work\GIA\11April 2016\Latest\gai 11 apr 2016 naveed\gialatest\INTEGRA\bin\INTEGRA.dll
+D:\Work\GIA\11April 2016\Latest\gai 11 apr 2016 naveed\gialatest\INTEGRA\bin\INTEGRA.pdb
+D:\Work\GIA\11April 2016\Latest\gai 11 apr 2016 naveed\gialatest\INTEGRA\bin\INTEGRA.xml
+D:\Work\GIA\11April 2016\Latest\gai 11 apr 2016 naveed\gialatest\INTEGRA\bin\AjaxControlToolkit.dll
+D:\Work\GIA\11April 2016\Latest\gai 11 apr 2016 naveed\gialatest\INTEGRA\bin\SmartControls.dll
+D:\Work\GIA\11April 2016\Latest\gai 11 apr 2016 naveed\gialatest\INTEGRA\bin\Telerik.Web.UI.dll
+D:\Work\GIA\11April 2016\Latest\gai 11 apr 2016 naveed\gialatest\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\Work\GIA\11April 2016\Latest\gai 11 apr 2016 naveed\gialatest\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\Work\GIA\11April 2016\Latest\gai 11 apr 2016 naveed\gialatest\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\Work\GIA\11April 2016\Latest\gai 11 apr 2016 naveed\gialatest\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\Work\GIA\11April 2016\Latest\gai 11 apr 2016 naveed\gialatest\INTEGRA\obj\Debug\INTEGRA.dll
+D:\Work\GIA\11April 2016\Latest\gai 11 apr 2016 naveed\gialatest\INTEGRA\obj\Debug\INTEGRA.xml
+D:\Work\GIA\11April 2016\Latest\gai 11 apr 2016 naveed\gialatest\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\GIA\13 April 2016\BILAL\INTEGRA\bin\INTEGRA.dll
+D:\GIA\13 April 2016\BILAL\INTEGRA\bin\INTEGRA.pdb
+D:\GIA\13 April 2016\BILAL\INTEGRA\bin\INTEGRA.xml
+D:\GIA\13 April 2016\BILAL\INTEGRA\bin\AjaxControlToolkit.dll
+D:\GIA\13 April 2016\BILAL\INTEGRA\bin\SmartControls.dll
+D:\GIA\13 April 2016\BILAL\INTEGRA\bin\Telerik.Web.UI.dll
+D:\GIA\13 April 2016\BILAL\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\GIA\13 April 2016\BILAL\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\GIA\13 April 2016\BILAL\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\GIA\13 April 2016\BILAL\INTEGRA\obj\Debug\INTEGRA.dll
+D:\GIA\13 April 2016\BILAL\INTEGRA\obj\Debug\INTEGRA.xml
+D:\GIA\13 April 2016\BILAL\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\GIA\13 April 2016\BILAL\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+E:\salman\gia\19 Apr 2016\INTEGRA\bin\INTEGRA.dll
+E:\salman\gia\19 Apr 2016\INTEGRA\bin\INTEGRA.pdb
+E:\salman\gia\19 Apr 2016\INTEGRA\bin\INTEGRA.xml
+E:\salman\gia\19 Apr 2016\INTEGRA\bin\AjaxControlToolkit.dll
+E:\salman\gia\19 Apr 2016\INTEGRA\bin\SmartControls.dll
+E:\salman\gia\19 Apr 2016\INTEGRA\bin\Telerik.Web.UI.dll
+E:\salman\gia\19 Apr 2016\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+E:\salman\gia\19 Apr 2016\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+E:\salman\gia\19 Apr 2016\INTEGRA\obj\Debug\Integra.Resources.resources
+E:\salman\gia\19 Apr 2016\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+E:\salman\gia\19 Apr 2016\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+E:\salman\gia\19 Apr 2016\INTEGRA\obj\Debug\INTEGRA.dll
+E:\salman\gia\19 Apr 2016\INTEGRA\obj\Debug\INTEGRA.xml
+E:\salman\gia\19 Apr 2016\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\last\Naveed\06 May 2016\App\INTEGRA\bin\INTEGRA.dll
+D:\last\Naveed\06 May 2016\App\INTEGRA\bin\INTEGRA.pdb
+D:\last\Naveed\06 May 2016\App\INTEGRA\bin\INTEGRA.xml
+D:\last\Naveed\06 May 2016\App\INTEGRA\bin\AjaxControlToolkit.dll
+D:\last\Naveed\06 May 2016\App\INTEGRA\bin\SmartControls.dll
+D:\last\Naveed\06 May 2016\App\INTEGRA\bin\Telerik.Web.UI.dll
+D:\last\Naveed\06 May 2016\App\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\last\Naveed\06 May 2016\App\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\last\Naveed\06 May 2016\App\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\last\Naveed\06 May 2016\App\INTEGRA\obj\Debug\INTEGRA.dll
+D:\last\Naveed\06 May 2016\App\INTEGRA\obj\Debug\INTEGRA.xml
+D:\last\Naveed\06 May 2016\App\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\last\Naveed\06 May 2016\App\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\DigitalApparel\App\INTEGRA\bin\INTEGRA.dll
+D:\DigitalApparel\App\INTEGRA\bin\INTEGRA.pdb
+D:\DigitalApparel\App\INTEGRA\bin\INTEGRA.xml
+D:\DigitalApparel\App\INTEGRA\bin\AjaxControlToolkit.dll
+D:\DigitalApparel\App\INTEGRA\bin\SmartControls.dll
+D:\DigitalApparel\App\INTEGRA\bin\Telerik.Web.UI.dll
+D:\DigitalApparel\App\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\DigitalApparel\App\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\DigitalApparel\App\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\DigitalApparel\App\INTEGRA\obj\Debug\INTEGRA.dll
+D:\DigitalApparel\App\INTEGRA\obj\Debug\INTEGRA.xml
+D:\DigitalApparel\App\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\Yasir\Running Applications\Digital Apparel\DigitalApparel\INTEGRA\bin\INTEGRA.dll
+D:\Yasir\Running Applications\Digital Apparel\DigitalApparel\INTEGRA\bin\INTEGRA.pdb
+D:\Yasir\Running Applications\Digital Apparel\DigitalApparel\INTEGRA\bin\INTEGRA.xml
+D:\Yasir\Running Applications\Digital Apparel\DigitalApparel\INTEGRA\bin\AjaxControlToolkit.dll
+D:\Yasir\Running Applications\Digital Apparel\DigitalApparel\INTEGRA\bin\SmartControls.dll
+D:\Yasir\Running Applications\Digital Apparel\DigitalApparel\INTEGRA\bin\Telerik.Web.UI.dll
+D:\Yasir\Running Applications\Digital Apparel\DigitalApparel\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\Yasir\Running Applications\Digital Apparel\DigitalApparel\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\Yasir\Running Applications\Digital Apparel\DigitalApparel\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\Yasir\Running Applications\Digital Apparel\DigitalApparel\INTEGRA\obj\Debug\INTEGRA.dll
+D:\Yasir\Running Applications\Digital Apparel\DigitalApparel\INTEGRA\obj\Debug\INTEGRA.xml
+D:\Yasir\Running Applications\Digital Apparel\DigitalApparel\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\DigitalApparel\App\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\Work\Digital AP\APP\31 MAY 2016\INTEGRA\bin\INTEGRA.dll
+D:\Work\Digital AP\APP\31 MAY 2016\INTEGRA\bin\INTEGRA.pdb
+D:\Work\Digital AP\APP\31 MAY 2016\INTEGRA\bin\INTEGRA.xml
+D:\Work\Digital AP\APP\31 MAY 2016\INTEGRA\bin\AjaxControlToolkit.dll
+D:\Work\Digital AP\APP\31 MAY 2016\INTEGRA\bin\SmartControls.dll
+D:\Work\Digital AP\APP\31 MAY 2016\INTEGRA\bin\Telerik.Web.UI.dll
+D:\Work\Digital AP\APP\31 MAY 2016\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\Work\Digital AP\APP\31 MAY 2016\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\Work\Digital AP\APP\31 MAY 2016\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\Work\Digital AP\APP\31 MAY 2016\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\Work\Digital AP\APP\31 MAY 2016\INTEGRA\obj\Debug\INTEGRA.dll
+D:\Work\Digital AP\APP\31 MAY 2016\INTEGRA\obj\Debug\INTEGRA.xml
+D:\Work\Digital AP\APP\31 MAY 2016\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\Yasir\Running Applications\Digital Apparel\DigitalApparel\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\DigitalApparel\Digital 18 JULY 2016\INTEGRA\bin\INTEGRA.dll
+D:\DigitalApparel\Digital 18 JULY 2016\INTEGRA\bin\INTEGRA.pdb
+D:\DigitalApparel\Digital 18 JULY 2016\INTEGRA\bin\INTEGRA.xml
+D:\DigitalApparel\Digital 18 JULY 2016\INTEGRA\bin\AjaxControlToolkit.dll
+D:\DigitalApparel\Digital 18 JULY 2016\INTEGRA\bin\SmartControls.dll
+D:\DigitalApparel\Digital 18 JULY 2016\INTEGRA\bin\Telerik.Web.UI.dll
+D:\DigitalApparel\Digital 18 JULY 2016\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\DigitalApparel\Digital 18 JULY 2016\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\DigitalApparel\Digital 18 JULY 2016\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\DigitalApparel\Digital 18 JULY 2016\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\DigitalApparel\Digital 18 JULY 2016\INTEGRA\obj\Debug\INTEGRA.dll
+D:\DigitalApparel\Digital 18 JULY 2016\INTEGRA\obj\Debug\INTEGRA.xml
+D:\DigitalApparel\Digital 18 JULY 2016\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\Work\Digital AP\APP\20 July 2016\INTEGRA\bin\INTEGRA.dll
+D:\Work\Digital AP\APP\20 July 2016\INTEGRA\bin\INTEGRA.pdb
+D:\Work\Digital AP\APP\20 July 2016\INTEGRA\bin\INTEGRA.xml
+D:\Work\Digital AP\APP\20 July 2016\INTEGRA\bin\AjaxControlToolkit.dll
+D:\Work\Digital AP\APP\20 July 2016\INTEGRA\bin\SmartControls.dll
+D:\Work\Digital AP\APP\20 July 2016\INTEGRA\bin\Telerik.Web.UI.dll
+D:\Work\Digital AP\APP\20 July 2016\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\Work\Digital AP\APP\20 July 2016\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\Work\Digital AP\APP\20 July 2016\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\Work\Digital AP\APP\20 July 2016\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\Work\Digital AP\APP\20 July 2016\INTEGRA\obj\Debug\INTEGRA.dll
+D:\Work\Digital AP\APP\20 July 2016\INTEGRA\obj\Debug\INTEGRA.xml
+D:\Work\Digital AP\APP\20 July 2016\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\DigitalApparel\Digital 21 JULY 2016\INTEGRA\bin\INTEGRA.dll
+D:\DigitalApparel\Digital 21 JULY 2016\INTEGRA\bin\INTEGRA.pdb
+D:\DigitalApparel\Digital 21 JULY 2016\INTEGRA\bin\INTEGRA.xml
+D:\DigitalApparel\Digital 21 JULY 2016\INTEGRA\bin\AjaxControlToolkit.dll
+D:\DigitalApparel\Digital 21 JULY 2016\INTEGRA\bin\SmartControls.dll
+D:\DigitalApparel\Digital 21 JULY 2016\INTEGRA\bin\Telerik.Web.UI.dll
+D:\DigitalApparel\Digital 21 JULY 2016\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\DigitalApparel\Digital 21 JULY 2016\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\DigitalApparel\Digital 21 JULY 2016\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\DigitalApparel\Digital 21 JULY 2016\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\DigitalApparel\Digital 21 JULY 2016\INTEGRA\obj\Debug\INTEGRA.dll
+D:\DigitalApparel\Digital 21 JULY 2016\INTEGRA\obj\Debug\INTEGRA.xml
+D:\DigitalApparel\Digital 21 JULY 2016\INTEGRA\obj\Debug\INTEGRA.pdb
+F:\Bilal\Digital 26 July\INTEGRA\bin\INTEGRA.dll
+F:\Bilal\Digital 26 July\INTEGRA\bin\INTEGRA.pdb
+F:\Bilal\Digital 26 July\INTEGRA\bin\INTEGRA.xml
+F:\Bilal\Digital 26 July\INTEGRA\bin\AjaxControlToolkit.dll
+F:\Bilal\Digital 26 July\INTEGRA\bin\SmartControls.dll
+F:\Bilal\Digital 26 July\INTEGRA\bin\Telerik.Web.UI.dll
+F:\Bilal\Digital 26 July\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+F:\Bilal\Digital 26 July\INTEGRA\obj\Debug\Integra.Resources.resources
+F:\Bilal\Digital 26 July\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+F:\Bilal\Digital 26 July\INTEGRA\obj\Debug\INTEGRA.dll
+F:\Bilal\Digital 26 July\INTEGRA\obj\Debug\INTEGRA.xml
+F:\Bilal\Digital 26 July\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\Bilal\Digital 26 July\INTEGRA\bin\INTEGRA.dll
+D:\Bilal\Digital 26 July\INTEGRA\bin\INTEGRA.pdb
+D:\Bilal\Digital 26 July\INTEGRA\bin\INTEGRA.xml
+D:\Bilal\Digital 26 July\INTEGRA\bin\AjaxControlToolkit.dll
+D:\Bilal\Digital 26 July\INTEGRA\bin\SmartControls.dll
+D:\Bilal\Digital 26 July\INTEGRA\bin\Telerik.Web.UI.dll
+D:\Bilal\Digital 26 July\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\Bilal\Digital 26 July\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+D:\Bilal\Digital 26 July\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\Bilal\Digital 26 July\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+D:\Bilal\Digital 26 July\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+D:\Bilal\Digital 26 July\INTEGRA\obj\Debug\INTEGRA.dll
+D:\Bilal\Digital 26 July\INTEGRA\obj\Debug\INTEGRA.xml
+D:\Bilal\Digital 26 July\INTEGRA\obj\Debug\INTEGRA.pdb
+E:\Nizam\Digital ERP\DIGITALERP\INTEGRA\bin\INTEGRA.dll
+E:\Nizam\Digital ERP\DIGITALERP\INTEGRA\bin\INTEGRA.pdb
+E:\Nizam\Digital ERP\DIGITALERP\INTEGRA\bin\INTEGRA.xml
+E:\Nizam\Digital ERP\DIGITALERP\INTEGRA\bin\AjaxControlToolkit.dll
+E:\Nizam\Digital ERP\DIGITALERP\INTEGRA\bin\SmartControls.dll
+E:\Nizam\Digital ERP\DIGITALERP\INTEGRA\bin\Telerik.Web.UI.dll
+E:\Nizam\Digital ERP\DIGITALERP\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+E:\Nizam\Digital ERP\DIGITALERP\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+E:\Nizam\Digital ERP\DIGITALERP\INTEGRA\obj\Debug\Integra.Resources.resources
+E:\Nizam\Digital ERP\DIGITALERP\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+E:\Nizam\Digital ERP\DIGITALERP\INTEGRA\obj\Debug\INTEGRA.dll
+E:\Nizam\Digital ERP\DIGITALERP\INTEGRA\obj\Debug\INTEGRA.xml
+E:\Nizam\Digital ERP\DIGITALERP\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\DigitalApparel\03 aug 2016\INTEGRA\bin\INTEGRA.dll
+D:\DigitalApparel\03 aug 2016\INTEGRA\bin\INTEGRA.pdb
+D:\DigitalApparel\03 aug 2016\INTEGRA\bin\INTEGRA.xml
+D:\DigitalApparel\03 aug 2016\INTEGRA\bin\AjaxControlToolkit.dll
+D:\DigitalApparel\03 aug 2016\INTEGRA\bin\SmartControls.dll
+D:\DigitalApparel\03 aug 2016\INTEGRA\bin\Telerik.Web.UI.dll
+D:\DigitalApparel\03 aug 2016\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\DigitalApparel\03 aug 2016\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\DigitalApparel\03 aug 2016\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\DigitalApparel\03 aug 2016\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\DigitalApparel\03 aug 2016\INTEGRA\obj\Debug\INTEGRA.dll
+D:\DigitalApparel\03 aug 2016\INTEGRA\obj\Debug\INTEGRA.xml
+D:\DigitalApparel\03 aug 2016\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\Yasir\Running Applications\Digital Apparel\Digital Apparel\INTEGRA\bin\INTEGRA.dll
+D:\Yasir\Running Applications\Digital Apparel\Digital Apparel\INTEGRA\bin\INTEGRA.pdb
+D:\Yasir\Running Applications\Digital Apparel\Digital Apparel\INTEGRA\bin\INTEGRA.xml
+D:\Yasir\Running Applications\Digital Apparel\Digital Apparel\INTEGRA\bin\AjaxControlToolkit.dll
+D:\Yasir\Running Applications\Digital Apparel\Digital Apparel\INTEGRA\bin\SmartControls.dll
+D:\Yasir\Running Applications\Digital Apparel\Digital Apparel\INTEGRA\bin\Telerik.Web.UI.dll
+D:\Yasir\Running Applications\Digital Apparel\Digital Apparel\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\Yasir\Running Applications\Digital Apparel\Digital Apparel\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\Yasir\Running Applications\Digital Apparel\Digital Apparel\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\Yasir\Running Applications\Digital Apparel\Digital Apparel\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\Yasir\Running Applications\Digital Apparel\Digital Apparel\INTEGRA\obj\Debug\INTEGRA.dll
+D:\Yasir\Running Applications\Digital Apparel\Digital Apparel\INTEGRA\obj\Debug\INTEGRA.xml
+D:\Yasir\Running Applications\Digital Apparel\Digital Apparel\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\DigitalApparel\16 Aug 2016\Digital 16 Aug\INTEGRA\bin\INTEGRA.dll
+D:\DigitalApparel\16 Aug 2016\Digital 16 Aug\INTEGRA\bin\INTEGRA.pdb
+D:\DigitalApparel\16 Aug 2016\Digital 16 Aug\INTEGRA\bin\INTEGRA.xml
+D:\DigitalApparel\16 Aug 2016\Digital 16 Aug\INTEGRA\bin\AjaxControlToolkit.dll
+D:\DigitalApparel\16 Aug 2016\Digital 16 Aug\INTEGRA\bin\SmartControls.dll
+D:\DigitalApparel\16 Aug 2016\Digital 16 Aug\INTEGRA\bin\Telerik.Web.UI.dll
+D:\DigitalApparel\16 Aug 2016\Digital 16 Aug\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\DigitalApparel\16 Aug 2016\Digital 16 Aug\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\DigitalApparel\16 Aug 2016\Digital 16 Aug\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\DigitalApparel\16 Aug 2016\Digital 16 Aug\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\DigitalApparel\16 Aug 2016\Digital 16 Aug\INTEGRA\obj\Debug\INTEGRA.dll
+D:\DigitalApparel\16 Aug 2016\Digital 16 Aug\INTEGRA\obj\Debug\INTEGRA.xml
+D:\DigitalApparel\16 Aug 2016\Digital 16 Aug\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\DigitalApparel\22 Aug\INTEGRA\bin\INTEGRA.dll
+D:\DigitalApparel\22 Aug\INTEGRA\bin\INTEGRA.pdb
+D:\DigitalApparel\22 Aug\INTEGRA\bin\INTEGRA.xml
+D:\DigitalApparel\22 Aug\INTEGRA\bin\AjaxControlToolkit.dll
+D:\DigitalApparel\22 Aug\INTEGRA\bin\SmartControls.dll
+D:\DigitalApparel\22 Aug\INTEGRA\bin\Telerik.Web.UI.dll
+D:\DigitalApparel\22 Aug\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\DigitalApparel\22 Aug\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\DigitalApparel\22 Aug\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\DigitalApparel\22 Aug\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\DigitalApparel\22 Aug\INTEGRA\obj\Debug\INTEGRA.dll
+D:\DigitalApparel\22 Aug\INTEGRA\obj\Debug\INTEGRA.xml
+D:\DigitalApparel\22 Aug\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\Bilal\Digital 26 July\INTEGRA\INTEGRA\bin\INTEGRA.dll
+D:\Bilal\Digital 26 July\INTEGRA\INTEGRA\bin\INTEGRA.pdb
+D:\Bilal\Digital 26 July\INTEGRA\INTEGRA\bin\INTEGRA.xml
+D:\Bilal\Digital 26 July\INTEGRA\INTEGRA\bin\AjaxControlToolkit.dll
+D:\Bilal\Digital 26 July\INTEGRA\INTEGRA\bin\SmartControls.dll
+D:\Bilal\Digital 26 July\INTEGRA\INTEGRA\bin\Telerik.Web.UI.dll
+D:\Bilal\Digital 26 July\INTEGRA\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\Bilal\Digital 26 July\INTEGRA\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\Bilal\Digital 26 July\INTEGRA\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\Bilal\Digital 26 July\INTEGRA\INTEGRA\obj\Debug\INTEGRA.dll
+D:\Bilal\Digital 26 July\INTEGRA\INTEGRA\obj\Debug\INTEGRA.xml
+D:\Bilal\Digital 26 July\INTEGRA\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\DigitalApparel\5 sep 2016\INTEGRA\bin\INTEGRA.dll
+D:\DigitalApparel\5 sep 2016\INTEGRA\bin\INTEGRA.pdb
+D:\DigitalApparel\5 sep 2016\INTEGRA\bin\INTEGRA.xml
+D:\DigitalApparel\5 sep 2016\INTEGRA\bin\AjaxControlToolkit.dll
+D:\DigitalApparel\5 sep 2016\INTEGRA\bin\SmartControls.dll
+D:\DigitalApparel\5 sep 2016\INTEGRA\bin\Telerik.Web.UI.dll
+D:\DigitalApparel\5 sep 2016\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\DigitalApparel\5 sep 2016\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\DigitalApparel\5 sep 2016\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\DigitalApparel\5 sep 2016\INTEGRA\obj\Debug\INTEGRA.dll
+D:\DigitalApparel\5 sep 2016\INTEGRA\obj\Debug\INTEGRA.xml
+D:\DigitalApparel\5 sep 2016\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\DigitalApparel\23 sep 2016\INTEGRA\bin\INTEGRA.dll
+D:\DigitalApparel\23 sep 2016\INTEGRA\bin\INTEGRA.pdb
+D:\DigitalApparel\23 sep 2016\INTEGRA\bin\INTEGRA.xml
+D:\DigitalApparel\23 sep 2016\INTEGRA\bin\AjaxControlToolkit.dll
+D:\DigitalApparel\23 sep 2016\INTEGRA\bin\SmartControls.dll
+D:\DigitalApparel\23 sep 2016\INTEGRA\bin\Telerik.Web.UI.dll
+D:\DigitalApparel\23 sep 2016\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\DigitalApparel\23 sep 2016\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\DigitalApparel\23 sep 2016\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\DigitalApparel\23 sep 2016\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\DigitalApparel\23 sep 2016\INTEGRA\obj\Debug\INTEGRA.dll
+D:\DigitalApparel\23 sep 2016\INTEGRA\obj\Debug\INTEGRA.xml
+D:\DigitalApparel\23 sep 2016\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\Bilal\Digital 26 July\INTEGRA\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\Bilal\DAL\DAl\INTEGRA\INTEGRA\bin\INTEGRA.dll
+D:\Bilal\DAL\DAl\INTEGRA\INTEGRA\bin\INTEGRA.pdb
+D:\Bilal\DAL\DAl\INTEGRA\INTEGRA\bin\INTEGRA.xml
+D:\Bilal\DAL\DAl\INTEGRA\INTEGRA\bin\AjaxControlToolkit.dll
+D:\Bilal\DAL\DAl\INTEGRA\INTEGRA\bin\SmartControls.dll
+D:\Bilal\DAL\DAl\INTEGRA\INTEGRA\bin\Telerik.Web.UI.dll
+D:\Bilal\DAL\DAl\INTEGRA\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\Bilal\DAL\DAl\INTEGRA\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\Bilal\DAL\DAl\INTEGRA\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\Bilal\DAL\DAl\INTEGRA\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\Bilal\DAL\DAl\INTEGRA\INTEGRA\obj\Debug\INTEGRA.dll
+D:\Bilal\DAL\DAl\INTEGRA\INTEGRA\obj\Debug\INTEGRA.xml
+D:\Bilal\DAL\DAl\INTEGRA\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\Work\Digital AP\APP\06 Oct 2016\INTEGRA\bin\INTEGRA.dll
+D:\Work\Digital AP\APP\06 Oct 2016\INTEGRA\bin\INTEGRA.pdb
+D:\Work\Digital AP\APP\06 Oct 2016\INTEGRA\bin\INTEGRA.xml
+D:\Work\Digital AP\APP\06 Oct 2016\INTEGRA\bin\AjaxControlToolkit.dll
+D:\Work\Digital AP\APP\06 Oct 2016\INTEGRA\bin\SmartControls.dll
+D:\Work\Digital AP\APP\06 Oct 2016\INTEGRA\bin\Telerik.Web.UI.dll
+D:\Work\Digital AP\APP\06 Oct 2016\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\Work\Digital AP\APP\06 Oct 2016\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\Work\Digital AP\APP\06 Oct 2016\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\Work\Digital AP\APP\06 Oct 2016\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\Work\Digital AP\APP\06 Oct 2016\INTEGRA\obj\Debug\INTEGRA.dll
+D:\Work\Digital AP\APP\06 Oct 2016\INTEGRA\obj\Debug\INTEGRA.xml
+D:\Work\Digital AP\APP\06 Oct 2016\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\Work\Digital AP\APP\27Oct 2016\INTEGRA\bin\INTEGRA.dll
+D:\Work\Digital AP\APP\27Oct 2016\INTEGRA\bin\INTEGRA.pdb
+D:\Work\Digital AP\APP\27Oct 2016\INTEGRA\bin\INTEGRA.xml
+D:\Work\Digital AP\APP\27Oct 2016\INTEGRA\bin\AjaxControlToolkit.dll
+D:\Work\Digital AP\APP\27Oct 2016\INTEGRA\bin\SmartControls.dll
+D:\Work\Digital AP\APP\27Oct 2016\INTEGRA\bin\Telerik.Web.UI.dll
+D:\Work\Digital AP\APP\27Oct 2016\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\Work\Digital AP\APP\27Oct 2016\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\Work\Digital AP\APP\27Oct 2016\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\Work\Digital AP\APP\27Oct 2016\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\Work\Digital AP\APP\27Oct 2016\INTEGRA\obj\Debug\INTEGRA.dll
+D:\Work\Digital AP\APP\27Oct 2016\INTEGRA\obj\Debug\INTEGRA.xml
+D:\Work\Digital AP\APP\27Oct 2016\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\Bilal\Digital 26 July\28Oct2016\INTEGRA\INTEGRA\bin\INTEGRA.dll
+D:\Bilal\Digital 26 July\28Oct2016\INTEGRA\INTEGRA\bin\INTEGRA.pdb
+D:\Bilal\Digital 26 July\28Oct2016\INTEGRA\INTEGRA\bin\INTEGRA.xml
+D:\Bilal\Digital 26 July\28Oct2016\INTEGRA\INTEGRA\bin\AjaxControlToolkit.dll
+D:\Bilal\Digital 26 July\28Oct2016\INTEGRA\INTEGRA\bin\SmartControls.dll
+D:\Bilal\Digital 26 July\28Oct2016\INTEGRA\INTEGRA\bin\Telerik.Web.UI.dll
+D:\Bilal\Digital 26 July\28Oct2016\INTEGRA\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\Bilal\Digital 26 July\28Oct2016\INTEGRA\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\Bilal\Digital 26 July\28Oct2016\INTEGRA\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\Bilal\Digital 26 July\28Oct2016\INTEGRA\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\Bilal\Digital 26 July\28Oct2016\INTEGRA\INTEGRA\obj\Debug\INTEGRA.dll
+D:\Bilal\Digital 26 July\28Oct2016\INTEGRA\INTEGRA\obj\Debug\INTEGRA.xml
+D:\Bilal\Digital 26 July\28Oct2016\INTEGRA\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\Bilal\Digital 26 July\18Nov\INTEGRA\bin\INTEGRA.dll
+D:\Bilal\Digital 26 July\18Nov\INTEGRA\bin\INTEGRA.pdb
+D:\Bilal\Digital 26 July\18Nov\INTEGRA\bin\INTEGRA.xml
+D:\Bilal\Digital 26 July\18Nov\INTEGRA\bin\AjaxControlToolkit.dll
+D:\Bilal\Digital 26 July\18Nov\INTEGRA\bin\SmartControls.dll
+D:\Bilal\Digital 26 July\18Nov\INTEGRA\bin\Telerik.Web.UI.dll
+D:\Bilal\Digital 26 July\18Nov\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\Bilal\Digital 26 July\18Nov\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\Bilal\Digital 26 July\18Nov\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\Bilal\Digital 26 July\18Nov\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\Bilal\Digital 26 July\18Nov\INTEGRA\obj\Debug\INTEGRA.dll
+D:\Bilal\Digital 26 July\18Nov\INTEGRA\obj\Debug\INTEGRA.xml
+D:\Bilal\Digital 26 July\18Nov\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\Work\Digital AP\APP\8 dec 2016\INTEGRA\bin\INTEGRA.dll
+D:\Work\Digital AP\APP\8 dec 2016\INTEGRA\bin\INTEGRA.pdb
+D:\Work\Digital AP\APP\8 dec 2016\INTEGRA\bin\INTEGRA.xml
+D:\Work\Digital AP\APP\8 dec 2016\INTEGRA\bin\AjaxControlToolkit.dll
+D:\Work\Digital AP\APP\8 dec 2016\INTEGRA\bin\SmartControls.dll
+D:\Work\Digital AP\APP\8 dec 2016\INTEGRA\bin\Telerik.Web.UI.dll
+D:\Work\Digital AP\APP\8 dec 2016\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\Work\Digital AP\APP\8 dec 2016\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\Work\Digital AP\APP\8 dec 2016\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\Work\Digital AP\APP\8 dec 2016\INTEGRA\obj\Debug\INTEGRA.dll
+D:\Work\Digital AP\APP\8 dec 2016\INTEGRA\obj\Debug\INTEGRA.xml
+D:\Work\Digital AP\APP\8 dec 2016\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\DigitalApparel\14 Dec 2016\INTEGRA\bin\INTEGRA.dll
+D:\DigitalApparel\14 Dec 2016\INTEGRA\bin\INTEGRA.pdb
+D:\DigitalApparel\14 Dec 2016\INTEGRA\bin\INTEGRA.xml
+D:\DigitalApparel\14 Dec 2016\INTEGRA\bin\AjaxControlToolkit.dll
+D:\DigitalApparel\14 Dec 2016\INTEGRA\bin\SmartControls.dll
+D:\DigitalApparel\14 Dec 2016\INTEGRA\bin\Telerik.Web.UI.dll
+D:\DigitalApparel\14 Dec 2016\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\DigitalApparel\14 Dec 2016\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\DigitalApparel\14 Dec 2016\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\DigitalApparel\14 Dec 2016\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\DigitalApparel\14 Dec 2016\INTEGRA\obj\Debug\INTEGRA.dll
+D:\DigitalApparel\14 Dec 2016\INTEGRA\obj\Debug\INTEGRA.xml
+D:\DigitalApparel\14 Dec 2016\INTEGRA\obj\Debug\INTEGRA.pdb
+G:\DalERP\App\8 dec 2016\INTEGRA\bin\INTEGRA.dll
+G:\DalERP\App\8 dec 2016\INTEGRA\bin\INTEGRA.pdb
+G:\DalERP\App\8 dec 2016\INTEGRA\bin\INTEGRA.xml
+G:\DalERP\App\8 dec 2016\INTEGRA\bin\AjaxControlToolkit.dll
+G:\DalERP\App\8 dec 2016\INTEGRA\bin\SmartControls.dll
+G:\DalERP\App\8 dec 2016\INTEGRA\bin\Telerik.Web.UI.dll
+G:\DalERP\App\8 dec 2016\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+G:\DalERP\App\8 dec 2016\INTEGRA\obj\Debug\Integra.Resources.resources
+G:\DalERP\App\8 dec 2016\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+G:\DalERP\App\8 dec 2016\INTEGRA\obj\Debug\INTEGRA.dll
+G:\DalERP\App\8 dec 2016\INTEGRA\obj\Debug\INTEGRA.xml
+G:\DalERP\App\8 dec 2016\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\DigitalApparel\App\21 dec 2016\INTEGRA\bin\INTEGRA.dll
+D:\DigitalApparel\App\21 dec 2016\INTEGRA\bin\INTEGRA.pdb
+D:\DigitalApparel\App\21 dec 2016\INTEGRA\bin\INTEGRA.xml
+D:\DigitalApparel\App\21 dec 2016\INTEGRA\bin\AjaxControlToolkit.dll
+D:\DigitalApparel\App\21 dec 2016\INTEGRA\bin\SmartControls.dll
+D:\DigitalApparel\App\21 dec 2016\INTEGRA\bin\Telerik.Web.UI.dll
+D:\DigitalApparel\App\21 dec 2016\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\DigitalApparel\App\21 dec 2016\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\DigitalApparel\App\21 dec 2016\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\DigitalApparel\App\21 dec 2016\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\DigitalApparel\App\21 dec 2016\INTEGRA\obj\Debug\INTEGRA.dll
+D:\DigitalApparel\App\21 dec 2016\INTEGRA\obj\Debug\INTEGRA.xml
+D:\DigitalApparel\App\21 dec 2016\INTEGRA\obj\Debug\INTEGRA.pdb
+G:\DalERP\INTEGRA\bin\INTEGRA.dll
+G:\DalERP\INTEGRA\bin\INTEGRA.pdb
+G:\DalERP\INTEGRA\bin\INTEGRA.xml
+G:\DalERP\INTEGRA\bin\AjaxControlToolkit.dll
+G:\DalERP\INTEGRA\bin\SmartControls.dll
+G:\DalERP\INTEGRA\bin\Telerik.Web.UI.dll
+G:\DalERP\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+G:\DalERP\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+G:\DalERP\INTEGRA\obj\Debug\Integra.Resources.resources
+G:\DalERP\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+G:\DalERP\INTEGRA\obj\Debug\INTEGRA.dll
+G:\DalERP\INTEGRA\obj\Debug\INTEGRA.xml
+G:\DalERP\INTEGRA\obj\Debug\INTEGRA.pdb
+G:\DalERP\Latest\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+G:\DalERP\Latest\INTEGRA\obj\Debug\Integra.Resources.resources
+G:\DalERP\Latest\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+G:\DalERP\Latest\INTEGRA\obj\Debug\INTEGRA.dll
+G:\DalERP\Latest\INTEGRA\obj\Debug\INTEGRA.xml
+G:\DalERP\Latest\INTEGRA\obj\Debug\INTEGRA.pdb
+G:\DalERP\Latest\INTEGRA\bin\INTEGRA.dll
+G:\DalERP\Latest\INTEGRA\bin\INTEGRA.pdb
+G:\DalERP\Latest\INTEGRA\bin\INTEGRA.xml
+G:\DalERP\Latest\INTEGRA\bin\AjaxControlToolkit.dll
+G:\DalERP\Latest\INTEGRA\bin\SmartControls.dll
+G:\DalERP\Latest\INTEGRA\bin\Telerik.Web.UI.dll
+G:\DalERP\Latest\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\Yasir\Running Applications\DigitalApparelNew\INTEGRA\bin\INTEGRA.dll
+D:\Yasir\Running Applications\DigitalApparelNew\INTEGRA\bin\INTEGRA.pdb
+D:\Yasir\Running Applications\DigitalApparelNew\INTEGRA\bin\INTEGRA.xml
+D:\Yasir\Running Applications\DigitalApparelNew\INTEGRA\bin\AjaxControlToolkit.dll
+D:\Yasir\Running Applications\DigitalApparelNew\INTEGRA\bin\SmartControls.dll
+D:\Yasir\Running Applications\DigitalApparelNew\INTEGRA\bin\Telerik.Web.UI.dll
+D:\Yasir\Running Applications\DigitalApparelNew\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\Yasir\Running Applications\DigitalApparelNew\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\Yasir\Running Applications\DigitalApparelNew\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\Yasir\Running Applications\DigitalApparelNew\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\Yasir\Running Applications\DigitalApparelNew\INTEGRA\obj\Debug\INTEGRA.dll
+D:\Yasir\Running Applications\DigitalApparelNew\INTEGRA\obj\Debug\INTEGRA.xml
+D:\Yasir\Running Applications\DigitalApparelNew\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\DigitalApparel\03 Jan 2017\INTEGRA\bin\INTEGRA.dll
+D:\DigitalApparel\03 Jan 2017\INTEGRA\bin\INTEGRA.pdb
+D:\DigitalApparel\03 Jan 2017\INTEGRA\bin\INTEGRA.xml
+D:\DigitalApparel\03 Jan 2017\INTEGRA\bin\AjaxControlToolkit.dll
+D:\DigitalApparel\03 Jan 2017\INTEGRA\bin\SmartControls.dll
+D:\DigitalApparel\03 Jan 2017\INTEGRA\bin\Telerik.Web.UI.dll
+D:\DigitalApparel\03 Jan 2017\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\DigitalApparel\03 Jan 2017\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\DigitalApparel\03 Jan 2017\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\DigitalApparel\03 Jan 2017\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\DigitalApparel\03 Jan 2017\INTEGRA\obj\Debug\INTEGRA.dll
+D:\DigitalApparel\03 Jan 2017\INTEGRA\obj\Debug\INTEGRA.xml
+D:\DigitalApparel\03 Jan 2017\INTEGRA\obj\Debug\INTEGRA.pdb
+F:\Naveed\Digital\App\INTEGRA\bin\INTEGRA.dll
+F:\Naveed\Digital\App\INTEGRA\bin\INTEGRA.pdb
+F:\Naveed\Digital\App\INTEGRA\bin\INTEGRA.xml
+F:\Naveed\Digital\App\INTEGRA\bin\AjaxControlToolkit.dll
+F:\Naveed\Digital\App\INTEGRA\bin\SmartControls.dll
+F:\Naveed\Digital\App\INTEGRA\bin\Telerik.Web.UI.dll
+F:\Naveed\Digital\App\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+F:\Naveed\Digital\App\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+F:\Naveed\Digital\App\INTEGRA\obj\Debug\Integra.Resources.resources
+F:\Naveed\Digital\App\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+F:\Naveed\Digital\App\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+F:\Naveed\Digital\App\INTEGRA\obj\Debug\INTEGRA.dll
+F:\Naveed\Digital\App\INTEGRA\obj\Debug\INTEGRA.xml
+F:\Naveed\Digital\App\INTEGRA\obj\Debug\INTEGRA.pdb
+G:\DalERP\DAL 6Jan017\INTEGRA\bin\INTEGRA.dll
+G:\DalERP\DAL 6Jan017\INTEGRA\bin\INTEGRA.pdb
+G:\DalERP\DAL 6Jan017\INTEGRA\bin\INTEGRA.xml
+G:\DalERP\DAL 6Jan017\INTEGRA\bin\AjaxControlToolkit.dll
+G:\DalERP\DAL 6Jan017\INTEGRA\bin\SmartControls.dll
+G:\DalERP\DAL 6Jan017\INTEGRA\bin\Telerik.Web.UI.dll
+G:\DalERP\DAL 6Jan017\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+G:\DalERP\DAL 6Jan017\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+G:\DalERP\DAL 6Jan017\INTEGRA\obj\Debug\Integra.Resources.resources
+G:\DalERP\DAL 6Jan017\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+G:\DalERP\DAL 6Jan017\INTEGRA\obj\Debug\INTEGRA.dll
+G:\DalERP\DAL 6Jan017\INTEGRA\obj\Debug\INTEGRA.xml
+G:\DalERP\DAL 6Jan017\INTEGRA\obj\Debug\INTEGRA.pdb
+F:\Yasir\Dal\INTEGRA\bin\INTEGRA.dll
+F:\Yasir\Dal\INTEGRA\bin\INTEGRA.pdb
+F:\Yasir\Dal\INTEGRA\bin\INTEGRA.xml
+F:\Yasir\Dal\INTEGRA\bin\AjaxControlToolkit.dll
+F:\Yasir\Dal\INTEGRA\bin\SmartControls.dll
+F:\Yasir\Dal\INTEGRA\bin\Telerik.Web.UI.dll
+F:\Yasir\Dal\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+F:\Yasir\Dal\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+F:\Yasir\Dal\INTEGRA\obj\Debug\Integra.Resources.resources
+F:\Yasir\Dal\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+F:\Yasir\Dal\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+F:\Yasir\Dal\INTEGRA\obj\Debug\INTEGRA.dll
+F:\Yasir\Dal\INTEGRA\obj\Debug\INTEGRA.xml
+F:\Yasir\Dal\INTEGRA\obj\Debug\INTEGRA.pdb
+G:\DalERP\03 July 2017 DAL\INTEGRA\INTEGRA\bin\bin\AjaxControlToolkit.dll
+G:\DalERP\03 July 2017 DAL\INTEGRA\INTEGRA\bin\bin\SmartControls.dll
+G:\DalERP\03 July 2017 DAL\INTEGRA\INTEGRA\bin\bin\Telerik.Web.UI.dll
+G:\DalERP\03 July 2017 DAL\INTEGRA\INTEGRA\bin\bin\Telerik.Web.UI.Skins.dll
+G:\DalERP\03 July 2017 DAL\INTEGRA\INTEGRA\bin\INTEGRA.dll
+G:\DalERP\03 July 2017 DAL\INTEGRA\INTEGRA\bin\INTEGRA.pdb
+G:\DalERP\03 July 2017 DAL\INTEGRA\INTEGRA\bin\INTEGRA.xml
+G:\DalERP\03 July 2017 DAL\INTEGRA\INTEGRA\bin\AjaxControlToolkit.dll
+G:\DalERP\03 July 2017 DAL\INTEGRA\INTEGRA\bin\SmartControls.dll
+G:\DalERP\03 July 2017 DAL\INTEGRA\INTEGRA\bin\Telerik.Web.UI.dll
+G:\DalERP\03 July 2017 DAL\INTEGRA\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+G:\DalERP\03 July 2017 DAL\INTEGRA\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+G:\DalERP\03 July 2017 DAL\INTEGRA\INTEGRA\obj\Debug\Integra.Resources.resources
+G:\DalERP\03 July 2017 DAL\INTEGRA\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+G:\DalERP\03 July 2017 DAL\INTEGRA\INTEGRA\obj\Debug\INTEGRA.dll
+G:\DalERP\03 July 2017 DAL\INTEGRA\INTEGRA\obj\Debug\INTEGRA.xml
+G:\DalERP\03 July 2017 DAL\INTEGRA\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\bin\bin\AjaxControlToolkit.dll
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\bin\bin\SmartControls.dll
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\bin\bin\Telerik.Web.UI.dll
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\bin\bin\Telerik.Web.UI.Skins.dll
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\bin\INTEGRA.dll
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\bin\INTEGRA.pdb
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\bin\INTEGRA.xml
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\bin\AjaxControlToolkit.dll
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\bin\SmartControls.dll
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\bin\Telerik.Web.UI.dll
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\obj\Debug\INTEGRA.dll
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\obj\Debug\INTEGRA.xml
+D:\Yasir\Running Applications\Digital Apparel\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\Yasir\DigitalApparel\INTEGRA\bin\bin\AjaxControlToolkit.dll
+D:\Yasir\DigitalApparel\INTEGRA\bin\bin\SmartControls.dll
+D:\Yasir\DigitalApparel\INTEGRA\bin\bin\Telerik.Web.UI.dll
+D:\Yasir\DigitalApparel\INTEGRA\bin\bin\Telerik.Web.UI.Skins.dll
+D:\Yasir\DigitalApparel\INTEGRA\bin\INTEGRA.dll
+D:\Yasir\DigitalApparel\INTEGRA\bin\INTEGRA.pdb
+D:\Yasir\DigitalApparel\INTEGRA\bin\INTEGRA.xml
+D:\Yasir\DigitalApparel\INTEGRA\bin\AjaxControlToolkit.dll
+D:\Yasir\DigitalApparel\INTEGRA\bin\SmartControls.dll
+D:\Yasir\DigitalApparel\INTEGRA\bin\Telerik.Web.UI.dll
+D:\Yasir\DigitalApparel\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\Yasir\DigitalApparel\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\Yasir\DigitalApparel\INTEGRA\obj\Debug\INTEGRA.dll
+D:\Yasir\DigitalApparel\INTEGRA\obj\Debug\INTEGRA.xml
+D:\Yasir\DigitalApparel\INTEGRA\obj\Debug\INTEGRA.pdb
+E:\Atif Hussain Bhatti\27 JULY 2017 DAL\INTEGRA\bin\bin\AjaxControlToolkit.dll
+E:\Atif Hussain Bhatti\27 JULY 2017 DAL\INTEGRA\bin\bin\SmartControls.dll
+E:\Atif Hussain Bhatti\27 JULY 2017 DAL\INTEGRA\bin\bin\Telerik.Web.UI.dll
+E:\Atif Hussain Bhatti\27 JULY 2017 DAL\INTEGRA\bin\bin\Telerik.Web.UI.Skins.dll
+E:\Atif Hussain Bhatti\27 JULY 2017 DAL\INTEGRA\bin\INTEGRA.dll
+E:\Atif Hussain Bhatti\27 JULY 2017 DAL\INTEGRA\bin\INTEGRA.pdb
+E:\Atif Hussain Bhatti\27 JULY 2017 DAL\INTEGRA\bin\INTEGRA.xml
+E:\Atif Hussain Bhatti\27 JULY 2017 DAL\INTEGRA\bin\AjaxControlToolkit.dll
+E:\Atif Hussain Bhatti\27 JULY 2017 DAL\INTEGRA\bin\SmartControls.dll
+E:\Atif Hussain Bhatti\27 JULY 2017 DAL\INTEGRA\bin\Telerik.Web.UI.dll
+E:\Atif Hussain Bhatti\27 JULY 2017 DAL\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+E:\Atif Hussain Bhatti\27 JULY 2017 DAL\INTEGRA\obj\Debug\Integra.Resources.resources
+E:\Atif Hussain Bhatti\27 JULY 2017 DAL\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+E:\Atif Hussain Bhatti\27 JULY 2017 DAL\INTEGRA\obj\Debug\INTEGRA.dll
+E:\Atif Hussain Bhatti\27 JULY 2017 DAL\INTEGRA\obj\Debug\INTEGRA.xml
+E:\Atif Hussain Bhatti\27 JULY 2017 DAL\INTEGRA\obj\Debug\INTEGRA.pdb
+E:\Atif Hussain Bhatti\27 JULY 2017 DAL\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+E:\Nazar\DigitalApparel\16 August 2017\Digital\INTEGRA\bin\bin\AjaxControlToolkit.dll
+E:\Nazar\DigitalApparel\16 August 2017\Digital\INTEGRA\bin\bin\SmartControls.dll
+E:\Nazar\DigitalApparel\16 August 2017\Digital\INTEGRA\bin\bin\Telerik.Web.UI.dll
+E:\Nazar\DigitalApparel\16 August 2017\Digital\INTEGRA\bin\bin\Telerik.Web.UI.Skins.dll
+E:\Nazar\DigitalApparel\16 August 2017\Digital\INTEGRA\bin\INTEGRA.dll
+E:\Nazar\DigitalApparel\16 August 2017\Digital\INTEGRA\bin\INTEGRA.pdb
+E:\Nazar\DigitalApparel\16 August 2017\Digital\INTEGRA\bin\INTEGRA.xml
+E:\Nazar\DigitalApparel\16 August 2017\Digital\INTEGRA\bin\AjaxControlToolkit.dll
+E:\Nazar\DigitalApparel\16 August 2017\Digital\INTEGRA\bin\SmartControls.dll
+E:\Nazar\DigitalApparel\16 August 2017\Digital\INTEGRA\bin\Telerik.Web.UI.dll
+E:\Nazar\DigitalApparel\16 August 2017\Digital\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+E:\Nazar\DigitalApparel\16 August 2017\Digital\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+E:\Nazar\DigitalApparel\16 August 2017\Digital\INTEGRA\obj\Debug\Integra.Resources.resources
+E:\Nazar\DigitalApparel\16 August 2017\Digital\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+E:\Nazar\DigitalApparel\16 August 2017\Digital\INTEGRA\obj\Debug\INTEGRA.dll
+E:\Nazar\DigitalApparel\16 August 2017\Digital\INTEGRA\obj\Debug\INTEGRA.xml
+E:\Nazar\DigitalApparel\16 August 2017\Digital\INTEGRA\obj\Debug\INTEGRA.pdb
+E:\Atif\DAL Apparal\APP\INTEGRA\bin\bin\AjaxControlToolkit.dll
+E:\Atif\DAL Apparal\APP\INTEGRA\bin\bin\SmartControls.dll
+E:\Atif\DAL Apparal\APP\INTEGRA\bin\bin\Telerik.Web.UI.dll
+E:\Atif\DAL Apparal\APP\INTEGRA\bin\bin\Telerik.Web.UI.Skins.dll
+E:\Atif\DAL Apparal\APP\INTEGRA\bin\INTEGRA.dll
+E:\Atif\DAL Apparal\APP\INTEGRA\bin\INTEGRA.pdb
+E:\Atif\DAL Apparal\APP\INTEGRA\bin\INTEGRA.xml
+E:\Atif\DAL Apparal\APP\INTEGRA\bin\AjaxControlToolkit.dll
+E:\Atif\DAL Apparal\APP\INTEGRA\bin\SmartControls.dll
+E:\Atif\DAL Apparal\APP\INTEGRA\bin\Telerik.Web.UI.dll
+E:\Atif\DAL Apparal\APP\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+E:\Atif\DAL Apparal\APP\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+E:\Atif\DAL Apparal\APP\INTEGRA\obj\Debug\Integra.Resources.resources
+E:\Atif\DAL Apparal\APP\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+E:\Atif\DAL Apparal\APP\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+E:\Atif\DAL Apparal\APP\INTEGRA\obj\Debug\INTEGRA.dll
+E:\Atif\DAL Apparal\APP\INTEGRA\obj\Debug\INTEGRA.xml
+E:\Atif\DAL Apparal\APP\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\Atif Hussain Bhatti\DAL\APP\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\Atif Hussain Bhatti\DAL\APP\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\Atif Hussain Bhatti\DAL\APP\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\Atif Hussain Bhatti\DAL\APP\INTEGRA\obj\Debug\INTEGRA.dll
+D:\Atif Hussain Bhatti\DAL\APP\INTEGRA\obj\Debug\INTEGRA.xml
+D:\Atif Hussain Bhatti\DAL\APP\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\Atif Hussain Bhatti\DAL\APP\INTEGRA\bin\bin\AjaxControlToolkit.dll
+D:\Atif Hussain Bhatti\DAL\APP\INTEGRA\bin\bin\SmartControls.dll
+D:\Atif Hussain Bhatti\DAL\APP\INTEGRA\bin\bin\Telerik.Web.UI.dll
+D:\Atif Hussain Bhatti\DAL\APP\INTEGRA\bin\bin\Telerik.Web.UI.Skins.dll
+D:\Atif Hussain Bhatti\DAL\APP\INTEGRA\bin\INTEGRA.dll
+D:\Atif Hussain Bhatti\DAL\APP\INTEGRA\bin\INTEGRA.pdb
+D:\Atif Hussain Bhatti\DAL\APP\INTEGRA\bin\INTEGRA.xml
+D:\Atif Hussain Bhatti\DAL\APP\INTEGRA\bin\AjaxControlToolkit.dll
+D:\Atif Hussain Bhatti\DAL\APP\INTEGRA\bin\SmartControls.dll
+D:\Atif Hussain Bhatti\DAL\APP\INTEGRA\bin\Telerik.Web.UI.dll
+D:\Atif Hussain Bhatti\DAL\APP\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+G:\Atif Hussain Bhatti\DAL\APP\INTEGRA\bin\bin\AjaxControlToolkit.dll
+G:\Atif Hussain Bhatti\DAL\APP\INTEGRA\bin\bin\SmartControls.dll
+G:\Atif Hussain Bhatti\DAL\APP\INTEGRA\bin\bin\Telerik.Web.UI.dll
+G:\Atif Hussain Bhatti\DAL\APP\INTEGRA\bin\bin\Telerik.Web.UI.Skins.dll
+G:\Atif Hussain Bhatti\DAL\APP\INTEGRA\bin\INTEGRA.dll
+G:\Atif Hussain Bhatti\DAL\APP\INTEGRA\bin\INTEGRA.pdb
+G:\Atif Hussain Bhatti\DAL\APP\INTEGRA\bin\INTEGRA.xml
+G:\Atif Hussain Bhatti\DAL\APP\INTEGRA\bin\AjaxControlToolkit.dll
+G:\Atif Hussain Bhatti\DAL\APP\INTEGRA\bin\SmartControls.dll
+G:\Atif Hussain Bhatti\DAL\APP\INTEGRA\bin\Telerik.Web.UI.dll
+G:\Atif Hussain Bhatti\DAL\APP\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+G:\Atif Hussain Bhatti\DAL\APP\INTEGRA\obj\Debug\Integra.Resources.resources
+G:\Atif Hussain Bhatti\DAL\APP\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+G:\Atif Hussain Bhatti\DAL\APP\INTEGRA\obj\Debug\INTEGRA.dll
+G:\Atif Hussain Bhatti\DAL\APP\INTEGRA\obj\Debug\INTEGRA.xml
+G:\Atif Hussain Bhatti\DAL\APP\INTEGRA\obj\Debug\INTEGRA.pdb
+G:\Atif Hussain Bhatti\DAL\APP\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+F:\Yasir\DAL sAFTEY bACKUP ON 18 APRIL 2018\INTEGRA\bin\bin\AjaxControlToolkit.dll
+F:\Yasir\DAL sAFTEY bACKUP ON 18 APRIL 2018\INTEGRA\bin\bin\SmartControls.dll
+F:\Yasir\DAL sAFTEY bACKUP ON 18 APRIL 2018\INTEGRA\bin\bin\Telerik.Web.UI.dll
+F:\Yasir\DAL sAFTEY bACKUP ON 18 APRIL 2018\INTEGRA\bin\bin\Telerik.Web.UI.Skins.dll
+F:\Yasir\DAL sAFTEY bACKUP ON 18 APRIL 2018\INTEGRA\bin\INTEGRA.dll
+F:\Yasir\DAL sAFTEY bACKUP ON 18 APRIL 2018\INTEGRA\bin\INTEGRA.pdb
+F:\Yasir\DAL sAFTEY bACKUP ON 18 APRIL 2018\INTEGRA\bin\INTEGRA.xml
+F:\Yasir\DAL sAFTEY bACKUP ON 18 APRIL 2018\INTEGRA\bin\AjaxControlToolkit.dll
+F:\Yasir\DAL sAFTEY bACKUP ON 18 APRIL 2018\INTEGRA\bin\SmartControls.dll
+F:\Yasir\DAL sAFTEY bACKUP ON 18 APRIL 2018\INTEGRA\bin\Telerik.Web.UI.dll
+F:\Yasir\DAL sAFTEY bACKUP ON 18 APRIL 2018\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+F:\Yasir\DAL sAFTEY bACKUP ON 18 APRIL 2018\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+F:\Yasir\DAL sAFTEY bACKUP ON 18 APRIL 2018\INTEGRA\obj\Debug\Integra.Resources.resources
+F:\Yasir\DAL sAFTEY bACKUP ON 18 APRIL 2018\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+F:\Yasir\DAL sAFTEY bACKUP ON 18 APRIL 2018\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+F:\Yasir\DAL sAFTEY bACKUP ON 18 APRIL 2018\INTEGRA\obj\Debug\INTEGRA.dll
+F:\Yasir\DAL sAFTEY bACKUP ON 18 APRIL 2018\INTEGRA\obj\Debug\INTEGRA.xml
+F:\Yasir\DAL sAFTEY bACKUP ON 18 APRIL 2018\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\DAL\INTEGRA\bin\bin\AjaxControlToolkit.dll
+D:\DAL\INTEGRA\bin\bin\SmartControls.dll
+D:\DAL\INTEGRA\bin\bin\Telerik.Web.UI.dll
+D:\DAL\INTEGRA\bin\bin\Telerik.Web.UI.Skins.dll
+D:\DAL\INTEGRA\bin\INTEGRA.dll
+D:\DAL\INTEGRA\bin\INTEGRA.pdb
+D:\DAL\INTEGRA\bin\INTEGRA.xml
+D:\DAL\INTEGRA\bin\AjaxControlToolkit.dll
+D:\DAL\INTEGRA\bin\SmartControls.dll
+D:\DAL\INTEGRA\bin\Telerik.Web.UI.dll
+D:\DAL\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\DAL\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\DAL\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\DAL\INTEGRA\obj\Debug\INTEGRA.dll
+D:\DAL\INTEGRA\obj\Debug\INTEGRA.xml
+D:\DAL\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\DAL\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\Yasir\DigitalApparel\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\Yasir\DigitalApparel\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+D:\Yasir\E&M\INTEGRA\bin\bin\AjaxControlToolkit.dll
+D:\Yasir\E&M\INTEGRA\bin\bin\SmartControls.dll
+D:\Yasir\E&M\INTEGRA\bin\bin\Telerik.Web.UI.dll
+D:\Yasir\E&M\INTEGRA\bin\bin\Telerik.Web.UI.Skins.dll
+D:\Yasir\E&M\INTEGRA\bin\INTEGRA.dll
+D:\Yasir\E&M\INTEGRA\bin\INTEGRA.pdb
+D:\Yasir\E&M\INTEGRA\bin\INTEGRA.xml
+D:\Yasir\E&M\INTEGRA\bin\AjaxControlToolkit.dll
+D:\Yasir\E&M\INTEGRA\bin\SmartControls.dll
+D:\Yasir\E&M\INTEGRA\bin\Telerik.Web.UI.dll
+D:\Yasir\E&M\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\Yasir\E&M\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\Yasir\E&M\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\Yasir\E&M\INTEGRA\obj\Debug\INTEGRA.dll
+D:\Yasir\E&M\INTEGRA\obj\Debug\INTEGRA.xml
+D:\Yasir\E&M\INTEGRA\obj\Debug\INTEGRA.pdb
+E:\Kashif\EM\app\INTEGRA\bin\bin\AjaxControlToolkit.dll
+E:\Kashif\EM\app\INTEGRA\bin\bin\SmartControls.dll
+E:\Kashif\EM\app\INTEGRA\bin\bin\Telerik.Web.UI.dll
+E:\Kashif\EM\app\INTEGRA\bin\bin\Telerik.Web.UI.Skins.dll
+E:\Kashif\EM\app\INTEGRA\bin\INTEGRA.dll
+E:\Kashif\EM\app\INTEGRA\bin\INTEGRA.pdb
+E:\Kashif\EM\app\INTEGRA\bin\INTEGRA.xml
+E:\Kashif\EM\app\INTEGRA\bin\AjaxControlToolkit.dll
+E:\Kashif\EM\app\INTEGRA\bin\SmartControls.dll
+E:\Kashif\EM\app\INTEGRA\bin\Telerik.Web.UI.dll
+E:\Kashif\EM\app\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+E:\Kashif\EM\app\INTEGRA\obj\Debug\Integra.Resources.resources
+E:\Kashif\EM\app\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+E:\Kashif\EM\app\INTEGRA\obj\Debug\INTEGRA.dll
+E:\Kashif\EM\app\INTEGRA\obj\Debug\INTEGRA.xml
+E:\Kashif\EM\app\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\Mani\GaraTax\INTEGRA\bin\bin\AjaxControlToolkit.dll
+D:\Mani\GaraTax\INTEGRA\bin\bin\SmartControls.dll
+D:\Mani\GaraTax\INTEGRA\bin\bin\Telerik.Web.UI.dll
+D:\Mani\GaraTax\INTEGRA\bin\bin\Telerik.Web.UI.Skins.dll
+D:\Mani\GaraTax\INTEGRA\bin\INTEGRA.dll
+D:\Mani\GaraTax\INTEGRA\bin\INTEGRA.pdb
+D:\Mani\GaraTax\INTEGRA\bin\INTEGRA.xml
+D:\Mani\GaraTax\INTEGRA\bin\AjaxControlToolkit.dll
+D:\Mani\GaraTax\INTEGRA\bin\SmartControls.dll
+D:\Mani\GaraTax\INTEGRA\bin\Telerik.Web.UI.dll
+D:\Mani\GaraTax\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+D:\Mani\GaraTax\INTEGRA\obj\Debug\Integra.Resources.resources
+D:\Mani\GaraTax\INTEGRA\obj\Debug\INTEGRA.vbproj.GenerateResource.Cache
+D:\Mani\GaraTax\INTEGRA\obj\Debug\INTEGRA.dll
+D:\Mani\GaraTax\INTEGRA\obj\Debug\INTEGRA.xml
+D:\Mani\GaraTax\INTEGRA\obj\Debug\INTEGRA.pdb
+D:\Mani\GaraTax\INTEGRA\obj\Debug\INTEGRA.vbprojResolveAssemblyReference.cache
+G:\umer\Garatex\App\INTEGRA\bin\bin\AjaxControlToolkit.dll
+G:\umer\Garatex\App\INTEGRA\bin\bin\SmartControls.dll
+G:\umer\Garatex\App\INTEGRA\bin\bin\Telerik.Web.UI.dll
+G:\umer\Garatex\App\INTEGRA\bin\bin\Telerik.Web.UI.Skins.dll
+G:\umer\Garatex\App\INTEGRA\bin\INTEGRA.dll
+G:\umer\Garatex\App\INTEGRA\bin\INTEGRA.pdb
+G:\umer\Garatex\App\INTEGRA\bin\INTEGRA.xml
+G:\umer\Garatex\App\INTEGRA\bin\AjaxControlToolkit.dll
+G:\umer\Garatex\App\INTEGRA\bin\SmartControls.dll
+G:\umer\Garatex\App\INTEGRA\bin\Telerik.Web.UI.dll
+G:\umer\Garatex\App\INTEGRA\bin\Telerik.Web.UI.Skins.dll
+G:\umer\Garatex\App\INTEGRA\obj\Debug\ResolveAssemblyReference.cache
+G:\umer\Garatex\App\INTEGRA\obj\Debug\Integra.Resources.resources
+G:\umer\Garatex\App\INTEGRA\obj\Debug\GenerateResource.read.1.tlog
+G:\umer\Garatex\App\INTEGRA\obj\Debug\GenerateResource.write.1.tlog
+G:\umer\Garatex\App\INTEGRA\obj\Debug\INTEGRA.dll
+G:\umer\Garatex\App\INTEGRA\obj\Debug\INTEGRA.xml
+G:\umer\Garatex\App\INTEGRA\obj\Debug\INTEGRA.pdb

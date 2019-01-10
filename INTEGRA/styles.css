@@ -1,0 +1,284 @@
+﻿div#MegaDropDown 
+{
+   margin: 0;
+   padding: 20px 0 0 0;
+   width: 880px;
+   height: 0px;
+   background-image: url('Img/main_back.jpg');
+   background-repeat: repeat; 
+}
+div#MegaDropDown h3
+{
+    margin: 0 0 15px 0;
+    padding: 4px 8px;
+    font-size: 12px;
+    font-weight: normal;
+    letter-spacing: 1px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+div#CatWrapper h3
+{
+    background-color: #9fba2d;
+}
+div#FeatProduct
+{
+   text-align: center;
+   
+}
+
+div#FeatProduct .price
+{
+   font-weight: bold;
+   color: #333;
+}
+
+div#FeatProduct h3 
+{
+    background-color: #808080;
+    text-align: left;
+}
+
+div.RadSiteMap .rsmLink, 
+div.RadSiteMap .rsmTemplate
+{
+    padding: 0;
+}
+
+.RadSiteMap .rsmTwoLevels .rsmLevel1 .rsmItem {
+    list-style:disc inside none;
+}
+
+div.RadSiteMap .rsmTwoLevels .rsmLevel1 .rsmLink, 
+div.RadSiteMap .rsmTwoLevels .rsmLevel1 .rsmTemplate
+{
+    padding-left: 0;
+}
+
+div.Wrapper 
+{
+    margin: 0 15px 0 0;
+    padding: 0 0 5px 0;
+    float: right;
+    width: 610px;
+}
+
+div.Wrapper h3
+{
+    text-transform: uppercase;
+}
+
+#StoreWrapper h3
+{
+    background-color: #006e97;
+}
+
+#NewsWrapper h3
+{
+    background-color: #ff4e00;
+}
+
+#EventWrapper h3
+{
+    background-color: #976eff;
+}
+
+div#FeatProduct
+{
+    margin: 0;
+    padding: 0;
+    float: left;
+    width: 320px;
+    padding-left: 15px;
+}
+
+div.RadMenu .rmGroup .rmText {
+    margin:20px 0 0 4px;
+    padding: 8px 0 0 10px;
+    color:Green;
+}
+
+div.RadMenu_Sitefinity ul.rmRootGroup, 
+div.RadMenu_Sitefinity div.rmRootGroup
+{
+    background: none;
+    border: 0;
+    height: 100%;
+    padding-left: 20px;
+}
+
+div.RadMenu_Sitefinity .rmHorizontal .rmItem
+{
+    padding: 0;
+}
+
+div.RadMenu .rmItem {
+    position: static;
+}
+
+div.RadMenu_Sitefinity .rmLink .rmText,
+div.RadMenu_Sitefinity .rmFocused .rmText
+{
+    line-height: 57px;
+    color: #FFF;
+    text-transform: uppercase;
+}
+
+div.RadMenu_Sitefinity .rmLink:hover,
+div.RadMenu_Sitefinity .rmFocused,
+div.RadMenu_Sitefinity .rmSelected,
+div.RadMenu_Sitefinity .rmExpanded
+{
+    background: transparent url('Img/RootBg.png') repeat-x 0 0;
+}
+
+* html div.RadMenu_Sitefinity .rmLink:hover,
+* html div.RadMenu_Sitefinity .rmFocused,
+* html div.RadMenu_Sitefinity .rmSelected,
+* html div.RadMenu_Sitefinity .rmExpanded
+{
+    background: #FFF;
+    filter: alpha(opacity=70);
+}
+
+div.RadMenu_Sitefinity .rmSelected .rmText,
+div.RadMenu_Sitefinity .rmLink:hover .rmText,
+div.RadMenu_Sitefinity .rmExpanded .rmText
+{
+    color: #555;
+}
+
+div.RadMenu_Sitefinity .rmHorizontal .rmItem a.rmLink .rmText
+{
+    border:0 none;
+}
+
+#world
+{
+    float: left;
+    border: 0; 
+}
+
+#StoreWrapper .RadSiteMap
+{
+    display: inline-block;
+}
+
+#StoreWrapper .RadSiteMap .rsmLink, 
+#StoreWrapper .RadSiteMap .rsmTemplate
+{
+    border: 0;
+}
+
+#StoreWrapper .RadSiteMap .rsmLink 
+{
+    color: #369; 
+    background: none;
+}
+
+.Wrapper .moreLink
+{
+    margin-top: 20px;
+    float: right;
+    color: #369;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+#StoreWrapper .RadSiteMap .rsmLink:hover,
+.Wrapper .moreLink:hover
+{
+    color: #69A; 
+    text-decoration: underline;
+}
+
+#NewsWrapper h2,
+#EventWrapper h2
+{
+    font-weight: normal;
+    font-size: 16px;
+    margin-bottom: 0;
+}
+
+#NewsWrapper h2 a
+{
+    color: #ff4e00;
+    text-decoration: none;
+}
+#EventWrapper h2 a
+{
+    color: #976eff;
+    text-decoration: none;
+}
+#NewsWrapper h2 a:hover,
+#EventWrapper h2 a:hover
+{
+    text-decoration: underline;
+}
+
+#NewsWrapper p,
+#EventWrapper p
+{
+    margin: 8px 0;
+}
+
+#NewsWrapper span,
+#EventWrapper span
+{
+    display: block;
+    margin-top: 2px;
+    font-size: 10px;
+}
+
+#NewsWrapper .newsLeft,
+#EventWrapper .newsLeft
+{
+    float: left;
+    width: 320px;
+}
+
+#NewsWrapper table td,
+#EventWrapper table td
+{
+    font-size: 10px;
+    vertical-align: top;
+    line-height: 14px;
+    padding: 3px 0 0 10px;
+}
+
+#NewsWrapper table a,
+#EventWrapper table a
+{
+    margin: 0;
+    line-height: 18px;
+    font-size: 11px;
+    font-weight: bold;
+   color: #ff4e00;
+
+    text-decoration: none;
+}
+#EventWrapper table a
+{
+    color: #976eff;
+}
+#NewsWrapper table a:hover,
+#EventWrapper table a:hover
+{
+    text-decoration: underline;
+}
+
+#NewsWrapper table h4,
+#EventWrapper table h4
+{
+    font-size: 11px;
+    color: #369;
+    margin: -2px 0 0;
+    line-height: 18px;
+}
+.HeaderFreez
+{
+ position:relative ;
+ top:expression(this.offsetParent.scrollTop);
+ z-index: 10;
+}

@@ -1,0 +1,1180 @@
+﻿body {
+    background: none repeat scroll 0 0 #A1A1A1;
+    margin: 0 auto;
+} 
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    color: #333333;
+    font-family: verdana,arial,sans-serif;
+    font-size: 11px;
+  
+}
+h1 {
+    background: none repeat scroll 0 0 #494949;
+    color: #A8A6A7;
+    font-family: arial,verdana,sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    height: 40px;
+    line-height: 40px;
+    margin: 0 0 5px;
+    padding: 0 0 0 10px;
+    text-transform: uppercase;
+}
+h1.green {
+    background: none repeat scroll 0 0 #009ede;
+    color: #FFFFFF;
+}
+h1.greenn {
+    background: none repeat scroll 0 0 #eb8e22;
+    color: #FFFFFF;
+}
+h1.grayy {
+   color       :  #494949;
+  background  :  #d9d9d9;
+}
+
+
+h1.gray {
+    background: none repeat scroll 0 0 #009ede;
+    color: #494949;
+}
+h1.darkGray {
+    background: none repeat scroll 0 0 #009ede;
+    color: #B6E500;
+}
+h1.small {
+    color: #009ede;
+    font-size: 17px;
+    height: 29px;
+    line-height: 29px;
+}
+h1 span {
+    float: right;
+    margin-right: 10px;
+    text-transform: none;
+}
+h2 {
+    background: none repeat scroll 0 0 #009ede;
+    color: #FFFFFF;
+    font-family: verdana,arial,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 0 0 10px;
+    padding: 5px 0 5px 10px;
+}
+h2.green {
+    background: none repeat scroll 0 0 #009ede;
+    color: #FFFFFF;
+}
+h3 {
+    background: none repeat scroll 0 0 #009ede;
+    color: #000000;
+    font-family: verdana,arial,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 0;
+    padding: 5px 0 5px 10px;
+}
+h3.green {
+    background: none repeat scroll 0 0 #009ede;
+    color: #FFFFFF;
+    margin: 0 0 1px;
+}
+h4 {
+    border-bottom: 1px solid #009ede;
+    color: #444444;
+    font-family: verdana,arial,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0 0 5px;
+    padding: 0 0 2px;
+}
+ 
+ul, ol {
+    margin: 5px 0 15px;
+}
+li {
+    padding: 0 0 5px;
+}
+hr {
+    border-color: #444444 #FFFFFF #FFFFFF;
+    border-style: dotted solid;
+    border-width: 1px;
+    font-size: 1px;
+    margin: 15px 0;
+    padding: 0;
+}
+form {
+    margin: 0;
+}
+input.textbox, select, textarea {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #AAAAAA;
+    color: #333333;
+    font-family: verdana,arial,sans-serif;
+    font-size: 11px;
+    padding: 2px;
+}
+select {
+    padding: 1px;
+}
+div.textboxBg {
+    background: url("textbox-bg.jpg") no-repeat scroll left top #FFFFFF;
+    padding: 4px 8px 12px 7px;
+    width: 148px;
+}
+div.textboxBg input {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: medium none;
+    color: #333333;
+    font-family: verdana,arial,sans-serif;
+    font-size: 11px;
+    width: 132px;
+}
+textarea {
+    min-height: 50px;
+}
+input.file {
+    color: #333333;
+    font-family: verdana,arial,sans-serif;
+    font-size: 11px;
+    padding: 2px;
+}
+input.button {
+    color: #333333;
+    cursor: pointer;
+    font-family: verdana,arial,sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 3px;
+}
+input.btnSmall {
+    color: #666666;
+    cursor: pointer;
+    font-family: verdana,arial,sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 2px 2px 1px;
+}
+.mandatory, .error, .red {
+    color: #FF0000;
+    font-size: 12px;
+    font-weight: bold;
+}
+.buttonsBar {
+    background: none repeat scroll 0 0 #494949;
+    height: 30px;
+}
+.buttonsBar .options {
+    float: right;
+    padding: 5px 0 0;
+}
+.buttonsBar .options input, .buttonsBar .options b {
+    color: #FFFFFF;
+    display: block;
+    float: left;
+    padding: 3px 15px 0 2px;
+}
+html, body, #MainDiv {
+}
+#MainDiv {
+    margin: 0 auto;
+    width: 1001px;
+}
+#PageLeftBorder {
+    background: url("../images/page-left-border.jpg") repeat-y scroll left top transparent;
+}
+#PageRightBorder {
+    background: url("../images/page-right-border.jpg") repeat-y scroll right top transparent;
+    padding: 0 15px;
+}
+#PageContents {
+ 
+    background: none repeat scroll 0 0 #FFFFFF;
+    padding: 10px 20px 50px; 
+    text-align: left;
+}
+#Header
+{
+ background: none repeat scroll 0 0; 
+	background: height:90px;
+	position: relative;
+	 
+}
+	
+#Header .qrc {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+}
+#Navigation {
+    padding: 5px 0;
+}
+#Navigation #MainNav {
+    background: none repeat scroll 0 0 #D9D9D9;
+    height: 30px;
+}
+#Navigation #MainNav a {
+    background: none repeat scroll 0 0 #D9D9D9;
+    border-right: 1px solid #E6E6E6;
+    color: #555555;
+    display: block;
+    float: left;
+    font-family: verdana,arial,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 30px;
+    padding: 0 12px;
+    text-decoration: none;
+}
+#Navigation #MainNav a:hover {
+    background: none repeat scroll 0 0 #999999;
+    border-right: 1px solid #EEEEEE;
+    color: #FFFFFF;
+    display: block;
+    float: left;
+    font-family: verdana,arial,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 30px;
+    padding: 0 12px;
+    text-decoration: none;
+}
+#Navigation #MainNav a.selected, #Navigation #MainNav a.selected:hover {
+    background: none repeat scroll 0 0 #0072d6;
+    border-right: 1px solid #EEEEEE;
+    color: #CDFE02;
+    display: block;
+    float: left;
+    font-family: verdana,arial,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 30px;
+    padding: 0 13px;
+    text-decoration: none;
+}
+#Navigation #SubNav {
+    background: none repeat scroll 0 0 #0072d6;
+    color: #B1B1B1;
+    font-family: verdana,arial,sans-serif;
+    font-size: 12px;
+    line-height: 18px;
+    padding: 0 4px;
+}
+#Navigation #SubNav span {
+    color: #EEEEEE;
+}
+#Navigation #SubNav a {
+    color: #FFFFFF;
+    font-family: verdana,arial,sans-serif;
+    font-size: 12px;
+    text-decoration: none;
+}
+#Navigation #SubNav a:hover {
+    color: #101010;
+    font-family: verdana,arial,sans-serif;
+    font-size: 12px;
+    text-decoration: none;
+}
+#Navigation #Trail {
+    background: none repeat scroll 0 0 #F0F0F0;
+    color: #666666;
+    font-family: verdana,arial,sans-serif;
+    font-size: 12px;
+    height: 26px;
+    line-height: 26px;
+    padding: 0 8px;
+}
+#Navigation #Trail a {
+    color: #666666;
+    font-family: verdana,arial,sans-serif;
+    font-size: 12px;
+    text-decoration: none;
+}
+#Navigation #Trail a:hover {
+    color: #0958A7;
+    font-family: verdana,arial,sans-serif;
+    font-size: 12px;
+    text-decoration: underline;
+}
+#Navigation #Trail b {
+    color: #333333;
+}
+#Navigation #Trail img {
+    height: 8px;
+    margin: 0 3px;
+    width: 5px;
+}
+#Body {
+    min-height: 252px;
+    position: relative;
+    z-index: 10;
+}
+#Footer {
+    margin-top: 5px;
+}
+#Footer #Terms {
+    background: none repeat scroll 0 0 #D9D9D9;
+    color: #000000;
+    font-family: arial,verdana,sans-serif;
+    font-size: 11px;
+    height: 10px;
+    line-height: 28px;
+    padding: 0 5px;
+    text-align: center;
+}
+#Footer #Terms a {
+    color: #000000;
+    font-family: arial,verdana,sans-serif;
+    font-size: 11px;
+    text-decoration: underline;
+}
+#Footer #Terms a:hover {
+    color: #555555;
+    font-family: arial,verdana,sans-serif;
+    font-size: 11px;
+    text-decoration: none;
+}
+#Footer #FooterLinks {
+    background: none repeat scroll 0 0 #F0F0F0;
+    border-top: 2px solid #666666;
+    color: #B1B1B1;
+    font-family: verdana,arial,sans-serif;
+    font-size: 11px;
+    height: 12px;
+    line-height: 25px;
+    margin: 5px 0 20px;
+    padding-left: 10px;
+}
+#Footer #FooterLinks a {
+    color: #0066CB;
+    font-family: verdana,arial,sans-serif;
+    font-size: 11px;
+    text-decoration: none;
+}
+#Footer #FooterLinks a:hover {
+    color: #494949;
+    font-family: verdana,arial,sans-serif;
+    font-size: 11px;
+    text-decoration: underline;
+}
+#Footer #Copyright {
+    color: #000000;
+    font-family: verdana,arial,sans-serif;
+    font-size: 07px;
+    line-height: 10px;
+    text-align: center;
+}
+#Footer #Copyright big {
+    color: #666666;
+    font-family: verdana,arial,sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+}
+#Paging {
+    background: none repeat scroll 0 0 #B6E500;
+    height: 28px;
+    line-height: 28px;
+    margin-top: 4px;
+    padding: 0 6px;
+}
+#Paging td {
+    color: #666666;
+    font-family: verdana,arial,sans-serif;
+    font-size: 12px;
+}
+#Paging a {
+    color: #FFFFFF;
+    font-family: verdana,arial,sans-serif;
+    font-size: 12px;
+    text-decoration: none;
+}
+#Paging a:hover {
+    color: #333333;
+    font-family: verdana,arial,sans-serif;
+    font-size: 12px;
+    text-decoration: none;
+}
+#Paging a span {
+    font-size: 14px;
+}
+#Alert {
+    background: none repeat scroll 0 0 #F2EDC2;
+    border-bottom: 2px solid #000000;
+    color: #444444;
+    font-family: tahoma,verdana,arial;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 5px;
+    text-align: left;
+}
+#Info {
+    background: none repeat scroll 0 0 #FFEAD2;
+    border-bottom: 2px solid #000000;
+    color: #444444;
+    font-family: tahoma,verdana,arial;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 5px;
+    text-align: left;
+}
+#Error {
+    background: none repeat scroll 0 0 #EC4444;
+    border-bottom: 2px solid #000000;
+    color: #FFFFFF;
+    font-family: tahoma,verdana,arial;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 5px;
+    text-align: left;
+}
+#Processing {
+    background: none repeat scroll 0 0 #F9F7E0;
+    border: 2px solid #E59408;
+    color: #444444;
+    font-family: verdana,arial,sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    left: -2px;
+    line-height: 32px;
+    overflow: hidden;
+    padding: 5px 0 5px 10px;
+    position: fixed;
+    top: 30px;
+    width: 250px;
+    z-index: 10000;
+}
+#Processing img {
+    float: left;
+    height: 32px;
+    margin: 0 10px 0 0;
+    width: 32px;
+}
+#UserMessage {
+    background: none repeat scroll 0 0 #F9F9F9;
+    border: 2px solid #666666;
+    color: #000000;
+    font-family: verdana,arial,sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    left: -2px;
+    line-height: 32px;
+    overflow: hidden;
+    padding: 5px 25px 5px 10px;
+    position: fixed;
+    top: 30px;
+    z-index: 10000;
+}
+.msgOk {
+    margin-top: 10px;
+}
+.msgOk div {
+    background: url("../images/icons/ok.png") no-repeat scroll 12px 9px #F1EDCD;
+    color: #000000;
+    font-family: verdana,arial,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 18px 10px 18px 55px;
+}
+div.autocomplete {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #AAAAAA;
+    margin: 0;
+    max-height: 200px;
+    overflow: auto;
+    padding: 0;
+    z-index: 1000000;
+}
+div.autocomplete ul {
+    border-bottom: 1px dotted #000000;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+div.autocomplete ul li.selected {
+    background: none repeat scroll 0 0 #F7EF9B;
+}
+div.autocomplete ul li {
+    border-top: 1px dotted #000000;
+    color: #000000;
+    cursor: pointer;
+    display: block;
+    font-family: verdana,arial,sans-serif;
+    font-size: 10px;
+    line-height: 15px;
+    margin: 0;
+    padding: 2px 2px 2px 5px;
+}
+form.inplaceeditor-form {
+    margin: 0;
+}
+form.inplaceeditor-form input[type="text"] {
+    color: #333333;
+    font-family: verdana,arial,sans-serif;
+    font-size: 11px;
+    padding: 2px;
+}
+form.inplaceeditor-form textarea {
+}
+form.inplaceeditor-form input[type="submit"] {
+    color: #222222;
+    cursor: pointer;
+    font-family: verdana,arial,sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 0 1px 0 3px;
+    padding: 2px;
+}
+form.inplaceeditor-form a {
+}
+.commission input[type="text"] {
+    width: 40px;
+}
+.finalAudit input[type="text"], .etdRequired input[type="text"] {
+    width: 80px;
+}
+.qaImages input[type="text"] {
+    display: block;
+    margin-bottom: 5px;
+    width: 160px;
+}
+.block {
+    background: url("block-bg.jpg") repeat-y scroll 0 0 transparent;
+    width: 341px;
+}
+.block .blockBottom {
+    background: url("block-bottom-bg.jpg") no-repeat scroll left bottom transparent;
+}
+.block .blockTop {
+    background: url("block-top-bg.jpg") no-repeat scroll left top transparent;
+    min-height: 190px;
+    padding: 5px 10px 10px 5px;
+}
+#Profile {
+    left: 591px;
+    position: absolute;
+    top: 0;
+    width: 341px;
+    z-index: 100000;
+}
+.frmOutline {
+    border: 1px solid #444444;
+    padding: 1px;
+}
+.frmInlineEdit {
+    background: none repeat scroll 0 0 #F9F7EC;
+    border: 1px solid #F1EDCD;
+    padding: 10px;
+}
+#SearchBar {
+    background: none repeat scroll 0 0 #ABA7A6;
+    height: 40px;
+    margin-bottom: 4px;
+    padding: 0 0 0 8px;
+}
+#SearchBar td {
+    color: #FFFFFF;
+    font-family: verdana,arial,sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 40px;
+}
+#SubSearchBar {
+    background: none repeat scroll 0 0 #ABA7A6;
+    height: 30px;
+    margin-bottom: 4px;
+    padding: 0 0 0 8px;
+}
+#SubSearchBar td {
+    color: #FFFFFF;
+    font-family: verdana,arial,sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 30px;
+}
+#SubSearchBar td a {
+    color: #494949;
+}
+#SubSearchBar td a:hover {
+    color: #FFFFFF;
+}
+.tblSheet {
+    border: 1px solid #444444;
+    padding: 1px 0 0 1px;
+}
+.tblSheet .headerRow {
+    background: none repeat scroll 0 0 #666666;
+}
+.tblSheet .headerRow td {
+    color: #FFFFFF;
+    font-weight: bold;
+    text-align: left;
+}
+.tblSheet .evenRow {
+    background: none repeat scroll 0 0 #F6F4F5;
+}
+.tblSheet .evenRow:hover {
+    background: none repeat scroll 0 0 #F1EDCD;
+}
+.tblSheet .evenRow:hover td {
+    color: #000000;
+}
+.tblSheet .oddRow {
+    background: none repeat scroll 0 0 #DCDCDC;
+}
+.tblSheet .oddRow:hover {
+    background: none repeat scroll 0 0 #F1EDCD;
+}
+.tblSheet .oddRow:hover td {
+    color: #000000;
+}
+.tblSheet .evenRow td, .tblSheet .oddRow td {
+    text-align: left;
+}
+.tblSheet .headerRow td.center, .tblSheet .evenRow td.center, .tblSheet .oddRow td.center, .tblSheet .footerRow td.center {
+    text-align: center;
+}
+.tblSheet .headerRow td.right, .tblSheet .evenRow td.right, .tblSheet .oddRow td.right, .tblSheet .footerRow td.right {
+    text-align: right;
+}
+.tblSheet .footerRow {
+    background: none repeat scroll 0 0 #999999;
+}
+.tblSheet .footerRow td {
+    color: #FFFFFF;
+    font-weight: bold;
+    text-align: left;
+}
+.tblSheet .headerRow a {
+    color: #FFFFFF;
+}
+.tblSheet .noRecord {
+    background: none repeat scroll 0 0 #F3F3F3;
+    color: #999999;
+    font-family: verdana,arial,sans-serif;
+    font-size: 30px;
+    padding: 25px;
+}
+.tblSheet a.sheetLink {
+    color: #000000;
+    font-family: verdana,arial,sans-serif;
+    font-size: 11px;
+    text-decoration: none;
+}
+.tblSheet a.sheetLink:hover {
+    color: #000000;
+    font-family: verdana,arial,sans-serif;
+    font-size: 11px;
+    text-decoration: underline;
+}
+.tblSheet a.whiteLink {
+    color: #FFFFFF;
+    font-family: verdana,arial,sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.tblSheet a.whiteLink:hover {
+    color: #EEEEEE;
+    font-family: verdana,arial,sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.tblSheet .error {
+    color: #AD2D0B;
+    font-size: 11px;
+    font-weight: normal;
+}
+.tblSheet .ok {
+    color: #0B6207;
+    font-size: 11px;
+    font-weight: normal;
+}
+.tblSheet .warning {
+    color: #FF9600;
+    font-size: 11px;
+    font-weight: normal;
+}
+.poRowHeader {
+    background: none repeat scroll 0 0 #E6E6E6;
+}
+.poRowHeader td {
+    font-size: 12px;
+    height: 28px;
+    line-height: 28px;
+}
+.poRowColor td {
+    height: 28px;
+    line-height: 28px;
+}
+.sdRowHeader {
+    background: none repeat scroll 0 0 #E6E6E6;
+}
+.sdRowHeader td {
+    font-size: 12px;
+}
+.sdRowColor td {
+    background: none repeat scroll 0 0 #F6F6F6;
+}
+.poRowTotal {
+    background: none repeat scroll 0 0 #B6E500;
+    border-bottom: 4px solid #FFFFFF;
+    border-top: 4px solid #FFFFFF;
+    color: #FFFFFF;
+    font-family: verdana,arial,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 5px 10px 5px 5px;
+    position: relative;
+    text-align: right;
+}
+.poRowTotal div {
+    background: none repeat scroll 0 0 #B6E500;
+    float: left;
+    padding: 1px 0 0 3px;
+}
+.poRowTotal div a {
+    color: #444444;
+}
+.poRowTotal div a:hover {
+    color: #FF0000;
+}
+.poGrandTotal {
+    background: none repeat scroll 0 0 #B60000;
+    color: #FFFFFF;
+    font-family: verdana,arial,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    height: 30px;
+    line-height: 30px;
+    margin: 0 4px 4px;
+    padding: 0 10px 0 0;
+    position: relative;
+    text-align: right;
+}
+.poGrandTotal div {
+    height: 30px;
+    left: 0;
+    position: absolute;
+    top: 0;
+}
+#PopupDiv {
+    margin: 2px auto;
+    width: 679px;
+}
+#PopupDiv #PageContents {
+    padding: 0;
+}
+#PopupDiv h2 {
+    margin: 0 0 5px;
+}
+#PopupDiv .poRowHeader td {
+    font-size: 12px;
+    height: 25px;
+    line-height: 25px;
+}
+#PopupDiv .poRowColor td {
+    height: auto;
+    line-height: 12px;
+    padding: 5px;
+}
+#PopupDiv .sizesRow {
+    background: none repeat scroll 0 0 #EEEEEE;
+}
+#PopupDiv .quantitiesRow {
+    background: none repeat scroll 0 0 #FAFAFA;
+}
+#PopupDiv .poGrandTotal {
+    margin: 0;
+}
+#PopupDiv .noRecord {
+    background: none repeat scroll 0 0 #F6F6F6;
+    color: #999999;
+    font-family: verdana,arial,sans-serif;
+    font-size: 24px;
+    padding: 40px;
+}
+.grayBar, .grayBar td, .grayBar div {
+    background: none repeat scroll 0 0 #494949;
+    color: #FFFFFF;
+}
+.grayBar a {
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+.grayBar a:hover {
+    color: #B6E600;
+    text-decoration: none;
+}
+.profileLinks {
+    padding: 10px 10px 5px 0;
+    text-align: right;
+}
+#ProfilePic {
+    position: relative;
+    width: 162px;
+}
+#ProfilePic #Pic {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #BBBBBB;
+    padding: 1px;
+}
+#ProfilePic #Pic img {
+    height: 118px;
+    width: 158px;
+}
+#ProfilePic #Link {
+    background: none repeat scroll 0 0 #F3F3F3;
+    height: 22px;
+    left: 2px;
+    line-height: 22px;
+    position: absolute;
+    text-align: center;
+    top: 90px;
+    width: 158px;
+}
+#ProfilePic #Link a:hover {
+    text-decoration: none;
+}
+.orderQty {
+    background: none repeat scroll 0 0 #494949;
+    color: #FFFFFF;
+    font-family: verdana,arial,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    height: 30px;
+    line-height: 30px;
+    margin: 4px 0;
+    padding: 0 10px 0 5px;
+    position: relative;
+    text-align: left;
+}
+.shipQty {
+    background: none repeat scroll 0 0 #B60000;
+    color: #FFFFFF;
+    font-family: verdana,arial,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    height: 30px;
+    line-height: 30px;
+    padding: 0 10px 0 5px;
+    position: relative;
+    text-align: left;
+}
+.qaButtons {
+    background: none repeat scroll 0 0 #494949;
+    margin-bottom: 1px;
+    position: relative;
+    text-align: right;
+}
+.qaPic, .albumPic {
+    height: 164px;
+    padding: 0 0 5px;
+    width: 164px;
+}
+.qaPic div, .albumPic div {
+    border: 1px solid #888888;
+}
+.qaPic div img, .albumPic div img {
+    background: none repeat scroll 0 0 #F3F3F3;
+    height: 160px;
+    margin: 1px;
+    width: 160px;
+}
+.qaPoPic {
+    height: 120px;
+    padding: 0 0 5px;
+    width: 120px;
+}
+.qaPoPic div {
+    border: 1px solid #888888;
+}
+.qaPoPic div img {
+    background: none repeat scroll 0 0 #F3F3F3;
+    height: 116px;
+    margin: 1px;
+    width: 116px;
+}
+#Glider div.scroller, #VendorsGlider div.scroller, #BrandsGlider div.scroller {
+    overflow: hidden;
+    width: 737px;
+}
+#QuondaGlider div.scroller {
+    overflow: hidden;
+    width: 780px;
+}
+#Glider div.scroller div.content, #VendorsGlider div.scroller div.content, #BrandsGlider div.scroller div.content, #QuondaGlider div.scroller div.content {
+    width: 100000px;
+}
+#Glider div.scroller div.section, #VendorsGlider div.scroller div.section, #BrandsGlider div.scroller div.section {
+    float: left;
+    overflow: hidden;
+    padding: 0;
+    width: 123px;
+}
+#QuondaGlider div.scroller div.section {
+    float: left;
+    overflow: hidden;
+    padding: 5px;
+    width: 120px;
+}
+.center {
+    text-align: center;
+}
+.right {
+    text-align: right;
+}
+.dateTime {
+    color: #888888;
+}
+.qsnSearch {
+    background: none repeat scroll 0 0 #ABA7A6;
+    border-top: 8px solid #494949;
+}
+.qsnSearch b {
+    color: #FFFFFF;
+}
+.qaMiniPic {
+    height: 80px;
+    padding: 0 0 3px;
+    width: 80px;
+}
+.qaMiniPic div {
+    border: 1px solid #EEEEEE;
+}
+.qaMiniPic div img {
+    background: none repeat scroll 0 0 #F3F3F3;
+    height: 76px;
+    margin: 1px;
+    width: 76px;
+}
+.vsrChart {
+    background: url("../images/chart-bg.jpg") no-repeat scroll 0 0 transparent;
+    min-height: 250px;
+    position: relative;
+    width: 306px;
+}
+.vsrChart .chart {
+    background: none repeat scroll 0 0 #FFFFFF;
+    height: 201px;
+    left: 5px;
+    overflow: hidden;
+    position: absolute;
+    top: 5px;
+    width: 296px;
+}
+.vsrChart .title {
+    background: none repeat scroll 0 0 #666666;
+    height: 22px;
+    left: 5px;
+    overflow: hidden;
+    position: absolute;
+    top: 211px;
+    width: 296px;
+}
+.vsrChart .title b {
+    color: #FFFFFF;
+    display: block;
+    font-family: verdana,arial,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 22px;
+    padding-left: 5px;
+    text-transform: uppercase;
+}
+.vsrChart .handle {
+    background: url("../images/chart-handle.jpg") no-repeat scroll 0 0 transparent;
+    cursor: pointer;
+    height: 7px;
+    left: 12px;
+    position: absolute;
+    top: 237px;
+    width: 32px;
+}
+.vsrChart .summary {
+    left: 0;
+    position: relative;
+    top: 237px;
+    width: 306px;
+    z-index: 1000000;
+}
+.vsrChart .summary .text {
+    background: url("../images/chart-summary-bg.jpg") no-repeat scroll left bottom #F0F0F0;
+    border: 1px solid #8095A6;
+    color: #666666;
+    font-family: verdana,arial,sans-serif;
+    font-size: 10px;
+    overflow: auto;
+    padding: 7px 7px 11px;
+}
+.vsrChart .summary .text td {
+    font-size: 10px;
+}
+.vsrChart .summary .handle {
+    background: url("../images/chart-handle-selected.jpg") no-repeat scroll 0 0 transparent;
+    height: 10px;
+    left: 12px;
+    position: relative;
+    top: -5px;
+    width: 32px;
+}
+#SlideShow {
+    background: none repeat scroll 0 0 #121212;
+    height: 471px;
+    width: 581px;
+}
+.fabricCategory {
+    background: url("../images/category-bg.jpg") no-repeat scroll 0 0 transparent;
+    height: 160px;
+    overflow: hidden;
+    width: 180px;
+}
+.fabricCategory img {
+    cursor: pointer;
+    margin: 9px 11px 0 9px;
+}
+.fabricCategory b {
+    color: #47292B;
+    display: block;
+    font-family: 'Trebuchet MS',arial,verdana;
+    font-size: 13px;
+    font-weight: normal;
+    height: 24px;
+    line-height: 24px;
+    overflow: hidden;
+    padding-left: 9px;
+}
+#Calendar {
+    padding: 2px 0;
+}
+#Calendar h1 {
+    margin: 0;
+    text-align: center;
+}
+#Calendar h1 a {
+    color: #A8A6A7;
+    font-size: 15px;
+    text-decoration: none;
+}
+#Calendar h1 a:hover {
+    color: #FFFFFF;
+    font-size: 15px;
+    text-decoration: none;
+}
+#ListMode .entry {
+    margin: 0 1px 1px 0;
+}
+#ListMode .entry h2 {
+    margin-bottom: 0;
+}
+#GridMode {
+    padding: 0;
+    position: relative;
+}
+#GridMode .header td {
+    background: none repeat scroll 0 0 #888888;
+    color: #DDDDDD;
+    font-family: arial,verdana,sans-serif;
+    font-size: 19px;
+    font-weight: bold;
+    height: 36px;
+    line-height: 36px;
+    text-align: center;
+    text-transform: uppercase;
+}
+#GridMode .empty {
+    background: none repeat scroll 0 0 #E6E6E6;
+}
+#GridMode div.day {
+    background: none repeat scroll 0 0 #F6F6F6;
+    color: #E6E6E6;
+    font-family: arial,verdana,sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    padding: 8px 10px 30px 0;
+    text-align: right;
+}
+#GridMode div.entries {
+    color: #BBBBBB;
+    cursor: pointer;
+}
+#GridMode div.dayEvents {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 3px double #333333;
+    padding: 1px;
+    position: absolute;
+    width: 400px;
+}
+#GridMode div.dayEvents h2 {
+    margin-bottom: 0;
+}
+.mode {
+    margin-top: 4px;
+    padding: 1px;
+}
+.tblSheet {
+    padding: 0;
+}
+ul.hr {
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-left: 15px;
+}
+ul.hr ul {
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-left: 35px;
+}
+ul.hr li u {
+    border-bottom: 1px dotted #000000;
+    text-decoration: none;
+}
+ul.auto-list {
+    background: none repeat scroll 0 0 #EEEEEE;
+    border: 2px solid #AAAAAA;
+    display: none;
+    left: 0;
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    z-index: 2147483647;
+}
+ul.auto-list > li {
+    border-top: 1px dotted #000000;
+    cursor: default;
+    padding: 2px;
+}
+ul.auto-list > li:hover, ul.auto-list > li[data-selected="true"] {
+    background-color: #F7EF9B;
+}
+.multiSelect {
+    background: none repeat scroll 0 0 #F9F9F9;
+    border: 1px solid #888888;
+  
+    padding: 3px;
+}
+.multiSelect:hover {
+    background: none repeat scroll 0 0 #FFFFEC;
+    border: 1px solid #666666;
+}
+.multiSelect label.title {
+    background: none repeat scroll 0 0 #CCCCCC;
+ 
+    display: block;
+    font-size: 12px;
+    padding: 4px;
+}
+.multiSelect label.title span {
+    float: right;
+}
+.multiSelect div {
+    height: 125px;
+    overflow: auto;
+}
+ 

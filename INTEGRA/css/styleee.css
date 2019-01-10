@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin:0 auto;
+	padding:0;
+}
+
+.Pakistan {
+	width:210px;
+	height:258px;
+	margin:10px 0 0 0;
+	padding:0 0 0 10px;
+	float:left;
+	background:url(../img/Pakistan.png) no-repeat;
+}
+.China {
+	width:220px;
+	height:258px;
+	margin:10px 0 0 0;
+	padding:0;
+	float:left;
+	background:url(../img/China.png) no-repeat;
+}
+.Bangladesh {
+	width:210px;
+	height:258px;
+	margin:10px 0 0 0px;
+	padding:0 0 0 10px;
+	float:left;
+	background:url(../img/Bangladesh.png) no-repeat;
+}
+
+.flag{
+width:100px;
+height:20px;
+margin:0 auto;
+padding:13px 0 0 58px;
+float:left;
+}
+
+.country_text {
+	width:150px;
+	height:200px;
+	margin:43px 0 0 0;
+	padding:0;
+	font-family:Calibri;
+	text-align:left;
+	font-size:13px;
+	color:#666666;
+	font-weight:bold;
+	font-style:normal;
+}
+.country_text_cs {
+	width:190px;
+	height:200px;
+	margin:0 auto;
+	padding:0;
+	font-family:Calibri;
+	text-align:left;
+	font-size:13px;
+	color:#a5a5a5;
+	font-weight:bold;
+	font-style:normal;
+}
+
+.country_text_cs_2 {
+	width:160px;
+	height:200px;
+	margin:43px 0 0 0;
+	padding:0;
+	font-family:Calibri;
+	text-align:left;
+	font-size:13px;
+	color:#a5a5a5;
+	font-weight:bold;
+	font-style:normal;
+} 

@@ -1,0 +1,499 @@
+﻿body
+{
+    background-image: url(Images/BlueBgr.jpg);
+    background-repeat: repeat-x;
+}
+
+
+.HYPERLINK
+{
+    color: Red;
+}
+.Nodebground
+{
+    background-image: url(Images/BlueBg.jpg);
+    background-repeat: repeat-x;
+}
+
+
+
+.topheader
+{
+    background-image: url(Images/top_line.Gif);
+    background-repeat: repeat-y repeat-x;
+    width: 989px;
+    height: 150px;
+}
+
+.maintableGGG
+{
+    background-image: url(Images/unilince_1.jpg);
+    background-repeat: no-repeat;
+    width: 929px;
+    height: 88px;
+}
+ 
+
+
+.table
+{
+    background-color: #cee3ea;
+    color: WHITE;
+    font-family: Verdana,Arial,Helvetica;
+    font-size: 8.5pt;
+    border-style: groove;
+    border-width: 2;
+    border-color: black; /*border-width:1px; 	border-color:White;*/
+}
+
+
+.tableNew
+{
+   
+    color: WHITE;
+    font-family: Verdana,Arial,Helvetica;
+    font-size: 8.5pt;
+    border-style: groove;
+    border-width: 2;
+    border-color: black; /*border-width:1px; 	border-color:White;*/
+}
+
+.tablemultigrid
+{
+    background-color: #E3E3E3;
+    color: WHITE;
+    font-family: Verdana,Arial,Helvetica;
+    font-size: 8.5pt; /*border-width:1px; 	border-color:White;*/
+}
+.left
+{
+    background-image: url(Images/side_line.Gif);
+    background-repeat: repeat-x;
+    height: 600px;
+}
+.CenterPage
+{
+    color: white;
+    background-color: White;
+}
+.siteLogo
+{
+    background-image: url(Images/EuroCentraLogo.JPG);
+    background-repeat: no-repeat;
+}
+.ErrorMsg /*Old Name errormsg*/
+{
+    font-size: 3mm;
+    color: #ff0000;
+    font-weight: bold;
+    font-family: Verdana,Arial;
+    background-color: transparent;
+}
+.btn {
+	display:inline-block;
+	margin-bottom:0;
+	font-weight:normal;
+	text-align:center;
+	vertical-align:middle;
+	cursor:pointer;
+	background-image:none;
+	border:1px solid transparent;
+	white-space:nowrap;
+	padding:1px 12px;
+	font-size:14px;
+	line-height:1.42857143;
+	border-radius:4px;
+	-webkit-user-select:none;
+	-moz-user-select:none;
+	-ms-user-select:none;
+	user-select:none
+}
+.textbox
+{
+    border: 1px solid #848284;
+    font-family: Arial;
+    font-size: 8.5pt;
+    height: 19px;
+    color: #000000;
+    border: 0; /*width:120px;*/
+}
+.dd
+{
+    
+    font-family: Arial;
+    font-size: 9pt;
+    
+   
+}
+
+.tdHeading
+{
+    width: 925px;
+    border-bottom: navy solid thin;
+    border-top: navy solid thin;
+    border-left: navy solid thin;
+    border-right: navy solid thin;
+    background-color: #669999;
+    font-size: 10pt;
+    font-family: Verdana;
+    color: #FFFFFF;
+    height: 25px;
+}
+
+.textbox2
+{
+    border: 1px solid #848284;
+    font-family: Arial;
+    font-size: 8.5pt;
+    height: 19px;
+    color: #000000;
+    border: 0;
+    width: 80px;
+}
+.textboxxx
+{
+    border: 1px solid #848284;
+    font-family: Arial;
+    font-size: 7pt;
+    height: 19px;
+    color: #000000;
+    border: 0; /*width:120px;*/
+}
+
+.labelNew
+{
+    color: Black;
+    font-family: Verdana;
+    font-size: 8pt;
+}
+.label
+{
+    color: navy;
+    font-family: Verdana;
+    font-size: 8pt;
+    font-weight: bold;
+}
+
+.NormalBoldTextRED
+{
+    text-align: left;
+    color: Red;
+    font-family: Verdana;
+    font-size: 8pt;
+    font-weight: bold;
+}
+.NormalBoldText
+{
+    text-align: left;
+    color: Navy;
+    font-family: Verdana;
+    font-size: 8pt;
+    font-weight: bold;
+}
+.NormalBoldTextDSD
+{
+    text-align: Center;
+    color: Navy;
+    font-family: Verdana;
+    font-size: 8pt;
+    font-weight: bold;
+}
+.labelNoticeBoard
+{
+    font-family: Arial;
+    font-size: small;
+}
+
+.button
+{
+    border: 1px solid #c6cfc6;
+    font-size: 8.5pt;
+    width: 92px;
+    font-family: Verdana, Helvetica, sans-serif;
+    background-color: #f6f6f6;
+}
+
+
+/*************************** GRID ***********************/
+
+
+
+
+.nfntAlternative /*will be automatically removed when custom grid control is used*/
+{
+    color: white;
+    font-family: Verdana;
+    font-size: 8pt;
+    background-color: #d3d3d3;
+    height: 26px;
+    border-width: 1;
+    border-color: #ab9aa3;
+}
+
+.nfntNormal /*will be automatically removed when custom grid control is used*/
+{
+    color: white;
+    font-family: Verdana;
+    font-size: 8pt;
+    background-color: #cccccc;
+    height: 26px;
+    border-width: 1;
+    border-color: #ab9aa3;
+}
+
+.AlternativeRow /*nfntAlternative*/
+{
+    color: white;
+    font-family: Verdana;
+    font-size: 8pt;
+    background-color: #d3d3d3;
+    height: 26px;
+    border-width: 1;
+    border-color: #ab9aa3;
+}
+
+.RowNormal /*nfntNormal*/
+{
+    color: black;
+    font-family: Verdana;
+    font-size: 8pt;
+    background-color: #cccccc;
+    height: 26px;
+    border-width: 1;
+    border-color: #ab9aa3;
+}
+
+.GridRow
+{
+    border-top-width: 1px;
+    border-left-width: 1px;
+    font-size: 8pt;
+    border-left-color: #ab9aa3;
+    border-bottom-width: 1px;
+    border-bottom-color: #ab9aa3;
+    color: black;
+    border-top-color: #ab9aa3;
+    font-family: Verdana;
+    height: 26px;
+    background-color: #f0ffff;
+    border-right-width: 1px;
+    border-right-color: #ab9aa3;
+}
+
+.GridAlternativeRow
+{
+    border-top-width: 1px;
+    border-left-width: 1px;
+    font-size: 8pt;
+    border-left-color: #ab9aa3;
+    border-bottom-width: 1px;
+    border-bottom-color: #ab9aa3;
+    color: black;
+    border-top-color: #ab9aa3;
+    font-family: Verdana;
+    height: 26px;
+    background-color: #e0eee0;
+    border-right-width: 1px;
+    border-right-color: #ab9aa3;
+}
+
+.Linkbutton
+{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 8pt;
+    text-transform: capitalize;
+    color: #ffffff;
+    background-repeat: no-repeat;
+    font-family: Arial;
+    height: 24px;
+}
+
+.GridHeaderStyle
+{
+    font-weight: bold;
+    font-size: 8pt;
+    color: white;
+    font-style: normal;
+    font-family: Verdana;
+    background-color: #838b83;
+    text-align: center;
+    height: 28px;
+}
+
+.GridHeaderStyleNew
+{
+    font-weight: bold;
+    font-size: 8pt;
+    color: Black;
+    font-style: normal;
+    font-family:Ebrima ;
+    background-color: #14C3DE;
+    text-align: center;
+    height: 28px;
+}
+
+.GridPagerStyle
+{
+    color: white;
+    font-family: Verdana;
+    font-size: 8pt;
+    background-color: #838b83;
+    text-align: right;
+    height: 15px;
+}
+
+.GridHover
+{
+    font-size: 8pt;
+    color: white;
+    font-family: Verdana;
+    height: 26px;
+    background-color: #3187b4;
+}
+
+.GridHeader
+{
+    font-weight: bold;
+    font-size: 11px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 22px;
+    background-color: #c8c8c8;
+    text-decoration: none;
+}
+.GridItemText
+{
+    color: black;
+    font-family: Verdana;
+    font-size: 8pt;
+    font-weight: bold;
+}
+
+
+.TableHeaderStyle
+{
+    color: Black;
+    font-family: Arial,Verdana,Helvetica;
+    font-size: 8pt;
+    background-color: #DBE0E6;
+    text-align: center;
+}
+.SavedPageText
+{
+    font-weight: bold;
+    font-size: 8pt;
+    color: #0000ff;
+    font-family: Verdana;
+}
+
+.HeaderStyle
+{
+    color: white;
+    font-family: Arial,Verdana,Helvetica;
+    font-size: 8pt;
+    background-color: #DBE0E6;
+    text-align: center;
+}
+.Test
+{
+    page-break-after: auto;
+}
+
+
+/*    ******************************************  Rounded Corner           */
+Roundedbody
+{
+    background-color: White;
+    margin: 0px;
+    padding: 0px;
+    color: White;
+    font: 16px arial;
+}
+#content
+{
+    margin: auto;
+    width: 780px;
+    height: 100%;
+    padding: 0 0;
+}
+div.rounded-box
+{
+    position: relative;
+    background-color: #cee3ea;
+    margin: 3px;
+    width: 780px;
+    padding: 0 0;
+}
+
+.rounded-boxDS
+{
+    position: relative;
+    background-color: #cee3ea;
+}
+/********************* 
+GLOBAL ATTRIBUTES 
+*********************/div.top-left-corner, div.bottom-left-corner, div.top-right-corner, div.bottom-right-corner
+{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    overflow: hidden;
+}
+div.top-left-inside, div.bottom-left-inside, div.top-right-inside, div.bottom-right-inside
+{
+    position: relative;
+    font-size: 150px;
+    font-family: arial;
+    color: #cee3ea;
+    line-height: 40px;
+}
+/********************* 
+SPECIFIC ATTRIBUTES 
+*********************/div.top-left-corner
+{
+    top: 0px;
+    left: 0px;
+}
+div.bottom-left-corner
+{
+    bottom: 0px;
+    left: 0px;
+}
+div.top-right-corner
+{
+    top: 0px;
+    right: 0px;
+}
+div.bottom-right-corner
+{
+    bottom: 0px;
+    right: 0px;
+}
+div.top-left-inside
+{
+    left: -8px;
+}
+div.bottom-left-inside
+{
+    left: -8px;
+    top: -17px;
+}
+div.top-right-inside
+{
+    left: -25px;
+}
+div.bottom-right-inside
+{
+    left: -25px;
+    top: -17px;
+}
+div.box-contents
+{
+    position: relative;
+    padding: 8px;
+    color: white;
+}
+/*       End of Rouned         */
+

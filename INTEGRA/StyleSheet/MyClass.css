@@ -1,0 +1,97 @@
+﻿td
+{
+     padding: 0;
+}
+ 
+.RadGrid a.bookNowLink:visited,
+.RadGrid a.bookNowLink:link,
+.RadGrid a.bookNowLink:hover,
+.RadGrid a.bookNowLink:active
+{
+     color: #176f8f;
+     text-decoration: none;
+}
+ 
+div.qsf-right-content .qsf-col-wrap
+{
+     padding-right: 0;
+}
+ 
+div.carTitle
+{
+     color: #555555;
+     font-weight: bold;
+     font-size: 15pt;
+     font-family: 'Segoe UI';
+     padding: 30px 0 5px 0;
+}
+ 
+.carBackground
+{
+     background-position: right bottom;
+     background-repeat: no-repeat;
+     height: 263px;
+     border-top: 1px solid #dae2e8;
+     border-bottom: 1px solid #dae2e8;
+}
+ 
+.carInfo
+{
+     color: #555555;
+     font-size: 12px;
+     font-family: 'Segoe UI';
+     line-height: 24px;
+}
+ 
+hr.lineSeparator
+{
+     color: #a9b5be;
+     background-color: #a9b5be;
+     height: 1px;
+     border: none;
+}
+ 
+.bookNowTitle
+{
+     font-size: 20px;
+}
+ 
+.bookNowFrame
+{
+     padding: 20px 20px 0 20px;
+     font-family: 'Segoe UI';
+     color: #2a5e8c;
+}
+ 
+.bookNowComplete
+{
+     font-family: 'Segoe UI';
+     font-size: 18px;
+     color: #000000;
+}
+ 
+.gridPositioning
+{
+     background-image: url("Images/cars_background.png");
+     background-position: 0 0px;
+     background-repeat: no-repeat;
+     padding: 78px 0 50px 71px;
+}
+ 
+.RadWindow .rwCorner .rwTopLeft, .RadWindow .rwTitlebar, .RadWindow .rwCorner .rwTopRight, .RadWindow .rwIcon, .RadWindow table .rwTopLeft, .RadWindow table .rwTopRight, .RadWindow table .rwFooterLeft, .RadWindow table .rwFooterRight, .RadWindow table .rwFooterCenter, .RadWindow table .rwBodyLeft, .RadWindow table .rwBodyRight, .RadWindow table .rwTitlebar, .RadWindow table .rwTopResize, .RadWindow table .rwStatusbar, .RadWindow table .rwStatusbar .rwLoading
+{
+     display: none;
+}
+ 
+.settingsButton
+{
+     margin-left: 182px;
+     margin-bottom: 15px;
+}
+ 
+ 
+div.RadGrid_WebBlue .rgFilterRow td
+{
+     padding-bottom: 4px;
+     padding-top: 8px;
+}

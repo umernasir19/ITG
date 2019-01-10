@@ -1,0 +1,137 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+.hide_image {
+	display:none;
+	position:absolute;
+	margin:60px 0 0 0;
+}
+.image_area {
+	width:180px;
+	height:230px;
+	margin:10px 0 0 10px;
+	float:left;
+	padding:0;
+	background:#FFFFFF;
+	border:3px solid #FFFFFF;
+}
+.image_area:hover {
+	border:3px solid #7a8284;
+}
+.image_area:hover .hide_image {
+	display:block;
+}
+.image {
+	width:180px;
+	height:170px;
+	margin:0 auto;
+	padding:0;
+	border-bottom:8px solid #7a8284;
+}
+.title {
+	width:175px;
+	height:auto;
+	margin:0 0 0 5px;
+	padding:0;
+	font-family: "Trebuchet MS";
+	font-size:13px;
+	text-align:center;
+	color:#505050;
+}
+.price {
+	width:175px;
+	height:auto;
+	margin:15px 0 0 5px;
+	padding:0;
+	text-align:left;
+	font-family: "Trebuchet MS";
+	font-size:17px;
+	font-weight:bold;
+	color:#e60003;
+}
+.big_image {
+	width:300px;
+	height:350px;
+	margin: -17px 0 0 10px;
+	padding:0;
+	float:left;
+	border-radius:5px;
+	
+	
+}
+.form_area {
+	width: 540px;
+height: 341px;
+ margin  : -28px 0 0 -555px;
+	padding:0;
+	float:left;
+	background:#f6f6f6;
+	border-radius:5px;
+	border:1px solid #999999;
+}
+.txtbox_area {
+	width:300px;
+	height:55px;
+	text-align:center;
+	margin:0 auto;
+	padding:0;
+}
+.txt_box {
+	width:500px;
+	height:32px;
+	margin:0 0 0 -115px;
+	padding:0;
+	float:left;
+	font-family:Calibri;
+	font-size:16px;
+	color:#aaaaaa;
+}
+.txt_box textarea {
+	width:500px;
+	height:90px;
+	margin:0 0 0 9px;
+	padding:0 0 4px 5px;
+	float:left;
+	border-radius:5px;
+	font-family:Calibri;
+	font-size:16px;
+	color:#aaaaaa;
+	border: 1px solid #CCCCCC;
+}
+.txt_box input {
+	width:500px;
+	height:25px;
+	margin:0 0 0 9px;
+	padding:0 0 4px 5px;
+	float:left;
+	border-radius:5px;
+	font-family:Calibri;
+	font-size:16px;
+	color:#aaaaaa;
+	border: 1px solid #CCCCCC;
+}
+.txt_form {
+	width:180px;
+	height:20px;
+	margin:0 0 0 -105px;
+	padding:0;
+	text-align:left;
+	font-family:Calibri;
+	color:#636363;
+	font-size:15px;
+}
+
+
+.style_name
+{
+	width:auto;
+	height:auto;
+	margin:20px 0 0 56px;
+	padding:0;
+	font-family:Calibri;
+	font-size:16px;
+	font-weight:bold;
+	text-transform:uppercase;
+}

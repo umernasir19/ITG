@@ -1,0 +1,56 @@
+﻿
+.image{
+width:120px;
+height:120px;
+margin:0 0 0 5px;
+padding:0;
+float:left;
+}
+
+
+.TopHeaderTd3{
+    width:166px;
+    height:30px;
+    border:1px solid #fff;
+	border-radius:5px;
+}
+
+.TopHeaderTd3 input {
+	width:166px;
+	height:25px;
+	margin:0 auto;
+	padding:0;
+	border-radius:5px;
+	border:1px solid #e3e2e2;
+
+}
+
+.TopHeaderTable3
+{
+    width:166px;
+    height:30px;
+    border:1px solid #fff;
+	border-radius:5px;
+}
+
+.TopHeaderTable3 input {
+	width:166px;
+	height:25px;
+	margin:0 auto;
+	padding:0;
+	border-radius:5px;
+	border:1px solid #e3e2e2;
+
+}
+
+
+.table{
+width:725px;
+/*height:258px;*/
+margin:0 auto;
+padding:0;
+float:left;
+background-color :White ;
+border:0;
+}
+
