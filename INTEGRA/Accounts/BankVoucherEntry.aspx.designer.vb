@@ -23,6 +23,15 @@ Partial Public Class BankVoucherEntry
     Protected WithEvents PnlBankVoucher As Global.System.Web.UI.WebControls.Panel
 
     '''<summary>
+    '''lblbnk control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents lblbnk As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
     '''lblBankH control.
     '''</summary>
     '''<remarks>
@@ -30,6 +39,15 @@ Partial Public Class BankVoucherEntry
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents lblBankH As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
+    '''udptxtVoucherNo control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents udptxtVoucherNo As Global.System.Web.UI.UpdatePanel
 
     '''<summary>
     '''txtVoucherNo control.
@@ -50,13 +68,13 @@ Partial Public Class BankVoucherEntry
     Protected WithEvents txtVno As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''txtVoucherdate2 control.
+    '''udptxtVoucherdate control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents txtVoucherdate2 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents udptxtVoucherdate As Global.System.Web.UI.UpdatePanel
 
     '''<summary>
     '''txtVoucherdate control.
@@ -95,24 +113,6 @@ Partial Public Class BankVoucherEntry
     Protected WithEvents MaskedEditExtender1 As Global.AjaxControlToolkit.MaskedEditExtender
 
     '''<summary>
-    '''txtOriginaldate control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents txtOriginaldate As Global.System.Web.UI.WebControls.TextBox
-
-    '''<summary>
-    '''chkshowCalander control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents chkshowCalander As Global.System.Web.UI.WebControls.CheckBox
-
-    '''<summary>
     '''pnlbookaccountMst control.
     '''</summary>
     '''<remarks>
@@ -122,15 +122,6 @@ Partial Public Class BankVoucherEntry
     Protected WithEvents pnlbookaccountMst As Global.System.Web.UI.WebControls.Panel
 
     '''<summary>
-    '''udpcmbBookAccount control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents udpcmbBookAccount As Global.System.Web.UI.UpdatePanel
-
-    '''<summary>
     '''cmbBookAccount control.
     '''</summary>
     '''<remarks>
@@ -138,15 +129,6 @@ Partial Public Class BankVoucherEntry
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents cmbBookAccount As Global.System.Web.UI.WebControls.DropDownList
-
-    '''<summary>
-    '''lbldrcrM control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents lbldrcrM As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
     '''pnlbookaccountMstSearch control.
@@ -221,15 +203,6 @@ Partial Public Class BankVoucherEntry
     Protected WithEvents txtBookAccountLevel As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''pnlMasterDesc control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents pnlMasterDesc As Global.System.Web.UI.WebControls.Panel
-
-    '''<summary>
     '''udptxtdescription control.
     '''</summary>
     '''<remarks>
@@ -248,31 +221,13 @@ Partial Public Class BankVoucherEntry
     Protected WithEvents txtdescription As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''udptxtBankbalance control.
+    '''udpcmbVoucherType control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents udptxtBankbalance As Global.System.Web.UI.UpdatePanel
-
-    '''<summary>
-    '''txtBankbalance control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents txtBankbalance As Global.System.Web.UI.WebControls.TextBox
-
-    '''<summary>
-    '''lblCurrBalanceCRDR control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents lblCurrBalanceCRDR As Global.System.Web.UI.WebControls.Label
+    Protected WithEvents udpcmbVoucherType As Global.System.Web.UI.UpdatePanel
 
     '''<summary>
     '''cmbVoucherType control.
@@ -284,13 +239,58 @@ Partial Public Class BankVoucherEntry
     Protected WithEvents cmbVoucherType As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
-    '''txtTotalPayment control.
+    '''UpdatePanel1 control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents txtTotalPayment As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents UpdatePanel1 As Global.System.Web.UI.UpdatePanel
+
+    '''<summary>
+    '''cmbpaytype control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents cmbpaytype As Global.System.Web.UI.WebControls.DropDownList
+
+    '''<summary>
+    '''UpdatePanel2 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents UpdatePanel2 As Global.System.Web.UI.UpdatePanel
+
+    '''<summary>
+    '''Label2 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents Label2 As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
+    '''UpdatePanel3 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents UpdatePanel3 As Global.System.Web.UI.UpdatePanel
+
+    '''<summary>
+    '''cmbpresented control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents cmbpresented As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
     '''udptxtchequeNo control.
@@ -446,78 +446,6 @@ Partial Public Class BankVoucherEntry
     Protected WithEvents txtAccountLevel As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''lbldrcrD control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents lbldrcrD As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
-    '''udptxtLedgerBalance control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents udptxtLedgerBalance As Global.System.Web.UI.UpdatePanel
-
-    '''<summary>
-    '''txtLedgerBalance control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents txtLedgerBalance As Global.System.Web.UI.WebControls.TextBox
-
-    '''<summary>
-    '''lblLedgerBalanceCRDR control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents lblLedgerBalanceCRDR As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
-    '''UpdatePanel1 control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents UpdatePanel1 As Global.System.Web.UI.UpdatePanel
-
-    '''<summary>
-    '''txtCostCenter control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents txtCostCenter As Global.System.Web.UI.WebControls.TextBox
-
-    '''<summary>
-    '''AutoCompleteExtender3 control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents AutoCompleteExtender3 As Global.AjaxControlToolkit.AutoCompleteExtender
-
-    '''<summary>
-    '''lblCostCenterId control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents lblCostCenterId As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
     '''udptxtDescriptionDetail control.
     '''</summary>
     '''<remarks>
@@ -662,67 +590,49 @@ Partial Public Class BankVoucherEntry
     Protected WithEvents txtRefNo As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''upGetArticle control.
+    '''udpcmbCurrency control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents upGetArticle As Global.System.Web.UI.UpdatePanel
+    Protected WithEvents udpcmbCurrency As Global.System.Web.UI.UpdatePanel
 
     '''<summary>
-    '''LinkToShowPageOFAllInvoiceDetail control.
+    '''cmbCurrency control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents LinkToShowPageOFAllInvoiceDetail As Global.System.Web.UI.WebControls.LinkButton
+    Protected WithEvents cmbCurrency As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
-    '''udppnlllfalse control.
+    '''Label1 control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents udppnlllfalse As Global.System.Web.UI.UpdatePanel
+    Protected WithEvents Label1 As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
-    '''pnlllfalse control.
+    '''udpExchangeRate control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents pnlllfalse As Global.System.Web.UI.WebControls.Panel
+    Protected WithEvents udpExchangeRate As Global.System.Web.UI.UpdatePanel
 
     '''<summary>
-    '''lblinvhdng control.
+    '''txtxchangeRate control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents lblinvhdng As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
-    '''txtShowMeINV control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents txtShowMeINV As Global.System.Web.UI.WebControls.TextBox
-
-    '''<summary>
-    '''AutoCompleteExtender2 control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents AutoCompleteExtender2 As Global.AjaxControlToolkit.AutoCompleteExtender
+    Protected WithEvents txtxchangeRate As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''udpdgs control.
@@ -752,15 +662,6 @@ Partial Public Class BankVoucherEntry
     Protected WithEvents btnAdd As Global.System.Web.UI.WebControls.Button
 
     '''<summary>
-    '''lblerorMsgg control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents lblerorMsgg As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
     '''dgView control.
     '''</summary>
     '''<remarks>
@@ -788,22 +689,13 @@ Partial Public Class BankVoucherEntry
     Protected WithEvents lbltotalAmount As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
-    '''pnldgpaymentDetailInvoicewise control.
+    '''udpbtnsavesss control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents pnldgpaymentDetailInvoicewise As Global.System.Web.UI.WebControls.Panel
-
-    '''<summary>
-    '''dgpaymentDetailInvoicewise control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents dgpaymentDetailInvoicewise As Global.SmartControls.Controls.SmartDataGrid
+    Protected WithEvents udpbtnsavesss As Global.System.Web.UI.UpdatePanel
 
     '''<summary>
     '''LblInvoiceMstId control.
@@ -813,15 +705,6 @@ Partial Public Class BankVoucherEntry
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents LblInvoiceMstId As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
-    '''udpbtnUpadateInv control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents udpbtnUpadateInv As Global.System.Web.UI.UpdatePanel
 
     '''<summary>
     '''btnUpadateInv control.
@@ -867,4 +750,67 @@ Partial Public Class BankVoucherEntry
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents LblSupplierId As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
+    '''ConfirmButtonExtender1 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents ConfirmButtonExtender1 As Global.AjaxControlToolkit.ConfirmButtonExtender
+
+    '''<summary>
+    '''ModalPopupExtender2 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents ModalPopupExtender2 As Global.AjaxControlToolkit.ModalPopupExtender
+
+    '''<summary>
+    '''PNLL control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents PNLL As Global.System.Web.UI.WebControls.Panel
+
+    '''<summary>
+    '''Image2 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents Image2 As Global.System.Web.UI.WebControls.Image
+
+    '''<summary>
+    '''lblUserr control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents lblUserr As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
+    '''ButtonOkK control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents ButtonOkK As Global.System.Web.UI.WebControls.ImageButton
+
+    '''<summary>
+    '''ButtonCancell control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents ButtonCancell As Global.System.Web.UI.WebControls.ImageButton
 End Class

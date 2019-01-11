@@ -6,6 +6,8 @@ Imports CrystalDecisions.Shared
 Imports System.IO
 Imports System.Data.SqlClient
 Imports System.Web.UI.HtmlControls.HtmlTable
+Imports Integra.classes
+
 Public Class LedgerReportNew
     Inherits System.Web.UI.Page
     Dim ObjtblBankMst As New tblBankMst

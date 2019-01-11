@@ -32,6 +32,24 @@ Partial Public Class BankVoucherView
     Protected WithEvents autoComplete1 As Global.AjaxControlToolkit.AutoCompleteExtender
 
     '''<summary>
+    '''txtdrcr control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents txtdrcr As Global.System.Web.UI.WebControls.TextBox
+
+    '''<summary>
+    '''AutoCompleteExtender1 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents AutoCompleteExtender1 As Global.AjaxControlToolkit.AutoCompleteExtender
+
+    '''<summary>
     '''btnSearch control.
     '''</summary>
     '''<remarks>
@@ -57,6 +75,24 @@ Partial Public Class BankVoucherView
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents cmdAddCash As Global.System.Web.UI.WebControls.Button
+
+    '''<summary>
+    '''dgHeader control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents dgHeader As Global.SmartControls.Controls.SmartDataGrid
+
+    '''<summary>
+    '''div1 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents div1 As Global.System.Web.UI.HtmlControls.HtmlGenericControl
 
     '''<summary>
     '''dgView control.

@@ -5,6 +5,8 @@ Imports CrystalDecisions.Shared
 Imports System.IO
 Imports System.Data.SqlClient
 Imports System.Web.UI.HtmlControls.HtmlTable
+Imports Integra.classes
+
 Public Class LedgerReport
     Inherits System.Web.UI.Page
     Dim ObjtblBankMst As New tblBankMst
@@ -75,7 +77,7 @@ Public Class LedgerReport
         '    txtEndDate.Text = "30/" & codemonth & "/" & Year
         'End If
     End Sub
-  Protected Sub lnkprint_Click(ByVal sender As Object, ByVal e As System.Web.UI.ImageClickEventArgs) Handles lnkprint.Click
+    Protected Sub lnkprint_Click(ByVal sender As Object, ByVal e As System.Web.UI.ImageClickEventArgs) Handles lnkprint.Click
         Try
             'Session("BANKsDATE") = txtStartDate.SelectedDate
             'Session("BANKeeDATE") = txtEndDate.SelectedDate

@@ -5,6 +5,8 @@ Imports System.IO
 Imports System.Data.SqlClient
 Imports System.Web.UI.HtmlControls.HtmlTable
 Imports Integra.EuroCentra
+Imports Integra.classes
+
 Public Class GroupSummary
     Inherits System.Web.UI.Page
     Dim ObjtblBankMst As New tblBankMst

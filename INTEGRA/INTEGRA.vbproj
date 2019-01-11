@@ -124,6 +124,20 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Accounts\BankVoucherEntry.aspx.designer.vb">
+      <DependentUpon>BankVoucherEntry.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Accounts\BankVoucherEntry.aspx.vb">
+      <DependentUpon>BankVoucherEntry.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Accounts\BankVoucherView.aspx.designer.vb">
+      <DependentUpon>BankVoucherView.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Accounts\BankVoucherView.aspx.vb">
+      <DependentUpon>BankVoucherView.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="Accounts\LedgerReportNew.aspx.designer.vb">
       <DependentUpon>LedgerReportNew.aspx</DependentUpon>
     </Compile>
@@ -752,13 +766,6 @@
       <DependentUpon>SupplierFollowUpReport.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
-    <Compile Include="Reports\TrailBalanceForNIMPEX.aspx.designer.vb">
-      <DependentUpon>TrailBalanceForNIMPEX.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Reports\TrailBalanceForNIMPEX.aspx.vb">
-      <DependentUpon>TrailBalanceForNIMPEX.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
     <Compile Include="Reports\UnitWiseProductionReport.aspx.designer.vb">
       <DependentUpon>UnitWiseProductionReport.aspx</DependentUpon>
     </Compile>
@@ -837,8 +844,6 @@
     <Content Include="Accounts\CashVoucherEntry.aspx" />
     <Content Include="Accounts\CashVoucherView.aspx" />
     <Content Include="Accounts\CdDbPurchaseOrder.aspx" />
-    <Content Include="Accounts\ContraVoucherAdd.aspx" />
-    <Content Include="Accounts\ContraVoucherView.aspx" />
     <Content Include="Accounts\CostCenterView.aspx" />
     <Content Include="Accounts\CostingCenter.aspx" />
     <Content Include="Accounts\CrdDbNotePOView.aspx" />
@@ -892,20 +897,6 @@
       <DependentUpon>AccountsTree.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
-    <Compile Include="Accounts\BankVoucherEntry.aspx.designer.vb">
-      <DependentUpon>BankVoucherEntry.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Accounts\BankVoucherEntry.aspx.vb">
-      <DependentUpon>BankVoucherEntry.aspx</DependentUpon>
-      <SubType>ASPXCodebehind</SubType>
-    </Compile>
-    <Compile Include="Accounts\BankVoucherView.aspx.designer.vb">
-      <DependentUpon>BankVoucherView.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Accounts\BankVoucherView.aspx.vb">
-      <DependentUpon>BankVoucherView.aspx</DependentUpon>
-      <SubType>ASPXCodebehind</SubType>
-    </Compile>
     <Compile Include="Accounts\CashVoucherEntry.aspx.designer.vb">
       <DependentUpon>CashVoucherEntry.aspx</DependentUpon>
     </Compile>
@@ -925,20 +916,6 @@
     </Compile>
     <Compile Include="Accounts\CdDbPurchaseOrder.aspx.vb">
       <DependentUpon>CdDbPurchaseOrder.aspx</DependentUpon>
-      <SubType>ASPXCodebehind</SubType>
-    </Compile>
-    <Compile Include="Accounts\ContraVoucherAdd.aspx.designer.vb">
-      <DependentUpon>ContraVoucherAdd.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Accounts\ContraVoucherAdd.aspx.vb">
-      <DependentUpon>ContraVoucherAdd.aspx</DependentUpon>
-      <SubType>ASPXCodebehind</SubType>
-    </Compile>
-    <Compile Include="Accounts\ContraVoucherView.aspx.designer.vb">
-      <DependentUpon>ContraVoucherView.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Accounts\ContraVoucherView.aspx.vb">
-      <DependentUpon>ContraVoucherView.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="Accounts\CostCenterView.aspx.designer.vb">
@@ -1970,7 +1947,6 @@
     <Content Include="Reports\SupplierListReport.aspx" />
     <Content Include="Reports\SupplierPriceIndex.aspx" />
     <Content Include="Reports\SupplierSamplingPerformance.aspx" />
-    <Content Include="Reports\TrailBalanceForNIMPEX.aspx" />
     <Content Include="Reports\TrialBalanceReport.aspx" />
     <Content Include="Reports\UnitWiseProductionReport.aspx" />
     <Content Include="Reports\WashIssueSheet.aspx" />
@@ -5901,7 +5877,7 @@
           <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
         </WebProjectProperties>
       </FlavorProperties>
-      <UserProperties UseAjaxifiedTemplates="True" UseJQuerySupport="True" />
+      <UserProperties UseJQuerySupport="True" UseAjaxifiedTemplates="True" />
     </VisualStudio>
   </ProjectExtensions>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

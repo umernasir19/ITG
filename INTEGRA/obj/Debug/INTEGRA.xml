@@ -6,7 +6,799 @@ INTEGRA
 </name>
 </assembly>
 <members>
-<member name="F:Integra.MailRealizationAdd.txtToEmail">
+<member name="F:Integra.BankVoucherEntry.PnlBankVoucher">
+	<summary>
+PnlBankVoucher control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.lblbnk">
+	<summary>
+lblbnk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.lblBankH">
+	<summary>
+lblBankH control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.udptxtVoucherNo">
+	<summary>
+udptxtVoucherNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.txtVoucherNo">
+	<summary>
+txtVoucherNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.txtVno">
+	<summary>
+txtVno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.udptxtVoucherdate">
+	<summary>
+udptxtVoucherdate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.txtVoucherdate">
+	<summary>
+txtVoucherdate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.CalendarExtender1">
+	<summary>
+CalendarExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.ImageButton1">
+	<summary>
+ImageButton1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.MaskedEditExtender1">
+	<summary>
+MaskedEditExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.pnlbookaccountMst">
+	<summary>
+pnlbookaccountMst control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.cmbBookAccount">
+	<summary>
+cmbBookAccount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.pnlbookaccountMstSearch">
+	<summary>
+pnlbookaccountMstSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.txtBookAccountName">
+	<summary>
+txtBookAccountName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.AutoCompleteExtender1">
+	<summary>
+AutoCompleteExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.btnSearchUPdatebookaccount">
+	<summary>
+btnSearchUPdatebookaccount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.udpBookAccount">
+	<summary>
+udpBookAccount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.txtBookAccountCode">
+	<summary>
+txtBookAccountCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.udpGrid3">
+	<summary>
+udpGrid3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.txtBookAccountLevel">
+	<summary>
+txtBookAccountLevel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.udptxtdescription">
+	<summary>
+udptxtdescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.txtdescription">
+	<summary>
+txtdescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.udpcmbVoucherType">
+	<summary>
+udpcmbVoucherType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.cmbVoucherType">
+	<summary>
+cmbVoucherType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.cmbpaytype">
+	<summary>
+cmbpaytype control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.UpdatePanel2">
+	<summary>
+UpdatePanel2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.UpdatePanel3">
+	<summary>
+UpdatePanel3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.cmbpresented">
+	<summary>
+cmbpresented control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.udptxtchequeNo">
+	<summary>
+udptxtchequeNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.txtchequeNo">
+	<summary>
+txtchequeNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.udptxtchequedate">
+	<summary>
+udptxtchequedate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.txtchequedate">
+	<summary>
+txtchequedate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.CalendarExtender2">
+	<summary>
+CalendarExtender2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.ImageButton2">
+	<summary>
+ImageButton2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.MaskedEditExtender2">
+	<summary>
+MaskedEditExtender2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.pnlAccountCodedtl">
+	<summary>
+pnlAccountCodedtl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.cmbAccountCode">
+	<summary>
+cmbAccountCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.pnlAccountCodedtlSearchAuto">
+	<summary>
+pnlAccountCodedtlSearchAuto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.udptxtAccountName">
+	<summary>
+udptxtAccountName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.txtAccountName">
+	<summary>
+txtAccountName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.autoComplete1">
+	<summary>
+autoComplete1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.udpGrid">
+	<summary>
+udpGrid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.txtAccountCode">
+	<summary>
+txtAccountCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.udpGrid1">
+	<summary>
+udpGrid1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.txtAccountLevel">
+	<summary>
+txtAccountLevel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.udptxtDescriptionDetail">
+	<summary>
+udptxtDescriptionDetail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.txtDescriptionDetail">
+	<summary>
+txtDescriptionDetail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.udcmbType">
+	<summary>
+udcmbType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.cmbType">
+	<summary>
+cmbType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.udplbldetail">
+	<summary>
+udplbldetail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.lbldetail">
+	<summary>
+lbldetail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.udpcmbPaymentTerms">
+	<summary>
+udpcmbPaymentTerms control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.cmbPaymentTerms">
+	<summary>
+cmbPaymentTerms control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.udplblNetAmount">
+	<summary>
+udplblNetAmount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.lblNetAmount">
+	<summary>
+lblNetAmount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.udptxtPaymentAmount">
+	<summary>
+udptxtPaymentAmount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.txtPaymentAmount">
+	<summary>
+txtPaymentAmount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.udplblRefNo">
+	<summary>
+udplblRefNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.lblRefNo">
+	<summary>
+lblRefNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.udptxtRefNo">
+	<summary>
+udptxtRefNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.txtRefNo">
+	<summary>
+txtRefNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.udpcmbCurrency">
+	<summary>
+udpcmbCurrency control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.cmbCurrency">
+	<summary>
+cmbCurrency control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.udpExchangeRate">
+	<summary>
+udpExchangeRate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.txtxchangeRate">
+	<summary>
+txtxchangeRate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.udpdgs">
+	<summary>
+udpdgs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.dgInvoice">
+	<summary>
+dgInvoice control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.btnAdd">
+	<summary>
+btnAdd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.dgView">
+	<summary>
+dgView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.lblTotalHding">
+	<summary>
+lblTotalHding control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.lbltotalAmount">
+	<summary>
+lbltotalAmount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.udpbtnsavesss">
+	<summary>
+udpbtnsavesss control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.LblInvoiceMstId">
+	<summary>
+LblInvoiceMstId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.btnUpadateInv">
+	<summary>
+btnUpadateInv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.BtnCanelInv">
+	<summary>
+BtnCanelInv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.txtTotalWHTaxAmount">
+	<summary>
+txtTotalWHTaxAmount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.txtTotalSTaxAmount">
+	<summary>
+txtTotalSTaxAmount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.LblSupplierId">
+	<summary>
+LblSupplierId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.ConfirmButtonExtender1">
+	<summary>
+ConfirmButtonExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.ModalPopupExtender2">
+	<summary>
+ModalPopupExtender2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.PNLL">
+	<summary>
+PNLL control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.Image2">
+	<summary>
+Image2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.lblUserr">
+	<summary>
+lblUserr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.ButtonOkK">
+	<summary>
+ButtonOkK control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherEntry.ButtonCancell">
+	<summary>
+ButtonCancell control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherView.txtShowMe">
+	<summary>
+txtShowMe control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherView.autoComplete1">
+	<summary>
+autoComplete1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherView.txtdrcr">
+	<summary>
+txtdrcr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherView.AutoCompleteExtender1">
+	<summary>
+AutoCompleteExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherView.btnSearch">
+	<summary>
+btnSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherView.cmdAdd">
+	<summary>
+cmdAdd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherView.cmdAddCash">
+	<summary>
+cmdAddCash control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherView.dgHeader">
+	<summary>
+dgHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherView.div1">
+	<summary>
+div1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.BankVoucherView.dgView">
+	<summary>
+dgView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Integra.MailRealizationAdd.txtToEmail">
 	<summary>
 txtToEmail control.
 </summary>
@@ -30087,310 +30879,6 @@ btnSave control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Integra.ContraVoucherAdd.txtContraNo">
-	<summary>
-txtContraNo control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.lblHddate">
-	<summary>
-lblHddate control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.txtVoucherdate2">
-	<summary>
-txtVoucherdate2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.txtContradate">
-	<summary>
-txtContradate control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.CalendarExtender1">
-	<summary>
-CalendarExtender1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.ImageButton1">
-	<summary>
-ImageButton1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.MaskedEditExtender1">
-	<summary>
-MaskedEditExtender1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.chkshowCalander">
-	<summary>
-chkshowCalander control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.txtchkno">
-	<summary>
-txtchkno control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.cmbAccount">
-	<summary>
-cmbAccount control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.lbldrcrM">
-	<summary>
-lbldrcrM control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.udptxtBankbalance">
-	<summary>
-udptxtBankbalance control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.txtBankbalance">
-	<summary>
-txtBankbalance control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.lblCurrBalanceCRDR">
-	<summary>
-lblCurrBalanceCRDR control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.txtAccountName">
-	<summary>
-txtAccountName control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.autoComplete1">
-	<summary>
-autoComplete1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.btnSearchUPdate">
-	<summary>
-btnSearchUPdate control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.udpGrid">
-	<summary>
-udpGrid control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.txtAccountCode">
-	<summary>
-txtAccountCode control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.udpGrid1">
-	<summary>
-udpGrid1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.txtAccountLevel">
-	<summary>
-txtAccountLevel control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.lbldrcrD">
-	<summary>
-lbldrcrD control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.udptxtLedgerBalance">
-	<summary>
-udptxtLedgerBalance control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.txtLedgerBalance">
-	<summary>
-txtLedgerBalance control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.lblLedgerBalanceCRDR">
-	<summary>
-lblLedgerBalanceCRDR control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.txtCostCenter">
-	<summary>
-txtCostCenter control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.AutoCompleteExtender1">
-	<summary>
-AutoCompleteExtender1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.UpdatePanel1">
-	<summary>
-UpdatePanel1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.lblCostCenterId">
-	<summary>
-lblCostCenterId control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.txtAmount">
-	<summary>
-txtAmount control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.txtNarration">
-	<summary>
-txtNarration control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.btnAdd">
-	<summary>
-btnAdd control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.lbldetail">
-	<summary>
-lbldetail control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.dgView">
-	<summary>
-dgView control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.btnCancel">
-	<summary>
-btnCancel control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherAdd.btnSave">
-	<summary>
-btnSave control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherView.cmdAdd">
-	<summary>
-cmdAdd control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.ContraVoucherView.dgView">
-	<summary>
-dgView control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
 </member><member name="F:Integra.InvoiceLedger.cmbSupplier">
 	<summary>
 cmbSupplier control.
@@ -46522,766 +47010,6 @@ btnReport control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Integra.BankVoucherEntry.PnlBankVoucher">
-	<summary>
-PnlBankVoucher control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.lblBankH">
-	<summary>
-lblBankH control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.txtVoucherNo">
-	<summary>
-txtVoucherNo control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.txtVno">
-	<summary>
-txtVno control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.txtVoucherdate2">
-	<summary>
-txtVoucherdate2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.txtVoucherdate">
-	<summary>
-txtVoucherdate control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.CalendarExtender1">
-	<summary>
-CalendarExtender1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.ImageButton1">
-	<summary>
-ImageButton1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.MaskedEditExtender1">
-	<summary>
-MaskedEditExtender1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.txtOriginaldate">
-	<summary>
-txtOriginaldate control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.chkshowCalander">
-	<summary>
-chkshowCalander control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.pnlbookaccountMst">
-	<summary>
-pnlbookaccountMst control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.udpcmbBookAccount">
-	<summary>
-udpcmbBookAccount control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.cmbBookAccount">
-	<summary>
-cmbBookAccount control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.lbldrcrM">
-	<summary>
-lbldrcrM control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.pnlbookaccountMstSearch">
-	<summary>
-pnlbookaccountMstSearch control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.txtBookAccountName">
-	<summary>
-txtBookAccountName control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.AutoCompleteExtender1">
-	<summary>
-AutoCompleteExtender1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.btnSearchUPdatebookaccount">
-	<summary>
-btnSearchUPdatebookaccount control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.udpBookAccount">
-	<summary>
-udpBookAccount control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.txtBookAccountCode">
-	<summary>
-txtBookAccountCode control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.udpGrid3">
-	<summary>
-udpGrid3 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.txtBookAccountLevel">
-	<summary>
-txtBookAccountLevel control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.pnlMasterDesc">
-	<summary>
-pnlMasterDesc control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.udptxtdescription">
-	<summary>
-udptxtdescription control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.txtdescription">
-	<summary>
-txtdescription control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.udptxtBankbalance">
-	<summary>
-udptxtBankbalance control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.txtBankbalance">
-	<summary>
-txtBankbalance control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.lblCurrBalanceCRDR">
-	<summary>
-lblCurrBalanceCRDR control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.cmbVoucherType">
-	<summary>
-cmbVoucherType control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.txtTotalPayment">
-	<summary>
-txtTotalPayment control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.udptxtchequeNo">
-	<summary>
-udptxtchequeNo control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.txtchequeNo">
-	<summary>
-txtchequeNo control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.udptxtchequedate">
-	<summary>
-udptxtchequedate control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.txtchequedate">
-	<summary>
-txtchequedate control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.CalendarExtender2">
-	<summary>
-CalendarExtender2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.ImageButton2">
-	<summary>
-ImageButton2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.MaskedEditExtender2">
-	<summary>
-MaskedEditExtender2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.pnlAccountCodedtl">
-	<summary>
-pnlAccountCodedtl control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.cmbAccountCode">
-	<summary>
-cmbAccountCode control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.pnlAccountCodedtlSearchAuto">
-	<summary>
-pnlAccountCodedtlSearchAuto control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.udptxtAccountName">
-	<summary>
-udptxtAccountName control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.txtAccountName">
-	<summary>
-txtAccountName control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.autoComplete1">
-	<summary>
-autoComplete1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.udpGrid">
-	<summary>
-udpGrid control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.txtAccountCode">
-	<summary>
-txtAccountCode control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.udpGrid1">
-	<summary>
-udpGrid1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.txtAccountLevel">
-	<summary>
-txtAccountLevel control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.lbldrcrD">
-	<summary>
-lbldrcrD control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.udptxtLedgerBalance">
-	<summary>
-udptxtLedgerBalance control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.txtLedgerBalance">
-	<summary>
-txtLedgerBalance control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.lblLedgerBalanceCRDR">
-	<summary>
-lblLedgerBalanceCRDR control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.UpdatePanel1">
-	<summary>
-UpdatePanel1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.txtCostCenter">
-	<summary>
-txtCostCenter control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.AutoCompleteExtender3">
-	<summary>
-AutoCompleteExtender3 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.lblCostCenterId">
-	<summary>
-lblCostCenterId control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.udptxtDescriptionDetail">
-	<summary>
-udptxtDescriptionDetail control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.txtDescriptionDetail">
-	<summary>
-txtDescriptionDetail control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.udcmbType">
-	<summary>
-udcmbType control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.cmbType">
-	<summary>
-cmbType control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.udplbldetail">
-	<summary>
-udplbldetail control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.lbldetail">
-	<summary>
-lbldetail control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.udpcmbPaymentTerms">
-	<summary>
-udpcmbPaymentTerms control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.cmbPaymentTerms">
-	<summary>
-cmbPaymentTerms control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.udplblNetAmount">
-	<summary>
-udplblNetAmount control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.lblNetAmount">
-	<summary>
-lblNetAmount control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.udptxtPaymentAmount">
-	<summary>
-udptxtPaymentAmount control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.txtPaymentAmount">
-	<summary>
-txtPaymentAmount control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.udplblRefNo">
-	<summary>
-udplblRefNo control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.lblRefNo">
-	<summary>
-lblRefNo control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.udptxtRefNo">
-	<summary>
-udptxtRefNo control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.txtRefNo">
-	<summary>
-txtRefNo control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.upGetArticle">
-	<summary>
-upGetArticle control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.LinkToShowPageOFAllInvoiceDetail">
-	<summary>
-LinkToShowPageOFAllInvoiceDetail control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.udppnlllfalse">
-	<summary>
-udppnlllfalse control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.pnlllfalse">
-	<summary>
-pnlllfalse control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.lblinvhdng">
-	<summary>
-lblinvhdng control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.txtShowMeINV">
-	<summary>
-txtShowMeINV control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.AutoCompleteExtender2">
-	<summary>
-AutoCompleteExtender2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.udpdgs">
-	<summary>
-udpdgs control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.dgInvoice">
-	<summary>
-dgInvoice control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.btnAdd">
-	<summary>
-btnAdd control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.lblerorMsgg">
-	<summary>
-lblerorMsgg control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.dgView">
-	<summary>
-dgView control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.lblTotalHding">
-	<summary>
-lblTotalHding control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.lbltotalAmount">
-	<summary>
-lbltotalAmount control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.pnldgpaymentDetailInvoicewise">
-	<summary>
-pnldgpaymentDetailInvoicewise control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.dgpaymentDetailInvoicewise">
-	<summary>
-dgpaymentDetailInvoicewise control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.LblInvoiceMstId">
-	<summary>
-LblInvoiceMstId control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.udpbtnUpadateInv">
-	<summary>
-udpbtnUpadateInv control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.btnUpadateInv">
-	<summary>
-btnUpadateInv control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.BtnCanelInv">
-	<summary>
-BtnCanelInv control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.txtTotalWHTaxAmount">
-	<summary>
-txtTotalWHTaxAmount control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.txtTotalSTaxAmount">
-	<summary>
-txtTotalSTaxAmount control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherEntry.LblSupplierId">
-	<summary>
-LblSupplierId control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
 </member><member name="F:Integra.AccountSubGroupEntry.lblMSG">
 	<summary>
 lblMSG control.
@@ -53479,86 +53207,6 @@ btnReport control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Integra.TrailBalanceForNIMPEX.cmbSession">
-	<summary>
-cmbSession control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.TrailBalanceForNIMPEX.txtstartdate">
-	<summary>
-txtstartdate control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.TrailBalanceForNIMPEX.CalendarExtender2">
-	<summary>
-CalendarExtender2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.TrailBalanceForNIMPEX.ImageButton2">
-	<summary>
-ImageButton2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.TrailBalanceForNIMPEX.MaskedEditExtender2">
-	<summary>
-MaskedEditExtender2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.TrailBalanceForNIMPEX.txtEndDate">
-	<summary>
-txtEndDate control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.TrailBalanceForNIMPEX.CalendarExtender1">
-	<summary>
-CalendarExtender1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.TrailBalanceForNIMPEX.ImageButton1">
-	<summary>
-ImageButton1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.TrailBalanceForNIMPEX.MaskedEditExtender1">
-	<summary>
-MaskedEditExtender1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.TrailBalanceForNIMPEX.btnReport">
-	<summary>
-btnReport control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
 </member><member name="F:Integra.CostCenterView.btndAdd">
 	<summary>
 btndAdd control.
@@ -53575,7 +53223,7 @@ dgView control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="M:Integra.EuroCentra.tblBankMst.TruncateTempLedgerTable">
+</member><member name="M:Integra.classes.tblBankMst.TruncateTempLedgerTable">
 ---------FunctionsFor Ledger report
 
 </member><member name="F:Integra.AccChecklistEntry.pnlCopy">
@@ -56973,54 +56621,6 @@ To modify move field declaration from designer file to code-behind file.
 </member><member name="F:Integra.MenuBuilder.dgMenuBuilder">
 	<summary>
 dgMenuBuilder control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherView.txtShowMe">
-	<summary>
-txtShowMe control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherView.autoComplete1">
-	<summary>
-autoComplete1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherView.btnSearch">
-	<summary>
-btnSearch control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherView.cmdAdd">
-	<summary>
-cmdAdd control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherView.cmdAddCash">
-	<summary>
-cmdAddCash control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Integra.BankVoucherView.dgView">
-	<summary>
-dgView control.
 </summary>
 	<remarks>
 Auto-generated field.

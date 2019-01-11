@@ -1,10 +1,12 @@
-﻿Imports System.Data 
+﻿Imports System.Data
 Imports CrystalDecisions.CrystalReports.Engine
 Imports CrystalDecisions.Shared
 Imports System.IO
 Imports System.Data.SqlClient
 Imports System.Web.UI.HtmlControls.HtmlTable
 Imports Integra.EuroCentra
+Imports Integra.classes
+
 Partial Class TrailBalanceForNIMPEX
     Inherits System.Web.UI.Page
     Dim ObjtblBankMst As New tblBankMst
@@ -161,7 +163,7 @@ Partial Class TrailBalanceForNIMPEX
                     Catch ex As Exception
                         OpenDebitBPV = 0
                     End Try
-                    
+
                     dtBPVCR = ObjtblBankMst.GetSumCreditBPVNew(objDataTable.Rows(x)("Accountcode"), sdatee, edate)
                     Try
                         If dtBPVCR.Rows.Count > 0 Then
@@ -173,7 +175,7 @@ Partial Class TrailBalanceForNIMPEX
                     Catch ex As Exception
                         CreditBPV = 0
                     End Try
-                   
+
                     dtOBPVCR = ObjtblBankMst.GetOpeningSumCreditBPV(objDataTable.Rows(x)("Accountcode"), sdatee)
                     Try
                         If dtOBPVCR.Rows.Count > 0 Then
@@ -184,7 +186,7 @@ Partial Class TrailBalanceForNIMPEX
                     Catch ex As Exception
                         OpeningCreditBPV = 0
                     End Try
-                     
+
 
                     '---PVDB
                     dtBPVDBMaster = ObjtblBankMst.GetSumCreditBPVMasterNew(objDataTable.Rows(x)("Accountcode"), sdatee, edate)
@@ -198,7 +200,7 @@ Partial Class TrailBalanceForNIMPEX
                     Catch ex As Exception
                         CreditBPVMaster = 0
                     End Try
-                   
+
                     dtOBPVDBMaster = ObjtblBankMst.GetOpeningSumCreditBPVMaster(objDataTable.Rows(x)("Accountcode"), sdatee)
                     Try
                         If dtOBPVDBMaster.Rows.Count > 0 Then
@@ -210,7 +212,7 @@ Partial Class TrailBalanceForNIMPEX
                     Catch ex As Exception
                         OpeningCreditBPVMaster = 0
                     End Try
-                   
+
                     dtBPVCRMaster = ObjtblBankMst.GetSumDebitBPVMasterNew(objDataTable.Rows(x)("Accountcode"), sdatee, edate)
                     Try
                         If dtBPVCRMaster.Rows.Count > 0 Then
@@ -222,7 +224,7 @@ Partial Class TrailBalanceForNIMPEX
                     Catch ex As Exception
                         DebitBPVMaster = 0
                     End Try
-                   
+
                     dtOBPVCRMaster = ObjtblBankMst.GetOpeningSumDebitBPVMaster(objDataTable.Rows(x)("Accountcode"), sdatee)
                     Try
                         If dtOBPVCRMaster.Rows.Count > 0 Then
@@ -233,7 +235,7 @@ Partial Class TrailBalanceForNIMPEX
                     Catch ex As Exception
                         OpeningDebitBPVMaster = 0
                     End Try
-                    
+
                     TotalBankDb = DebitBPV + DebitBPVMaster
                     TotalBankCR = CreditBPV + CreditBPVMaster
 
@@ -249,7 +251,7 @@ Partial Class TrailBalanceForNIMPEX
                     Catch ex As Exception
                         JVDebit = 0
                     End Try
-                    
+
                     '---JVDB
                     dtOJVDB = ObjtblBankMst.GetOpeningSumDebitJV(objDataTable.Rows(x)("Accountcode"), sdatee)
                     Try
@@ -262,7 +264,7 @@ Partial Class TrailBalanceForNIMPEX
                     Catch ex As Exception
                         OpeningJVDebit = 0
                     End Try
-                    
+
                     dtJVCR = ObjtblBankMst.GetSumCreditJV(objDataTable.Rows(x)("Accountcode"), sdatee, edate)
                     Try
                         If dtJVCR.Rows.Count > 0 Then
@@ -273,7 +275,7 @@ Partial Class TrailBalanceForNIMPEX
                     Catch ex As Exception
                         JVCredit = 0
                     End Try
-                    
+
                     'Opeing
                     Try
                         dtOJVCR = ObjtblBankMst.GetOpeningSumCreditJV(objDataTable.Rows(x)("Accountcode"), sdatee)
@@ -408,7 +410,7 @@ Partial Class TrailBalanceForNIMPEX
                     Catch ex As Exception
                         OpeningContraDebit = 0
                     End Try
-                    
+
                     '---ContraCR
                     dtContraCr = ObjTemTrialBalance.GetSumCreditContra(objDataTable.Rows(x)("Accountcode"), sdatee, edate)
                     Try
@@ -420,7 +422,7 @@ Partial Class TrailBalanceForNIMPEX
                     Catch ex As Exception
                         CreditContra = 0
                     End Try
-                   
+
                     '---Contra OPEING cr
 
                     dtOBContraCr = ObjTemTrialBalance.GetSumCreditContraOB(objDataTable.Rows(x)("Accountcode"), sdatee)
@@ -453,7 +455,7 @@ Partial Class TrailBalanceForNIMPEX
                         InvAmtDebit = 0
                         InvAmtCredit = 0
                     End Try
-                    
+
                     '---Inv Opening
                     Dim DtIivOpening As DataTable
                     Dim OpeningInvAmtDebit As Decimal = 0
@@ -471,7 +473,7 @@ Partial Class TrailBalanceForNIMPEX
                         OpeningInvAmtDebit = 0
                         OpeningInvAmtCredit = 0
                     End Try
-                   
+
                     '======================WHT Bank data
                     '---PVDB
                     Dim dtDebitWht, dtDebitWhtOB As New DataTable
@@ -518,7 +520,7 @@ Partial Class TrailBalanceForNIMPEX
                                 Catch ex As Exception
 
                                 End Try
-                                
+
                                 '---OPEING
                                 dtDebitWhtOB = ObjtblBankMst.GetSumDebitBPVWHTOB(objDataTable.Rows(x)("Accountcode"), sdatee)
                                 Try
@@ -536,10 +538,10 @@ Partial Class TrailBalanceForNIMPEX
                     Catch ex As Exception
 
                     End Try
-                    
-                     
+
+
                     DebitPV = 0
-                   
+
                     CreditPV = 0
 
 
@@ -553,7 +555,7 @@ Partial Class TrailBalanceForNIMPEX
                     Catch ex As Exception
 
                     End Try
-                    
+
                     ''=============End=================================
                     Try
                         Dr = dt.NewRow()
@@ -666,7 +668,7 @@ Partial Class TrailBalanceForNIMPEX
                 For X0 = 0 To Dt0.Rows.Count - 1
                     Dim Dt1Data, Dt1Qty As DataTable
                     Dt1Data = ObjtblBankMst.GetNAmeForTB(Dt0.Rows(X0)("accountcode").ToString)
- 
+
                     '-----
                     If Dt1Data.Rows.Count > 0 Then
                         Dim dt2data, Dt2Qty As DataTable
@@ -745,15 +747,15 @@ Partial Class TrailBalanceForNIMPEX
             Next
             Dim FINANCIALYEAR As String
 
-            FINANCIALYEAR = cmbSession.SelectedItem.Text  
+            FINANCIALYEAR = cmbSession.SelectedItem.Text
 
             Dim StartDate As Date = txtstartdate.Text
-            Dim EndDate As Date = txtEndDate.Text 
+            Dim EndDate As Date = txtEndDate.Text
 
             Report.Load(Server.MapPath("~/Reports/Report11111111111.rpt"))
 
 
-            Report.Refresh() 
+            Report.Refresh()
 
             Report.SetParameterValue(0, StartDate)
             Report.SetParameterValue(1, EndDate)
@@ -785,7 +787,7 @@ Partial Class TrailBalanceForNIMPEX
             Response.BinaryWrite(Buffer)
             Response.Flush()
             Response.End()
-             
+
 
         Catch ex As Exception
 

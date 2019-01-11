@@ -1,6 +1,6 @@
 Imports Microsoft.VisualBasic
 Imports System.Data
-Namespace EuroCentra
+Namespace classes
     Public Class tblBankDtl
 
         Inherits SQLManager
@@ -46,16 +46,10 @@ Namespace EuroCentra
         Private m_dGSTaxAmountDB As Decimal
 
         Private m_lPaymentTermID As Long
+        Private m_lCurrencyID As Long
+        Private m_strCurrencyName As String
+        Private m_dcExchangeRate As Decimal
 
-        Private m_lCostCenterId As Long
-        Public Property CostCenterId() As Long
-            Get
-                CostCenterId = m_lCostCenterId
-            End Get
-            Set(ByVal Value As Long)
-                m_lCostCenterId = Value
-            End Set
-        End Property
 
         Public Property tblBankDtlID() As Long
             Get
@@ -327,6 +321,32 @@ Namespace EuroCentra
             End Get
             Set(ByVal Value As Long)
                 m_lPaymentTermID = Value
+            End Set
+        End Property
+
+        Public Property CurrencyID() As Long
+            Get
+                CurrencyID = m_lCurrencyID
+            End Get
+            Set(ByVal Value As Long)
+                m_lCurrencyID = Value
+            End Set
+        End Property
+
+        Public Property CurrencyName() As String
+            Get
+                CurrencyName = m_strCurrencyName
+            End Get
+            Set(ByVal Value As String)
+                m_strCurrencyName = Value
+            End Set
+        End Property
+        Public Property ExchangeRate() As Decimal
+            Get
+                ExchangeRate = m_dcExchangeRate
+            End Get
+            Set(ByVal Value As Decimal)
+                m_dcExchangeRate = Value
             End Set
         End Property
         Public Function SavetblBankDtl()

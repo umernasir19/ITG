@@ -1,6 +1,8 @@
 ﻿Imports System.Data
 Imports System.Data.DataTable
 Imports Integra.EuroCentra
+Imports Integra.classes
+
 Public Class ContraVoucherAdd
     Inherits System.Web.UI.Page
     Dim Dr As DataRow
@@ -10,7 +12,7 @@ Public Class ContraVoucherAdd
     Dim ObjContraVoucherDtl As New ContraVoucherDtl
     Dim lContraVoucherMstID As Long
     Dim objgeneralCode As New GeneralCode
-    Dim objtblBankMst As New tblBankMst 
+    Dim objtblBankMst As New tblBankMst
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
         lContraVoucherMstID = Request.QueryString("lContraVoucherMstID")
         If Not Page.IsPostBack Then
@@ -396,7 +398,7 @@ Public Class ContraVoucherAdd
                 .Columns.Add("Cost", GetType(String))
             End With
         End If
-        Dr = dtDetail.NewRow() 
+        Dr = dtDetail.NewRow()
         If lbldetail.Text = "" Then
             Dr("ContraVoucherDtlID") = 0
         Else
@@ -752,13 +754,13 @@ Public Class ContraVoucherAdd
     End Sub
 
     Sub SetDetailValuesByDataTable(ByVal dtrowNo As Long)
-        Try 
+        Try
             lbldetail.Text = dtDetail.Rows(dtrowNo)("ContraVoucherDtlID")
             txtAccountName.Text = dtDetail.Rows(dtrowNo)("Particulars").ToUpper
             txtAccountCode.Text = dtDetail.Rows(dtrowNo)("AccountCode")
             txtNarration.Text = dtDetail.Rows(dtrowNo)("Narration")
             txtAmount.Text = dtDetail.Rows(dtrowNo)("Amount")
-            lbldrcrD.Text = dtDetail.Rows(dtrowNo)("DrCr") 
+            lbldrcrD.Text = dtDetail.Rows(dtrowNo)("DrCr")
             lblCostCenterId.Text = dtDetail.Rows(dtrowNo)("CostCenterId")
             txtCostCenter.Text = dtDetail.Rows(dtrowNo)("Cost")
         Catch ex As Exception
